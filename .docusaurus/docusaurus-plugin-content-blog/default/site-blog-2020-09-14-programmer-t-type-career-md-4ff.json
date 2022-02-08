@@ -1,0 +1,32 @@
+{
+  "permalink": "/programmer-t-type-career",
+  "source": "@site/blog/2020-09-14-programmer-t-type-career.md",
+  "title": "职业规划：程序员的 T 字形发展攻略",
+  "description": "你是不是在面对市面上众多的技术的时候，不知道选择哪个才能对自己的职业和未来发展有所帮助？有这样的想法是正常的，因为随着科学的发展，现在的编程技术已经到了百花齐放的地步了。那么这么多的技术和领域，我们到底应该选哪一个才比较好呢？",
+  "date": "2020-09-14T00:00:00.000Z",
+  "formattedDate": "2020年9月14日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "职业",
+      "permalink": "/tags/职业"
+    },
+    {
+      "label": "经验",
+      "permalink": "/tags/经验"
+    }
+  ],
+  "readingTime": 0.375,
+  "truncated": true,
+  "prevItem": {
+    "title": "鸿蒙 OS：使用 JavaScript 开发 Todo App UI 界面",
+    "permalink": "/harmonyos-js-todo"
+  },
+  "nextItem": {
+    "title": "前端工程师到底要学到什么程序才能去找工作？成功面试的必备要素与回答技巧",
+    "permalink": "/frontend-looking-for-jobs"
+  }
+}

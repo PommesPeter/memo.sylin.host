@@ -1,0 +1,39 @@
+{
+  "unversionedId": "videos/css/css-container-queries-intro/css-container-queries-intro",
+  "id": "videos/css/css-container-queries-intro/css-container-queries-intro",
+  "isDocsHomePage": false,
+  "title": "CSS最新特性 Container Queries 介绍",
+  "description": "SS Container Queries 是最新的响应式设计方式，通过它，可以方便的对通用的组件，进行响应式设计, 根据容器的尺寸去调整它内部元素的排列，而不是基于浏览器的宽度。",
+  "source": "@site/docs/videos/css/12-css-container-queries-intro/index.md",
+  "sourceDirName": "videos/css/12-css-container-queries-intro",
+  "slug": "/videos/css/css-container-queries-intro",
+  "permalink": "/docs/videos/css/css-container-queries-intro",
+  "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/css/12-css-container-queries-intro/index.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {
+    "id": "css-container-queries-intro",
+    "title": "CSS最新特性 Container Queries 介绍",
+    "slug": "../css-container-queries-intro",
+    "description": "SS Container Queries 是最新的响应式设计方式，通过它，可以方便的对通用的组件，进行响应式设计, 根据容器的尺寸去调整它内部元素的排列，而不是基于浏览器的宽度。",
+    "keywords": [
+      "css",
+      "container queries",
+      "css container queries",
+      "响应式",
+      "容器查询",
+      "前端",
+      "frontend"
+    ]
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "利用 CSS conic-gradient 制作饼图和色盘",
+    "permalink": "/docs/videos/css/css-conic-gradient-tutorial"
+  },
+  "next": {
+    "title": "CSS 常用样式属性",
+    "permalink": "/docs/videos/css/css-common-properties"
+  }
+}

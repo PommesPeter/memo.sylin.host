@@ -1,0 +1,28 @@
+{
+  "permalink": "/frontend-devs-must-know-websites",
+  "source": "@site/blog/2020-02-29-frontend-devs-must-know-websites.md",
+  "title": "11个前端工程师必备的网站",
+  "description": "好多小伙伴有疑问，就是说有哪些值得去关注的前端网站，我知道大家可能都苦于找不到一些有价值的,还有值得信赖的网站去学一些比较货真价实的前端技术。生怕有哪些水文或者是一些乱七八糟的网站，把咱们的这个知识给误导了。这里呢我准备了几个我经常关注的一些网站，一部分是国外的，然后有一部分是国内的，因为国内的好多的都是质量参差不齐，但国外的话普遍的质量比较高（事实如此）。不过呢，咱们国内的也有一些比较好的平台，我在这里给咱们一共准备了 11 个可以关注的网站。",
+  "date": "2020-02-29T00:00:00.000Z",
+  "formattedDate": "2020年2月29日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "职业",
+      "permalink": "/tags/职业"
+    }
+  ],
+  "readingTime": 0.915,
+  "truncated": true,
+  "prevItem": {
+    "title": "程序员如何提升英语水平",
+    "permalink": "/learning-english-for-coders"
+  },
+  "nextItem": {
+    "title": "2020年最新前端工程师学习路线",
+    "permalink": "/front-end-learning-path"
+  }
+}

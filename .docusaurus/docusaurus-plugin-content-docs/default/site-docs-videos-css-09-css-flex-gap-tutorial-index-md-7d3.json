@@ -1,0 +1,38 @@
+{
+  "unversionedId": "videos/css/css-flex-gap-tutorial/css-flex-gap-tutorial",
+  "id": "videos/css/css-flex-gap-tutorial/css-flex-gap-tutorial",
+  "isDocsHomePage": false,
+  "title": "使用 Gap 属性给 CSS Flex 布局设置间距",
+  "description": "我们知道css grid 布局有 gap 属性，可以让行和列之间有同样的空隙，但是有的时候我们并不需要使用 grid 布局，而是只想对一行，或者是一列元素，调整它的间距，如果在 flex 下也能使用 gap 就好了。",
+  "source": "@site/docs/videos/css/09-css-flex-gap-tutorial/index.md",
+  "sourceDirName": "videos/css/09-css-flex-gap-tutorial",
+  "slug": "/videos/css/css-flex-gap-tutorial",
+  "permalink": "/docs/videos/css/css-flex-gap-tutorial",
+  "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/css/09-css-flex-gap-tutorial/index.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {
+    "id": "css-flex-gap-tutorial",
+    "title": "使用 Gap 属性给 CSS Flex 布局设置间距",
+    "slug": "../css-flex-gap-tutorial",
+    "description": "我们知道css grid 布局有 gap 属性，可以让行和列之间有同样的空隙，但是有的时候我们并不需要使用 grid 布局，而是只想对一行，或者是一列元素，调整它的间距，如果在 flex 下也能使用 gap 就好了。",
+    "keywords": [
+      "css",
+      "flex",
+      "gap",
+      "布局",
+      "前端",
+      "frontend"
+    ]
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "使用 CSS 实现 word 中的图片文字环绕效果",
+    "permalink": "/docs/videos/css/css-text-image-wrap"
+  },
+  "next": {
+    "title": "利用 CSS Counter 计数器添加章节序号",
+    "permalink": "/docs/videos/css/css-counter-state-management"
+  }
+}

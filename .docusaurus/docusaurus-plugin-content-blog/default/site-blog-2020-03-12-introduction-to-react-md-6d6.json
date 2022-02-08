@@ -1,0 +1,28 @@
+{
+  "permalink": "/React-intro",
+  "source": "@site/blog/2020-03-12-introduction-to-react.md",
+  "title": "什么是 React？你为什么应该学React？",
+  "description": "Hello! 今天来带你走进 React 的大门！我第一次听说 React 是我在美国读研的时候，室友选了 web programming 这节课，然后遇到了关于 react 的好多问题...",
+  "date": "2020-03-12T00:00:00.000Z",
+  "formattedDate": "2020年3月12日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "React",
+      "permalink": "/tags/react"
+    }
+  ],
+  "readingTime": 1.895,
+  "truncated": true,
+  "prevItem": {
+    "title": "React Props 教程 - 制作一个按钮",
+    "permalink": "/learn-react-props-buttons"
+  },
+  "nextItem": {
+    "title": "使用 Docusaurus 搭建个人博客教程（二）",
+    "permalink": "/deploy-a-docusaurus-site-part2"
+  }
+}

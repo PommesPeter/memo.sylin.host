@@ -1,0 +1,38 @@
+{
+  "unversionedId": "videos/vue/vue-echarts-bar-chart/vue-echarts-bar-chart",
+  "id": "videos/vue/vue-echarts-bar-chart/vue-echarts-bar-chart",
+  "isDocsHomePage": false,
+  "title": "Vue 3.0 + Echarts 电影票房数据可视化柱状图展示",
+  "description": "数据可视化已经成为前端发展的一个重要的方向了，利用大数据可以预测趋势、行为。那么数据在进行计算出来之后，最重要 的一步就是进行展示，不展示出来，再好的数据也没说服力。这个视频就看一下，如何利用咱们上期封装好的 Vue Echarts 组件，来展示一下电影票房柱状图的实现过程。先看一效果。",
+  "source": "@site/docs/videos/vue/05-vue-echarts-bar-chart/index.md",
+  "sourceDirName": "videos/vue/05-vue-echarts-bar-chart",
+  "slug": "/videos/vue/vue-echarts-bar-chart",
+  "permalink": "/docs/videos/vue/vue-echarts-bar-chart",
+  "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/vue/05-vue-echarts-bar-chart/index.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {
+    "id": "vue-echarts-bar-chart",
+    "title": "Vue 3.0 + Echarts 电影票房数据可视化柱状图展示",
+    "slug": "../vue-echarts-bar-chart",
+    "description": "数据可视化已经成为前端发展的一个重要的方向了，利用大数据可以预测趋势、行为。那么数据在进行计算出来之后，最重要 的一步就是进行展示，不展示出来，再好的数据也没说服力。这个视频就看一下，如何利用咱们上期封装好的 Vue Echarts 组件，来展示一下电影票房柱状图的实现过程。先看一效果。",
+    "keywords": [
+      "vue",
+      "echarts",
+      "柱状图",
+      "票房",
+      "前端",
+      "frontend"
+    ]
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "封装 Echarts 为 Vue.js 组件教程",
+    "permalink": "/docs/videos/vue/vue-echarts-integration"
+  },
+  "next": {
+    "title": "Vue 3.0 + ECharts 实现电影票房自定义环形图教程",
+    "permalink": "/docs/videos/vue/vue-echarts-doughnut-chart"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "videos/css/css-hsl-color/css-hsl-color",
+  "id": "videos/css/css-hsl-color/css-hsl-color",
+  "isDocsHomePage": false,
+  "title": "CSS HSL：更直观、可复用的 CSS 颜色表示法，不再盲猜颜色",
+  "description": "CSS 的定位通过 position 属性设置，它有 static, relative, absolute, fixed, sticky 这几种。",
+  "source": "@site/docs/videos/css/06-css-hsl-color/index.md",
+  "sourceDirName": "videos/css/06-css-hsl-color",
+  "slug": "/videos/css/css-hsl-color",
+  "permalink": "/docs/videos/css/css-hsl-color",
+  "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/css/06-css-hsl-color/index.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {
+    "id": "css-hsl-color",
+    "title": "CSS HSL：更直观、可复用的 CSS 颜色表示法，不再盲猜颜色",
+    "description": "CSS 的定位通过 position 属性设置，它有 static, relative, absolute, fixed, sticky 这几种。",
+    "slug": "../css-hsl-color",
+    "keywords": [
+      "css",
+      "color",
+      "hsl",
+      "颜色",
+      "前端",
+      "frontend"
+    ]
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "CSS 5 大定位属性 Static, Relative, Absolute, Fixed, Sticky 使用教程",
+    "permalink": "/docs/videos/css/css-position"
+  },
+  "next": {
+    "title": "使用 2 行 CSS 代码居中元素",
+    "permalink": "/docs/videos/css/css-grid-place-items"
+  }
+}

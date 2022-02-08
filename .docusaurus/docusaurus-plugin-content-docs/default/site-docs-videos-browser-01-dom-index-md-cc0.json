@@ -1,0 +1,37 @@
+{
+  "unversionedId": "videos/browser/dom/what-is-dom",
+  "id": "videos/browser/dom/what-is-dom",
+  "isDocsHomePage": false,
+  "title": "HTML DOM 入门简介",
+  "description": "什么是 DOM，有哪些特点？和 HTML、JavaScript 有什么关系？这个 2 分钟的动画视频带你了解 DOM。",
+  "source": "@site/docs/videos/browser/01-dom/index.md",
+  "sourceDirName": "videos/browser/01-dom",
+  "slug": "/videos/browser/what-is-dom",
+  "permalink": "/docs/videos/browser/what-is-dom",
+  "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/browser/01-dom/index.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {
+    "id": "what-is-dom",
+    "title": "HTML DOM 入门简介",
+    "description": "什么是 DOM，有哪些特点？和 HTML、JavaScript 有什么关系？这个 2 分钟的动画视频带你了解 DOM。",
+    "slug": "../what-is-dom",
+    "keywords": [
+      "JavaScript",
+      "dom",
+      "html",
+      "browser",
+      "frontend"
+    ]
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "JS 实现鼠标滚轮横向滚动特效",
+    "permalink": "/docs/videos/effects/js-horizontal-scroll-effect"
+  },
+  "next": {
+    "title": "什么是 BOM？与 HTML DOM 有什么区别？",
+    "permalink": "/docs/videos/browser/what-is-bom"
+  }
+}

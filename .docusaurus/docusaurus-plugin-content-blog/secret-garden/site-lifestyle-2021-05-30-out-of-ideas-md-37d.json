@@ -1,0 +1,24 @@
+{
+  "permalink": "/lifestyle/out-of-ideas",
+  "source": "@site/lifestyle/2021-05-30-out-of-ideas.md",
+  "title": "如果没有灵感，就尽情放松吧",
+  "description": "灵感真是个神奇的东西，在夜深人静的时候，能无穷无尽的迸发，在日间繁忙的事务中却又消失的无影无踪，或者在某段日子里，灵感都是持续出现的，而在其它日子里，却好像死灰一样，没有任何创意的火花。",
+  "date": "2021-05-30T00:00:00.000Z",
+  "formattedDate": "2021年5月30日",
+  "tags": [
+    {
+      "label": "日记",
+      "permalink": "/lifestyle/tags/日记"
+    }
+  ],
+  "readingTime": 0.02,
+  "truncated": false,
+  "prevItem": {
+    "title": "写技术博客，质量和数量该如何保证？",
+    "permalink": "/lifestyle/writing-technical-blogs"
+  },
+  "nextItem": {
+    "title": "入手DIY森某IE800s耳机，性价比不错",
+    "permalink": "/lifestyle/diy-earbuds"
+  }
+}

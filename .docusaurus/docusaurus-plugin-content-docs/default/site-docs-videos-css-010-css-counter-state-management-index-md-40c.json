@@ -1,0 +1,40 @@
+{
+  "unversionedId": "videos/css/css-counter-state-management/css-counter-state-management",
+  "id": "videos/css/css-counter-state-management/css-counter-state-management",
+  "isDocsHomePage": false,
+  "title": "利用 CSS Counter 计数器添加章节序号",
+  "description": "我们在写 markdown 或者博客这种以内容为主的网页的时候，经常会有给标题加上序号的需求，就跟写书一样，在一级标题前加上第 1 章、第 2 章等，二级标题加上 1.1，1.2 之类的序号，三级标题则为 1.1.1、1.1.2",
+  "source": "@site/docs/videos/css/010-css-counter-state-management/index.md",
+  "sourceDirName": "videos/css/010-css-counter-state-management",
+  "slug": "/videos/css/css-counter-state-management",
+  "permalink": "/docs/videos/css/css-counter-state-management",
+  "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/css/010-css-counter-state-management/index.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {
+    "id": "css-counter-state-management",
+    "title": "利用 CSS Counter 计数器添加章节序号",
+    "slug": "../css-counter-state-management",
+    "description": "我们在写 markdown 或者博客这种以内容为主的网页的时候，经常会有给标题加上序号的需求，就跟写书一样，在一级标题前加上第 1 章、第 2 章等，二级标题加上 1.1，1.2 之类的序号，三级标题则为 1.1.1、1.1.2",
+    "keywords": [
+      "css",
+      "counter",
+      "counter-reset",
+      "counter-increment",
+      "计数器",
+      "css 计数器",
+      "前端",
+      "frontend"
+    ]
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "使用 Gap 属性给 CSS Flex 布局设置间距",
+    "permalink": "/docs/videos/css/css-flex-gap-tutorial"
+  },
+  "next": {
+    "title": "利用 CSS conic-gradient 制作饼图和色盘",
+    "permalink": "/docs/videos/css/css-conic-gradient-tutorial"
+  }
+}

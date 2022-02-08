@@ -1,0 +1,28 @@
+{
+  "permalink": "/5-tips-to-master-css",
+  "source": "@site/blog/2020-04-29-5-tips-to-master-css.mdx",
+  "title": "5个技巧助你成为 CSS 大神",
+  "description": "都说 CSS 很难掌握，最愁给页面编写样式，其实都是因为还没有形成一个对 CSS 宏观的了解，只要有了正确的学习方法、设计思维，再通过不断的积累，就能轻松的掌握它。接下来我会把掌握 CSS 的 5 个技巧整理一下，让你在以后编写 CSS 的时候不再发愁。",
+  "date": "2020-04-29T00:00:00.000Z",
+  "formattedDate": "2020年4月29日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "css",
+      "permalink": "/tags/css"
+    }
+  ],
+  "readingTime": 0.89,
+  "truncated": true,
+  "prevItem": {
+    "title": "前后端通信之 HTTP 协议简介",
+    "permalink": "/http-protocol"
+  },
+  "nextItem": {
+    "title": "CSS Flexbox 布局最容易理解完全教程",
+    "permalink": "/css-flex-box-layout"
+  }
+}

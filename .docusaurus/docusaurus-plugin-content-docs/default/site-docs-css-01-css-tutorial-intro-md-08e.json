@@ -1,0 +1,32 @@
+{
+  "unversionedId": "css/css-tutorial-intro",
+  "id": "css/css-tutorial-intro",
+  "isDocsHomePage": false,
+  "title": "CSS 完全指南简介",
+  "description": "CSS 完全指南教程用于学习 CSS 的语法、常见的布局实现（例如 Grid、Flex 布局）、以及进阶的样式实现（例如响应式布局、动画、3D变换和绘图相关)",
+  "source": "@site/docs/css/01-css-tutorial-intro.md",
+  "sourceDirName": "css",
+  "slug": "/css/css-tutorial-intro",
+  "permalink": "/docs/css/css-tutorial-intro",
+  "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/css/01-css-tutorial-intro.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "css-tutorial-intro",
+    "title": "CSS 完全指南简介",
+    "description": "CSS 完全指南教程用于学习 CSS 的语法、常见的布局实现（例如 Grid、Flex 布局）、以及进阶的样式实现（例如响应式布局、动画、3D变换和绘图相关)",
+    "keywords": [
+      "css",
+      "css 完全指南",
+      "css 教程",
+      "frontend"
+    ]
+  },
+  "sidebar": "css_tutorials",
+  "next": {
+    "title": "CSS 简介",
+    "permalink": "/docs/css/basic/css-intro"
+  }
+}

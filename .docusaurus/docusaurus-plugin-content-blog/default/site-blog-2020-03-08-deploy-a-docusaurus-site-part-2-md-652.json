@@ -1,0 +1,28 @@
+{
+  "permalink": "/deploy-a-docusaurus-site-part2",
+  "source": "@site/blog/2020-03-08-deploy-a-docusaurus-site-part2.md",
+  "title": "使用 Docusaurus 搭建个人博客教程（二）",
+  "description": "如果你看了上期视频的话，那么你应该学会了怎么在本地搭建一个 docusaurus 博客，但是你不能只在本地来看这个博客吧，得让全世界来欣赏你的杰作，所以说咱们得把这个博客部署到服务器上。部署有两种方式：",
+  "date": "2020-03-08T00:00:00.000Z",
+  "formattedDate": "2020年3月8日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "职业",
+      "permalink": "/tags/职业"
+    }
+  ],
+  "readingTime": 2.225,
+  "truncated": true,
+  "prevItem": {
+    "title": "什么是 React？你为什么应该学React？",
+    "permalink": "/React-intro"
+  },
+  "nextItem": {
+    "title": "使用 Docusaurus 搭建个人博客教程（一）",
+    "permalink": "/deploy-a-docusaurus-site"
+  }
+}

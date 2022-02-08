@@ -38,12 +38,12 @@ function BlogListPage(props) {
   const isPaginated = metadata.page > 1;
 
   let title = siteTitle + "";
-  let suffix = "- 让你学会前端开发";
+  let suffix = "| life as a programmer, developer, and developer";
   let description = `html, css, javascript, react, vue 前端教程，以及 B站视频教程合集和配套文本、系统教程、编程博客和前端资源导航。致力于帮助你以最直观、最快速的方式学会前端开发。`;
   if (metadata.permalink === "/lifestyle") {
-    title = "随笔";
-    suffix = "- 峰华前端工程师";
-    description = "一个前端 UP 主的生活方式、思想感悟、学习经验等";
+    title = "简介";
+    suffix = "| CVer";
+    description = "一个正在致力于研究计算机视觉的苦逼大学生";
   }
 
   // Get all post views
@@ -59,13 +59,11 @@ function BlogListPage(props) {
     <Layout
       title={title}
       description={description}
-      wrapperClassName="blog-list__page"
-    >
+      wrapperClassName="blog-list__page">
       <Head>
         <meta
           name="keywords"
-          content="前端, html, css, js, javascript, react, vue, typescript, es6, html5, css3, 性能优化, 兼容性调整"
-        />
+          content="前端, html, css, js, javascript, react, vue, typescript, es6, html5, css3, 性能优化, 兼容性调整" />
         <title>{title + suffix}</title>
       </Head>
       {!isPaginated && isBlogOnlyMode && <Hero />}
@@ -189,11 +187,10 @@ function BlogListPage(props) {
                                     ) => (
                                       <Link
                                         key={tagPermalink}
-                                        className={`post__tags ${
-                                          index < tags.length
-                                            ? "margin-right--sm"
-                                            : ""
-                                        }`}
+                                        className={`post__tags ${index < tags.length
+                                          ? "margin-right--sm"
+                                          : ""
+                                          }`}
                                         to={tagPermalink}
                                         style={{
                                           fontSize: "0.75em",

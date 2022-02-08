@@ -1,0 +1,28 @@
+{
+  "permalink": "/typescript-intro",
+  "source": "@site/blog/2020-06-09-typescript-intro.md",
+  "title": "噢！原来这就是 TypeScript",
+  "description": "TypeScript 是 JavaScript 的，带有类型的超集，并且可以编译为 JavaScript 脚本，这篇幅文章将带你认识一下 TypeScript",
+  "date": "2020-06-09T00:00:00.000Z",
+  "formattedDate": "2020年6月9日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "TypeScript",
+      "permalink": "/tags/type-script"
+    }
+  ],
+  "readingTime": 4.68,
+  "truncated": true,
+  "prevItem": {
+    "title": "前端工程师到底要学到什么程序才能去找工作？成功面试的必备要素与回答技巧",
+    "permalink": "/frontend-looking-for-jobs"
+  },
+  "nextItem": {
+    "title": "给前端工程师看的后端科普",
+    "permalink": "/backend-intro"
+  }
+}

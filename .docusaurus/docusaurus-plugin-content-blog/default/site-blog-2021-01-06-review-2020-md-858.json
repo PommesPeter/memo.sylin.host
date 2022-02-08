@@ -1,0 +1,28 @@
+{
+  "permalink": "/review-2020",
+  "source": "@site/blog/2021-01-06-review-2020.md",
+  "title": "回顾2020，程序员转型的起步",
+  "description": "对未来的焦虑应该是每个程序员都能体会到的吧，面对招聘的年龄门槛、工作与生活的平衡、不良的生活习惯，以后的路要怎么走充满了不确定性。但是又因为程序员是技术工种，自己所掌握的技能可以从接外包、作产品、写博客、录视频等多方面进行输出，看似又不缺出路，只是怀疑能不能做好，所以一边担心自己能不能转型或改行，一边又极其期望逃离没有出头之日的 996 ，这是一个难题。",
+  "date": "2021-01-06T00:00:00.000Z",
+  "formattedDate": "2021年1月6日",
+  "tags": [
+    {
+      "label": "个人",
+      "permalink": "/tags/个人"
+    },
+    {
+      "label": "经验",
+      "permalink": "/tags/经验"
+    }
+  ],
+  "readingTime": 0.825,
+  "truncated": true,
+  "prevItem": {
+    "title": "从 0 仿微信 8.0 动态表情实现过程",
+    "permalink": "/wechat-stickers-effect"
+  },
+  "nextItem": {
+    "title": "整理了5个JavaScript怪异行为及其原因",
+    "permalink": "/5-javascript-tricky-problems"
+  }
+}

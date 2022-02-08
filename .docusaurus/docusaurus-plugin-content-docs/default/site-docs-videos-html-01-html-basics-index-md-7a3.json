@@ -1,0 +1,36 @@
+{
+  "unversionedId": "videos/html/html-basics/html-basics",
+  "id": "videos/html/html-basics/html-basics",
+  "isDocsHomePage": false,
+  "title": "HTML 网页制作基础入门教程",
+  "description": "一个视频快速了解 HTML 基础，从零开始编写自己的网页。",
+  "source": "@site/docs/videos/html/01-html-basics/index.md",
+  "sourceDirName": "videos/html/01-html-basics",
+  "slug": "/videos/html/html-get-started",
+  "permalink": "/docs/videos/html/html-get-started",
+  "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/html/01-html-basics/index.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {
+    "id": "html-basics",
+    "title": "HTML 网页制作基础入门教程",
+    "description": "一个视频快速了解 HTML 基础，从零开始编写自己的网页。",
+    "slug": "../html-get-started",
+    "keywords": [
+      "html",
+      "html5",
+      "主义化",
+      "frontend"
+    ]
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "CSS 过渡和动画属性",
+    "permalink": "/docs/videos/css/css-transition-keyframes-intro"
+  },
+  "next": {
+    "title": "创建一个工业风的网站 | HTML & CSS 入门教程",
+    "permalink": "/docs/videos/projects/html-css-full-website-idustrial"
+  }
+}

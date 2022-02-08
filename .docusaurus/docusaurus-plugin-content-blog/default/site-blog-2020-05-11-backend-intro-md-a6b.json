@@ -1,0 +1,28 @@
+{
+  "permalink": "/backend-intro",
+  "source": "@site/blog/2020-05-11-backend-intro.md",
+  "title": "给前端工程师看的后端科普",
+  "description": "前端工程师了解后端的功能和作用之后，能更好的和后端工程师进行沟通，减少沟通成本，另外也有助于向全栈工程师方向发展。",
+  "date": "2020-05-11T00:00:00.000Z",
+  "formattedDate": "2020年5月11日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "后端",
+      "permalink": "/tags/后端"
+    }
+  ],
+  "readingTime": 0.485,
+  "truncated": true,
+  "prevItem": {
+    "title": "噢！原来这就是 TypeScript",
+    "permalink": "/typescript-intro"
+  },
+  "nextItem": {
+    "title": "前后端通信之 HTTP 协议简介",
+    "permalink": "/http-protocol"
+  }
+}

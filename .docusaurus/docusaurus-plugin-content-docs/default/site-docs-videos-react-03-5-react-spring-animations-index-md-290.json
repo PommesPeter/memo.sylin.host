@@ -1,0 +1,30 @@
+{
+  "unversionedId": "videos/react/03-5-react-spring-animations/5-react-spring-animations",
+  "id": "videos/react/03-5-react-spring-animations/5-react-spring-animations",
+  "isDocsHomePage": false,
+  "title": "精选 5 个 React Spring 前端动画",
+  "description": "来自 react-spring 官网的 5 个酷炫、复杂的动画示例，通过学习代码可以掌握高级动画的实现方式。React Spring 是一个物理弹簧仿真动画实现库。",
+  "source": "@site/docs/videos/react/03-5-react-spring-animations/index.md",
+  "sourceDirName": "videos/react/03-5-react-spring-animations",
+  "slug": "/videos/react/5-react-spring-examples",
+  "permalink": "/docs/videos/react/5-react-spring-examples",
+  "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/react/03-5-react-spring-animations/index.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {
+    "id": "5-react-spring-animations",
+    "title": "精选 5 个 React Spring 前端动画",
+    "description": "来自 react-spring 官网的 5 个酷炫、复杂的动画示例，通过学习代码可以掌握高级动画的实现方式。React Spring 是一个物理弹簧仿真动画实现库。",
+    "slug": "../5-react-spring-examples"
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "React 状态和事件处理，制作渐变背景生成器",
+    "permalink": "/docs/videos/react/react-state-event-exmaple"
+  },
+  "next": {
+    "title": "React + Docusaurus 博客列表视图实现",
+    "permalink": "/docs/videos/react/react-docusaurus-blog-list-view"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "unversionedId": "videos/vue/vue-todo-app/vue-todo-app",
+  "id": "videos/vue/vue-todo-app/vue-todo-app",
+  "isDocsHomePage": false,
+  "title": "Vue 3.0 实战，开发基于 Composition API 的 Todo Web App",
+  "description": "Vue 3 实战系列的视频来啦！我们会从寻找项目灵感开始，到创建项目、编写 HTML、编写 CSS、拆分组件、完成功能、优化代码结束。这一期是关于如何寻找项目灵感的，学完某个技术没 idea 的难题可以解决了。",
+  "source": "@site/docs/videos/vue/01-vue-todo-app/index.md",
+  "sourceDirName": "videos/vue/01-vue-todo-app",
+  "slug": "/videos/vue/develop-a-todo-app-using-vue3",
+  "permalink": "/docs/videos/vue/develop-a-todo-app-using-vue3",
+  "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/vue/01-vue-todo-app/index.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {
+    "id": "vue-todo-app",
+    "title": "Vue 3.0 实战，开发基于 Composition API 的 Todo Web App",
+    "description": "Vue 3 实战系列的视频来啦！我们会从寻找项目灵感开始，到创建项目、编写 HTML、编写 CSS、拆分组件、完成功能、优化代码结束。这一期是关于如何寻找项目灵感的，学完某个技术没 idea 的难题可以解决了。",
+    "slug": "../develop-a-todo-app-using-vue3",
+    "keywords": [
+      "vue3",
+      "css",
+      "vue",
+      "html",
+      "javascript",
+      "前端",
+      "frontend"
+    ]
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "React + Docusaurus 博客列表视图实现",
+    "permalink": "/docs/videos/react/react-docusaurus-blog-list-view"
+  },
+  "next": {
+    "title": "Vite 2.0 极速体验，全框架支持 Vue/React/Svelte 的开发环境",
+    "permalink": "/docs/videos/vue/vite-get-started"
+  }
+}

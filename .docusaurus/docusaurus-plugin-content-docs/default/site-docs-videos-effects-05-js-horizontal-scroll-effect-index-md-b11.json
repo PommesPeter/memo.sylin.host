@@ -1,0 +1,37 @@
+{
+  "unversionedId": "videos/effects/js-horizontal-scroll-effect/js-horizontal-scroll-effect",
+  "id": "videos/effects/js-horizontal-scroll-effect/js-horizontal-scroll-effect",
+  "isDocsHomePage": false,
+  "title": "JS 实现鼠标滚轮横向滚动特效",
+  "description": "在前端这个无奇不有的世界里，有些网站不是正常垂直滚动的，而是横向滚动的，那么在没法把鼠标滚轮横过来的前提下（苹果除外），能否实现网页横向滚动呢？我们来写代码试试。",
+  "source": "@site/docs/videos/effects/05-js-horizontal-scroll-effect/index.md",
+  "sourceDirName": "videos/effects/05-js-horizontal-scroll-effect",
+  "slug": "/videos/effects/js-horizontal-scroll-effect",
+  "permalink": "/docs/videos/effects/js-horizontal-scroll-effect",
+  "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/effects/05-js-horizontal-scroll-effect/index.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {
+    "id": "js-horizontal-scroll-effect",
+    "title": "JS 实现鼠标滚轮横向滚动特效",
+    "slug": "../js-horizontal-scroll-effect",
+    "description": "在前端这个无奇不有的世界里，有些网站不是正常垂直滚动的，而是横向滚动的，那么在没法把鼠标滚轮横过来的前提下（苹果除外），能否实现网页横向滚动呢？我们来写代码试试。",
+    "keywords": [
+      "effects",
+      "特效",
+      "横向滚动",
+      "前端",
+      "frontend"
+    ]
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "使用 CSS 实现渐变背景色过渡动画",
+    "permalink": "/docs/videos/effects/css-gradient-animation"
+  },
+  "next": {
+    "title": "HTML DOM 入门简介",
+    "permalink": "/docs/videos/browser/what-is-dom"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "unversionedId": "css/basic/import-css-to-html",
+  "id": "css/basic/import-css-to-html",
+  "isDocsHomePage": false,
+  "title": "引入 CSS",
+  "description": "要给 HTML 页面添加样式，需要先引入 CSS，常见的在 HTML 中引入 CSS 的方式有 3 种：",
+  "source": "@site/docs/css/02-basic/02-import-css-to-html.md",
+  "sourceDirName": "css/02-basic",
+  "slug": "/css/basic/import-css-to-html",
+  "permalink": "/docs/css/basic/import-css-to-html",
+  "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/css/02-basic/02-import-css-to-html.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "import-css-to-html",
+    "title": "引入 CSS",
+    "description": "要给 HTML 页面添加样式，需要先引入 CSS，常见的在 HTML 中引入 CSS 的方式有 3 种：",
+    "keywords": [
+      "css",
+      "引入 CSS",
+      "HTML 引入 CSS",
+      "frontend"
+    ]
+  },
+  "sidebar": "css_tutorials",
+  "previous": {
+    "title": "CSS 简介",
+    "permalink": "/docs/css/basic/css-intro"
+  },
+  "next": {
+    "title": "CSS 盒子模型",
+    "permalink": "/docs/css/advanced/box-model"
+  }
+}

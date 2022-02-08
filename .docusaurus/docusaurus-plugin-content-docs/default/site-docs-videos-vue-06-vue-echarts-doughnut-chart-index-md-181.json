@@ -1,0 +1,38 @@
+{
+  "unversionedId": "videos/vue/vue-echarts-doughnut-chart/vue-echarts-doughnut-chart",
+  "id": "videos/vue/vue-echarts-doughnut-chart/vue-echarts-doughnut-chart",
+  "isDocsHomePage": false,
+  "title": "Vue 3.0 + ECharts 实现电影票房自定义环形图教程",
+  "description": "上期视频我们实现了票房的柱状图展示，那么这期视频我们来看一个环形图的配置。先看一下最终效果，环形图的各个部分表示的是某个电影的票房占比，占比越高的颜色越浅，占比越低的颜色越深，每部分还会有指示线，配有文本指明这块区域是哪部电影，占比是多少。鼠标移到某区域的时候，会显示提示框，上面有电影名和具体的数值。在大体了解做成什么样之后，我们来看一下组件的主要代码。",
+  "source": "@site/docs/videos/vue/06-vue-echarts-doughnut-chart/index.md",
+  "sourceDirName": "videos/vue/06-vue-echarts-doughnut-chart",
+  "slug": "/videos/vue/vue-echarts-doughnut-chart",
+  "permalink": "/docs/videos/vue/vue-echarts-doughnut-chart",
+  "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/vue/06-vue-echarts-doughnut-chart/index.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {
+    "id": "vue-echarts-doughnut-chart",
+    "title": "Vue 3.0 + ECharts 实现电影票房自定义环形图教程",
+    "slug": "../vue-echarts-doughnut-chart",
+    "description": "上期视频我们实现了票房的柱状图展示，那么这期视频我们来看一个环形图的配置。先看一下最终效果，环形图的各个部分表示的是某个电影的票房占比，占比越高的颜色越浅，占比越低的颜色越深，每部分还会有指示线，配有文本指明这块区域是哪部电影，占比是多少。鼠标移到某区域的时候，会显示提示框，上面有电影名和具体的数值。在大体了解做成什么样之后，我们来看一下组件的主要代码。",
+    "keywords": [
+      "vue",
+      "echarts",
+      "vue-echarts",
+      "柱状图",
+      "前端",
+      "frontend"
+    ]
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "Vue 3.0 + Echarts 电影票房数据可视化柱状图展示",
+    "permalink": "/docs/videos/vue/vue-echarts-bar-chart"
+  },
+  "next": {
+    "title": "TypeScript 入门教程",
+    "permalink": "/docs/videos/ts/typscript-intro"
+  }
+}

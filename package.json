@@ -32,6 +32,7 @@
     "classnames": "^2.2.6",
     "docusaurus2-dotenv": "^1.4.0",
     "ora": "^5.3.0",
+    "dayjs": "^1.10.7",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-reveal": "^1.2.2",

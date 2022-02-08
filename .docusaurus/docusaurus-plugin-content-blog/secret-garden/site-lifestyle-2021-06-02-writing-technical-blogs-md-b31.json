@@ -1,0 +1,24 @@
+{
+  "permalink": "/lifestyle/writing-technical-blogs",
+  "source": "@site/lifestyle/2021-06-02-writing-technical-blogs.md",
+  "title": "写技术博客，质量和数量该如何保证？",
+  "description": "自接触编程以来已经有13个年头了，在2010年参加培训的时候，受到老师的影响，在 CSDN 上开通了博客，开始了写作之旅。当时的写作好像很简单，把自己在课上学到的、以及平时遇到的问题总结一下，就有不少人看。后来因为工作原因，没有时间写就荒废了，就这么断断续续的十几年来，博客似乎越来越难写。",
+  "date": "2021-06-02T00:00:00.000Z",
+  "formattedDate": "2021年6月2日",
+  "tags": [
+    {
+      "label": "吐槽",
+      "permalink": "/lifestyle/tags/吐槽"
+    }
+  ],
+  "readingTime": 0.065,
+  "truncated": true,
+  "prevItem": {
+    "title": "SIT 留学租房攻略 | Stevents Institute of Technology",
+    "permalink": "/lifestyle/sit-house-rental"
+  },
+  "nextItem": {
+    "title": "如果没有灵感，就尽情放松吧",
+    "permalink": "/lifestyle/out-of-ideas"
+  }
+}

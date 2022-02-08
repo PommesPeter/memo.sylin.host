@@ -1,0 +1,32 @@
+{
+  "permalink": "/harmonyos-js-todo",
+  "source": "@site/blog/2020-09-20-harmonyos-js-todo.md",
+  "title": "鸿蒙 OS：使用 JavaScript 开发 Todo App UI 界面",
+  "description": "使用鸿蒙 JS 框架开发 Todo 应用的 TV 版 UI 界面。",
+  "date": "2020-09-20T00:00:00.000Z",
+  "formattedDate": "2020年9月20日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "鸿蒙",
+      "permalink": "/tags/鸿蒙"
+    },
+    {
+      "label": "JavaScript",
+      "permalink": "/tags/java-script"
+    }
+  ],
+  "readingTime": 3.995,
+  "truncated": true,
+  "prevItem": {
+    "title": "1024：程序员，你的身体还好吗？",
+    "permalink": "/1024-developer-health"
+  },
+  "nextItem": {
+    "title": "职业规划：程序员的 T 字形发展攻略",
+    "permalink": "/programmer-t-type-career"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "unversionedId": "videos/css/flex-layout/flex-layout",
+  "id": "videos/css/flex-layout/flex-layout",
+  "isDocsHomePage": false,
+  "title": "CSS flex 布局入门教程",
+  "description": "CSS Flex 布局 2分钟动画快速掌握。",
+  "source": "@site/docs/videos/css/02-flex-layout/index.md",
+  "sourceDirName": "videos/css/02-flex-layout",
+  "slug": "/videos/css/css-flex-layout",
+  "permalink": "/docs/videos/css/css-flex-layout",
+  "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/css/02-flex-layout/index.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {
+    "id": "flex-layout",
+    "title": "CSS flex 布局入门教程",
+    "description": "CSS Flex 布局 2分钟动画快速掌握。",
+    "slug": "../css-flex-layout",
+    "keywords": [
+      "css",
+      "flex",
+      "grid",
+      "frontend"
+    ]
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "CSS Grid 布局入门教程",
+    "permalink": "/docs/videos/css/css-grid-layout"
+  },
+  "next": {
+    "title": "JS DOM 和 CSS 选择器入门教程",
+    "permalink": "/docs/videos/css/css-selectors"
+  }
+}

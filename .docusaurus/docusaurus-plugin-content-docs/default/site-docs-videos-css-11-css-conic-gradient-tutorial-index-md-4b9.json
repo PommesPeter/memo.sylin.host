@@ -1,0 +1,39 @@
+{
+  "unversionedId": "videos/css/css-conic-gradient-tutorial/css-conic-gradient-tutorial",
+  "id": "videos/css/css-conic-gradient-tutorial/css-conic-gradient-tutorial",
+  "isDocsHomePage": false,
+  "title": "利用 CSS conic-gradient 制作饼图和色盘",
+  "description": "请输入描述",
+  "source": "@site/docs/videos/css/11-css-conic-gradient-tutorial/index.md",
+  "sourceDirName": "videos/css/11-css-conic-gradient-tutorial",
+  "slug": "/videos/css/css-conic-gradient-tutorial",
+  "permalink": "/docs/videos/css/css-conic-gradient-tutorial",
+  "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/css/11-css-conic-gradient-tutorial/index.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {
+    "id": "css-conic-gradient-tutorial",
+    "title": "利用 CSS conic-gradient 制作饼图和色盘",
+    "slug": "../css-conic-gradient-tutorial",
+    "description": "请输入描述",
+    "keywords": [
+      "css",
+      "gradient",
+      "conic-gradient",
+      "conic",
+      "锥形渐变",
+      "前端",
+      "frontend"
+    ]
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "利用 CSS Counter 计数器添加章节序号",
+    "permalink": "/docs/videos/css/css-counter-state-management"
+  },
+  "next": {
+    "title": "CSS最新特性 Container Queries 介绍",
+    "permalink": "/docs/videos/css/css-container-queries-intro"
+  }
+}

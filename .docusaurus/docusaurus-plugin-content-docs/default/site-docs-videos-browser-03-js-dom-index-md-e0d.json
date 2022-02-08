@@ -1,0 +1,37 @@
+{
+  "unversionedId": "videos/browser/js-dom/js-dom-operation",
+  "id": "videos/browser/js-dom/js-dom-operation",
+  "isDocsHomePage": false,
+  "title": "JS HTML DOM 操作入门教程",
+  "description": "浏览器提供了一系列的 DOM API 接口，用于创建、选择、修改 DOM 中的元素，处理 DOM 事件等。我们分别来看一下这些接口的使用方法和步骤。",
+  "source": "@site/docs/videos/browser/03-js-dom/index.md",
+  "sourceDirName": "videos/browser/03-js-dom",
+  "slug": "/videos/browser/js-dom-manipulate",
+  "permalink": "/docs/videos/browser/js-dom-manipulate",
+  "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/browser/03-js-dom/index.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {
+    "id": "js-dom-operation",
+    "title": "JS HTML DOM 操作入门教程",
+    "description": "浏览器提供了一系列的 DOM API 接口，用于创建、选择、修改 DOM 中的元素，处理 DOM 事件等。我们分别来看一下这些接口的使用方法和步骤。",
+    "slug": "../js-dom-manipulate",
+    "keywords": [
+      "JavaScript",
+      "dom",
+      "html",
+      "browser",
+      "frontend"
+    ]
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "什么是 BOM？与 HTML DOM 有什么区别？",
+    "permalink": "/docs/videos/browser/what-is-bom"
+  },
+  "next": {
+    "title": "使用原生 JS Drag & Drop API 实现元素拖拽和文件拖放",
+    "permalink": "/docs/videos/browser/native-drag-drop"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "videos/express/express-get-started/express-get-started",
+  "id": "videos/express/express-get-started/express-get-started",
+  "isDocsHomePage": false,
+  "title": "Express.js 快速入门指南",
+  "description": "Express 是 Node.js 的 web 开发框架。它是 unopinionated 意思是框架本身只提供最小 web 应用开发 API，不限制应用设计模式（比如 MVC，MVP)、代码规范以及功能的选择（例如是否有视图层生成 html 页面）。",
+  "source": "@site/docs/videos/express/02-express-get-started/index.md",
+  "sourceDirName": "videos/express/02-express-get-started",
+  "slug": "/videos/express/express-get-started",
+  "permalink": "/docs/videos/express/express-get-started",
+  "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/express/02-express-get-started/index.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {
+    "id": "express-get-started",
+    "title": "Express.js 快速入门指南",
+    "slug": "../express-get-started",
+    "description": "Express 是 Node.js 的 web 开发框架。它是 unopinionated 意思是框架本身只提供最小 web 应用开发 API，不限制应用设计模式（比如 MVC，MVP)、代码规范以及功能的选择（例如是否有视图层生成 html 页面）。",
+    "keywords": [
+      "express",
+      "api",
+      "node.js",
+      "nodejs",
+      "后端",
+      "全栈"
+    ]
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "TypeScript：面向对象特性之多态",
+    "permalink": "/docs/videos/ts/typescript-oop-polymorphism"
+  },
+  "next": {
+    "title": "Express + MongoDB 实现 Restful API 教程",
+    "permalink": "/docs/videos/express/express-mongo-crud"
+  }
+}

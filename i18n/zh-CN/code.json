@@ -260,7 +260,7 @@
     "description": "Bilibili docs link label"
   },
   "homepage.hero.text": {
-    "message": "点击查看最新{bilibiliText}{courses}{blogs}{links}以及UP主的{ideas}。致力于帮助你以最直观、最快速的方式学会前端开发，并希望我的个人经历对你有所启发。",
+    "message": "这里是我的个人博客，不定期会分享一些日常学习生活中的有用的小知识，记录和笔记等，方便自己复习和分享给有需要的人。包括但不局限于{dpcv}{courses}{blogs}{links}。希望对你有所启发。",
     "description": "hero text"
   },
   "hompage.hero.text.course": {

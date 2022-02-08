@@ -1,0 +1,27 @@
+{
+  "unversionedId": "course/react-chat-ui/react-chat-ui",
+  "id": "course/react-chat-ui/react-chat-ui",
+  "isDocsHomePage": false,
+  "title": "React 即时通信 UI 开发实战课程",
+  "description": "以即时通信应用 UI 组件库和示例页面作为切入点，全面的演示了一套完整的 UI 库的实现过程，课程结束后，不但可以增加项目经验，扩充作品集，还可以在此基础上扩展为应用到各行各业的 UI 库，就像 Ant Design 和 Element UI。独特的项目、无废话、快节奏的进度，让你在最短的时间完成一套项目。",
+  "source": "@site/docs/course/react-chat-ui/react-chat-ui.mdx",
+  "sourceDirName": "course/react-chat-ui",
+  "slug": "/course/react-chat-ui",
+  "permalink": "/docs/course/react-chat-ui",
+  "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/course/react-chat-ui/react-chat-ui.mdx",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {
+    "id": "react-chat-ui",
+    "title": "React 即时通信 UI 开发实战课程",
+    "slug": "../react-chat-ui",
+    "description": "以即时通信应用 UI 组件库和示例页面作为切入点，全面的演示了一套完整的 UI 库的实现过程，课程结束后，不但可以增加项目经验，扩充作品集，还可以在此基础上扩展为应用到各行各业的 UI 库，就像 Ant Design 和 Element UI。独特的项目、无废话、快节奏的进度，让你在最短的时间完成一套项目。",
+    "keywords": [
+      "react",
+      "ui 库",
+      "即时通信",
+      "ant design"
+    ]
+  }
+}

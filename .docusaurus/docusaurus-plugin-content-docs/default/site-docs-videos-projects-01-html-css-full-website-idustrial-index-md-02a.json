@@ -1,0 +1,38 @@
+{
+  "unversionedId": "videos/projects/html-css-full-website-idustrial/html-css-full-website-idustrial",
+  "id": "videos/projects/html-css-full-website-idustrial/html-css-full-website-idustrial",
+  "isDocsHomePage": false,
+  "title": "创建一个工业风的网站 | HTML & CSS 入门教程",
+  "description": "这是一个 ‌入门级的网站，‌ 只涉及到了简单的 html 和 CSS 的基本知识，‌‌ 适合初学者入门。这是一个 PC 端的 web 页面，‌ 我们主要通过这一个项目来了解一下。",
+  "source": "@site/docs/videos/projects/01-html-css-full-website-idustrial/index.md",
+  "sourceDirName": "videos/projects/01-html-css-full-website-idustrial",
+  "slug": "/videos/projects/html-css-full-website-idustrial",
+  "permalink": "/docs/videos/projects/html-css-full-website-idustrial",
+  "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/projects/01-html-css-full-website-idustrial/index.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {
+    "id": "html-css-full-website-idustrial",
+    "title": "创建一个工业风的网站 | HTML & CSS 入门教程",
+    "slug": "../html-css-full-website-idustrial",
+    "description": "这是一个 ‌入门级的网站，‌ 只涉及到了简单的 html 和 CSS 的基本知识，‌‌ 适合初学者入门。这是一个 PC 端的 web 页面，‌ 我们主要通过这一个项目来了解一下。",
+    "keywords": [
+      "html",
+      "color",
+      "grid",
+      "place-items",
+      "前端",
+      "frontend"
+    ]
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "HTML 网页制作基础入门教程",
+    "permalink": "/docs/videos/html/html-get-started"
+  },
+  "next": {
+    "title": "教你使用 2 行代码实现毛玻璃特效 Glassmorphism，附代码生成工具",
+    "permalink": "/docs/videos/effects/css-glassmorphism"
+  }
+}

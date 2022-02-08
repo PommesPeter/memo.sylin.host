@@ -1,0 +1,38 @@
+{
+  "unversionedId": "videos/network/https-basics/https-basics",
+  "id": "videos/network/https-basics/https-basics",
+  "isDocsHomePage": false,
+  "title": "HTTPS 原理和 TLS 握手机制",
+  "description": "前后端交互之 HTTPS 协议。HTTPS协议简明概述。",
+  "source": "@site/docs/videos/network/02-https-basics/index.md",
+  "sourceDirName": "videos/network/02-https-basics",
+  "slug": "/videos/network/https-basics",
+  "permalink": "/docs/videos/network/https-basics",
+  "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/network/02-https-basics/index.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {
+    "id": "https-basics",
+    "title": "HTTPS 原理和 TLS 握手机制",
+    "description": "前后端交互之 HTTPS 协议。HTTPS协议简明概述。",
+    "slug": "../https-basics",
+    "keywords": [
+      "network",
+      "http",
+      "https",
+      "网络",
+      "网络协议",
+      "http协议"
+    ]
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "HTTP 协议基础入门教程",
+    "permalink": "/docs/videos/network/http-basics"
+  },
+  "next": {
+    "title": "React Props 属性介绍，制作一个漂亮的按钮",
+    "permalink": "/docs/videos/react/react-props-example"
+  }
+}

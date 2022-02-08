@@ -1,0 +1,4282 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docs",
+          "versionEditUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs",
+          "versionEditUrlLocalized": "https://github.com/zxuqian/zxuqian.cn/tree/master/i18n/zh-CN/docusaurus-plugin-content-docs/current",
+          "versionBanner": "none",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "E:\\workspace\\MemoLibrary\\memo.pommespeter.space\\sidebars.js",
+          "contentPath": "E:\\workspace\\MemoLibrary\\memo.pommespeter.space\\docs",
+          "contentPathLocalized": "E:\\workspace\\MemoLibrary\\memo.pommespeter.space\\i18n\\zh-CN\\docusaurus-plugin-content-docs\\current",
+          "mainDocId": "css/css-tutorial-intro",
+          "sidebars": {
+            "css_tutorials": [
+              {
+                "type": "doc",
+                "id": "css/css-tutorial-intro"
+              },
+              {
+                "type": "category",
+                "label": "CSS 基础",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "css/basic/css-intro"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "css/basic/import-css-to-html"
+                  }
+                ],
+                "collapsed": true
+              },
+              {
+                "type": "category",
+                "label": "CSS 进阶",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "css/advanced/box-model"
+                  }
+                ],
+                "collapsed": true
+              }
+            ],
+            "videos": [
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "简介",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "videos/videos-intro"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "JavaScript",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "videos/js/event-loop/event-loop"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "CSS",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "videos/css/03-5-tips-master-css/5-tips-master-css"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/css/grid-layout/grid-layout"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/css/flex-layout/flex-layout"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/css/selectors/css-selectors"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/css/position/css-position"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/css/css-hsl-color/css-hsl-color"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/css/css-grid-place-items/css-grid-place-items"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/css/css-text-image-wrap/css-text-image-wrap"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/css/css-flex-gap-tutorial/css-flex-gap-tutorial"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/css/css-counter-state-management/css-counter-state-management"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/css/css-conic-gradient-tutorial/css-conic-gradient-tutorial"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/css/css-container-queries-intro/css-container-queries-intro"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/css/css-common-properties/css-common-properties"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/css/css-transition-keyframes-intro/css-transition-keyframes-intro"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "HTML",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "videos/html/html-basics/html-basics"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "实战项目",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "videos/projects/html-css-full-website-idustrial/html-css-full-website-idustrial"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "特效",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "videos/effects/glassmorphism/effects-glassmorphism"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/effects/cyberpunk/effects-glitch"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/effects/resize/effects-resizable"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/effects/gradient-animation/gradient-animation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/effects/js-horizontal-scroll-effect/js-horizontal-scroll-effect"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "浏览器",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "videos/browser/dom/what-is-dom"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/browser/bom/what-is-bom"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/browser/js-dom/js-dom-operation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/browser/native-drag-drop/native-drag-drop"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/browser/web-components-get-started/web-components-get-started"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/browser/js-web-animations-api/js-web-animations-api"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Web",
+                "items": []
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "网络",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "videos/network/http-basics/http-basics"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/network/https-basics/https-basics"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "React",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "videos/react/react-props-buttons/react-props-button"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/react/gradient-bg-react-state-event/react-state-event-gradient"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/react/03-5-react-spring-animations/5-react-spring-animations"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/react/react-docusaurus-blog-list-view/react-docusaurus-blog-list-view"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Vue",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "videos/vue/vue-todo-app/vue-todo-app"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/vue/vite-get-started/vite-get-started"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/vue/vue-watch-api-tips/vue-watch-api-tips"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/vue/vue-echarts-integration/vue-echarts-integration"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/vue/vue-echarts-bar-chart/vue-echarts-bar-chart"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/vue/vue-echarts-doughnut-chart/vue-echarts-doughnut-chart"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "TypeScript",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "videos/ts/intro/ts-intro"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/ts/typescript-oo-basics/typescript-oo-basics"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/ts/typescript-oop-abstraction/typescript-oop-abstraction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/ts/typescript-oop-inheritance/typescript-oop-inheritance"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/ts/typescript-oop-polymorphism/typescript-oop-polymorphism"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Express",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "videos/express/express-get-started/express-get-started"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "videos/express/express-mongo-crud/express-mongo-crud"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Mongo DB",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "videos/mongo/mongodb-get-started/mongodb-get-started"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "工具",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "videos/tools/tools-vs-code-codesandbox/tools-vs-code-codesandbox"
+                  }
+                ]
+              }
+            ],
+            "resources": [
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "简介",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "resources/resources-intro"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "前端开发",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "resources/ui/css-frameworks/css-frameworks"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "开发工具",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "resources/tools/vs-code-themes/vs-code-themes"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "效率工具",
+                "items": []
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "UI 设计",
+                "items": []
+              }
+            ],
+            "tools": [
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "简介",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tools/tools-intro"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "CSS 工具",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tools/glassmorphism-generator/glassmorphism-generator"
+                  }
+                ]
+              }
+            ]
+          },
+          "permalinkToSidebar": {
+            "/docs/css/advanced/box-model": "css_tutorials",
+            "/docs/css/basic/css-intro": "css_tutorials",
+            "/docs/css/basic/import-css-to-html": "css_tutorials",
+            "/docs/css/css-tutorial-intro": "css_tutorials",
+            "/docs/resources": "resources",
+            "/docs/resources/vs-code-themes": "resources",
+            "/docs/resources/css-frameworks": "resources",
+            "/docs/tools/glassmorphism-generator": "tools",
+            "/docs/tools": "tools",
+            "/docs/videos/browser/what-is-bom": "videos",
+            "/docs/videos/browser/what-is-dom": "videos",
+            "/docs/videos/browser/js-dom-manipulate": "videos",
+            "/docs/videos/browser/js-web-animations-api": "videos",
+            "/docs/videos/browser/native-drag-drop": "videos",
+            "/docs/videos/browser/web-components-get-started": "videos",
+            "/docs/videos/css/5-tips-master-css": "videos",
+            "/docs/videos/css/css-common-properties": "videos",
+            "/docs/videos/css/css-conic-gradient-tutorial": "videos",
+            "/docs/videos/css/css-container-queries-intro": "videos",
+            "/docs/videos/css/css-counter-state-management": "videos",
+            "/docs/videos/css/css-flex-gap-tutorial": "videos",
+            "/docs/videos/css/css-grid-place-items": "videos",
+            "/docs/videos/css/css-hsl-color": "videos",
+            "/docs/videos/css/css-text-image-wrap": "videos",
+            "/docs/videos/css/css-transition-keyframes-intro": "videos",
+            "/docs/videos/css/css-flex-layout": "videos",
+            "/docs/videos/css/css-grid-layout": "videos",
+            "/docs/videos/css/css-position": "videos",
+            "/docs/videos/css/css-selectors": "videos",
+            "/docs/videos/effects/effects-glitch": "videos",
+            "/docs/videos/effects/css-glassmorphism": "videos",
+            "/docs/videos/effects/css-gradient-animation": "videos",
+            "/docs/videos/effects/js-horizontal-scroll-effect": "videos",
+            "/docs/videos/effects/effects-resizable": "videos",
+            "/docs/videos/express/express-get-started": "videos",
+            "/docs/videos/express/express-mongo-crud": "videos",
+            "/docs/videos/html/html-get-started": "videos",
+            "/docs/videos/js/javascript-eventloop": "videos",
+            "/docs/videos/mongo/mongodb-get-started": "videos",
+            "/docs/videos/network/http-basics": "videos",
+            "/docs/videos/network/https-basics": "videos",
+            "/docs/videos/projects/html-css-full-website-idustrial": "videos",
+            "/docs/videos/react/5-react-spring-examples": "videos",
+            "/docs/videos/react/react-state-event-exmaple": "videos",
+            "/docs/videos/react/react-docusaurus-blog-list-view": "videos",
+            "/docs/videos/react/react-props-example": "videos",
+            "/docs/videos/tools/tools-vs-code-codesandbox": "videos",
+            "/docs/videos/ts/typscript-intro": "videos",
+            "/docs/videos/ts/typescript-oo-basics": "videos",
+            "/docs/videos/ts/typescript-oop-abstraction": "videos",
+            "/docs/videos/ts/typescript-oop-inheritance": "videos",
+            "/docs/videos/ts/typescript-oop-polymorphism": "videos",
+            "/docs/videos": "videos",
+            "/docs/videos/vue/vite-get-started": "videos",
+            "/docs/videos/vue/vue-echarts-bar-chart": "videos",
+            "/docs/videos/vue/vue-echarts-doughnut-chart": "videos",
+            "/docs/videos/vue/vue-echarts-integration": "videos",
+            "/docs/videos/vue/develop-a-todo-app-using-vue3": "videos",
+            "/docs/videos/vue/vue-watch-api-tips": "videos"
+          },
+          "docs": [
+            {
+              "unversionedId": "course/react-chat-ui/react-chat-ui",
+              "id": "course/react-chat-ui/react-chat-ui",
+              "isDocsHomePage": false,
+              "title": "React 即时通信 UI 开发实战课程",
+              "description": "以即时通信应用 UI 组件库和示例页面作为切入点，全面的演示了一套完整的 UI 库的实现过程，课程结束后，不但可以增加项目经验，扩充作品集，还可以在此基础上扩展为应用到各行各业的 UI 库，就像 Ant Design 和 Element UI。独特的项目、无废话、快节奏的进度，让你在最短的时间完成一套项目。",
+              "source": "@site/docs/course/react-chat-ui/react-chat-ui.mdx",
+              "sourceDirName": "course/react-chat-ui",
+              "slug": "/course/react-chat-ui",
+              "permalink": "/docs/course/react-chat-ui",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/course/react-chat-ui/react-chat-ui.mdx",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "react-chat-ui",
+                "title": "React 即时通信 UI 开发实战课程",
+                "slug": "../react-chat-ui",
+                "description": "以即时通信应用 UI 组件库和示例页面作为切入点，全面的演示了一套完整的 UI 库的实现过程，课程结束后，不但可以增加项目经验，扩充作品集，还可以在此基础上扩展为应用到各行各业的 UI 库，就像 Ant Design 和 Element UI。独特的项目、无废话、快节奏的进度，让你在最短的时间完成一套项目。",
+                "keywords": [
+                  "react",
+                  "ui 库",
+                  "即时通信",
+                  "ant design"
+                ]
+              }
+            },
+            {
+              "unversionedId": "css/advanced/box-model",
+              "id": "css/advanced/box-model",
+              "isDocsHomePage": false,
+              "title": "CSS 盒子模型",
+              "description": "CSS 盒子模型的概念、显示类型、box-sizing、替换元素、边距塌陷等详细解答",
+              "source": "@site/docs/css/03-advanced/01-box-model.mdx",
+              "sourceDirName": "css/03-advanced",
+              "slug": "/css/advanced/box-model",
+              "permalink": "/docs/css/advanced/box-model",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/css/03-advanced/01-box-model.mdx",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "id": "box-model",
+                "title": "CSS 盒子模型",
+                "description": "CSS 盒子模型的概念、显示类型、box-sizing、替换元素、边距塌陷等详细解答",
+                "keywords": [
+                  "css",
+                  "frontend"
+                ]
+              },
+              "sidebar": "css_tutorials",
+              "previous": {
+                "title": "引入 CSS",
+                "permalink": "/docs/css/basic/import-css-to-html"
+              }
+            },
+            {
+              "unversionedId": "css/basic/css-intro",
+              "id": "css/basic/css-intro",
+              "isDocsHomePage": false,
+              "title": "CSS 简介",
+              "description": "CSS 盒子模型的概念、显示类型、box-sizing、替换元素、边距塌陷等详细解答",
+              "source": "@site/docs/css/02-basic/01-css-intro.md",
+              "sourceDirName": "css/02-basic",
+              "slug": "/css/basic/css-intro",
+              "permalink": "/docs/css/basic/css-intro",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/css/02-basic/01-css-intro.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "id": "css-intro",
+                "title": "CSS 简介",
+                "description": "CSS 盒子模型的概念、显示类型、box-sizing、替换元素、边距塌陷等详细解答",
+                "keywords": [
+                  "css",
+                  "css 简介",
+                  "frontend"
+                ]
+              },
+              "sidebar": "css_tutorials",
+              "previous": {
+                "title": "CSS 完全指南简介",
+                "permalink": "/docs/css/css-tutorial-intro"
+              },
+              "next": {
+                "title": "引入 CSS",
+                "permalink": "/docs/css/basic/import-css-to-html"
+              }
+            },
+            {
+              "unversionedId": "css/basic/import-css-to-html",
+              "id": "css/basic/import-css-to-html",
+              "isDocsHomePage": false,
+              "title": "引入 CSS",
+              "description": "要给 HTML 页面添加样式，需要先引入 CSS，常见的在 HTML 中引入 CSS 的方式有 3 种：",
+              "source": "@site/docs/css/02-basic/02-import-css-to-html.md",
+              "sourceDirName": "css/02-basic",
+              "slug": "/css/basic/import-css-to-html",
+              "permalink": "/docs/css/basic/import-css-to-html",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/css/02-basic/02-import-css-to-html.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "id": "import-css-to-html",
+                "title": "引入 CSS",
+                "description": "要给 HTML 页面添加样式，需要先引入 CSS，常见的在 HTML 中引入 CSS 的方式有 3 种：",
+                "keywords": [
+                  "css",
+                  "引入 CSS",
+                  "HTML 引入 CSS",
+                  "frontend"
+                ]
+              },
+              "sidebar": "css_tutorials",
+              "previous": {
+                "title": "CSS 简介",
+                "permalink": "/docs/css/basic/css-intro"
+              },
+              "next": {
+                "title": "CSS 盒子模型",
+                "permalink": "/docs/css/advanced/box-model"
+              }
+            },
+            {
+              "unversionedId": "css/css-tutorial-intro",
+              "id": "css/css-tutorial-intro",
+              "isDocsHomePage": false,
+              "title": "CSS 完全指南简介",
+              "description": "CSS 完全指南教程用于学习 CSS 的语法、常见的布局实现（例如 Grid、Flex 布局）、以及进阶的样式实现（例如响应式布局、动画、3D变换和绘图相关)",
+              "source": "@site/docs/css/01-css-tutorial-intro.md",
+              "sourceDirName": "css",
+              "slug": "/css/css-tutorial-intro",
+              "permalink": "/docs/css/css-tutorial-intro",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/css/01-css-tutorial-intro.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "id": "css-tutorial-intro",
+                "title": "CSS 完全指南简介",
+                "description": "CSS 完全指南教程用于学习 CSS 的语法、常见的布局实现（例如 Grid、Flex 布局）、以及进阶的样式实现（例如响应式布局、动画、3D变换和绘图相关)",
+                "keywords": [
+                  "css",
+                  "css 完全指南",
+                  "css 教程",
+                  "frontend"
+                ]
+              },
+              "sidebar": "css_tutorials",
+              "next": {
+                "title": "CSS 简介",
+                "permalink": "/docs/css/basic/css-intro"
+              }
+            },
+            {
+              "unversionedId": "resources/resources-intro",
+              "id": "resources/resources-intro",
+              "isDocsHomePage": false,
+              "title": "常用资源导航",
+              "description": "本页收集了日常开发中经常会使用到的前端开发、UI 设计、软件工具等资源（持续整理中）。",
+              "source": "@site/docs/resources/intro.md",
+              "sourceDirName": "resources",
+              "slug": "/resources",
+              "permalink": "/docs/resources",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/resources/intro.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "resources-intro",
+                "title": "常用资源导航",
+                "sidebar_label": "资源导航",
+                "slug": "/resources"
+              },
+              "sidebar": "resources",
+              "next": {
+                "title": "CSS 框架",
+                "permalink": "/docs/resources/css-frameworks"
+              }
+            },
+            {
+              "unversionedId": "resources/tools/vs-code-themes/vs-code-themes",
+              "id": "resources/tools/vs-code-themes/vs-code-themes",
+              "isDocsHomePage": false,
+              "title": "自用的 5 款 VS Code 主题推荐",
+              "description": "无论是初级还是高级前端工程师，多多少少都会使用到 CSS 框架。初级工程师可以利用它们快速的编写原型界面，高级前端工程师则利用特殊的 CSS 框架来编写复杂的 UI 界面。",
+              "source": "@site/docs/resources/tools/vs-code-themes/index.md",
+              "sourceDirName": "resources/tools/vs-code-themes",
+              "slug": "/resources/vs-code-themes",
+              "permalink": "/docs/resources/vs-code-themes",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/resources/tools/vs-code-themes/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "vs-code-themes",
+                "title": "自用的 5 款 VS Code 主题推荐",
+                "description": "无论是初级还是高级前端工程师，多多少少都会使用到 CSS 框架。初级工程师可以利用它们快速的编写原型界面，高级前端工程师则利用特殊的 CSS 框架来编写复杂的 UI 界面。",
+                "slug": "../../vs-code-themes",
+                "keywords": [
+                  "vs code",
+                  "theme",
+                  "vs code themes",
+                  "主题",
+                  "vs code 主题",
+                  "开发工具",
+                  "前端",
+                  "frontend"
+                ]
+              },
+              "sidebar": "resources",
+              "previous": {
+                "title": "CSS 框架",
+                "permalink": "/docs/resources/css-frameworks"
+              }
+            },
+            {
+              "unversionedId": "resources/ui/css-frameworks/css-frameworks",
+              "id": "resources/ui/css-frameworks/css-frameworks",
+              "isDocsHomePage": false,
+              "title": "CSS 框架",
+              "description": "无论是初级还是高级前端工程师，多多少少都会使用到 CSS 框架。初级工程师可以利用它们快速的编写原型界面，高级前端工程师则利用特殊的 CSS 框架来编写复杂的 UI 界面。",
+              "source": "@site/docs/resources/ui/css-frameworks/index.md",
+              "sourceDirName": "resources/ui/css-frameworks",
+              "slug": "/resources/css-frameworks",
+              "permalink": "/docs/resources/css-frameworks",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/resources/ui/css-frameworks/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "css-frameworks",
+                "title": "CSS 框架",
+                "description": "无论是初级还是高级前端工程师，多多少少都会使用到 CSS 框架。初级工程师可以利用它们快速的编写原型界面，高级前端工程师则利用特殊的 CSS 框架来编写复杂的 UI 界面。",
+                "slug": "../../css-frameworks",
+                "keywords": [
+                  "css",
+                  "bootstrap",
+                  "foundation",
+                  "primer",
+                  "materialize",
+                  "mdui",
+                  "bulma",
+                  "框架",
+                  "前端",
+                  "frontend"
+                ]
+              },
+              "sidebar": "resources",
+              "previous": {
+                "title": "资源导航",
+                "permalink": "/docs/resources"
+              },
+              "next": {
+                "title": "自用的 5 款 VS Code 主题推荐",
+                "permalink": "/docs/resources/vs-code-themes"
+              }
+            },
+            {
+              "unversionedId": "tools/glassmorphism-generator/glassmorphism-generator",
+              "id": "tools/glassmorphism-generator/glassmorphism-generator",
+              "isDocsHomePage": false,
+              "title": "Glassmorphism 玻璃特效生成器",
+              "description": "Glassmorphism 玻璃特效生成器",
+              "source": "@site/docs/tools/01-glassmorphism-generator/index.md",
+              "sourceDirName": "tools/01-glassmorphism-generator",
+              "slug": "/tools/glassmorphism-generator",
+              "permalink": "/docs/tools/glassmorphism-generator",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/tools/01-glassmorphism-generator/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "glassmorphism-generator",
+                "slug": "../glassmorphism-generator",
+                "title": "Glassmorphism 玻璃特效生成器",
+                "description": "Glassmorphism 玻璃特效生成器",
+                "keywords": [
+                  "Glassmorphism",
+                  "玻璃",
+                  "透明",
+                  "玻璃特效",
+                  "生成器",
+                  "玻璃特效生成器"
+                ]
+              },
+              "sidebar": "tools",
+              "previous": {
+                "title": "小工具介绍",
+                "permalink": "/docs/tools"
+              }
+            },
+            {
+              "unversionedId": "tools/tools-intro",
+              "id": "tools/tools-intro",
+              "isDocsHomePage": false,
+              "title": "小工具介绍",
+              "description": "小工具介绍",
+              "source": "@site/docs/tools/00-tools-intro.md",
+              "sourceDirName": "tools",
+              "slug": "/tools",
+              "permalink": "/docs/tools",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/tools/00-tools-intro.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "sidebarPosition": 0,
+              "frontMatter": {
+                "id": "tools-intro",
+                "title": "小工具介绍",
+                "slug": "/tools",
+                "description": "小工具介绍",
+                "keywords": [
+                  "小工具",
+                  "tools"
+                ]
+              },
+              "sidebar": "tools",
+              "next": {
+                "title": "Glassmorphism 玻璃特效生成器",
+                "permalink": "/docs/tools/glassmorphism-generator"
+              }
+            },
+            {
+              "unversionedId": "videos/browser/bom/what-is-bom",
+              "id": "videos/browser/bom/what-is-bom",
+              "isDocsHomePage": false,
+              "title": "什么是 BOM？与 HTML DOM 有什么区别？",
+              "description": "BOM，全称是 Browser Object Model，浏览器对象模型。它不是官方的命名，也没有统一的标准，只是对浏览器提供的 API 的统称。BOM 提供的 API 都放到了 window 全局对象中，它代表当前浏览器窗口。 而 DOM 也属于 BOM 的一部分，因为 window 也包括 document 对象。",
+              "source": "@site/docs/videos/browser/02-bom/index.md",
+              "sourceDirName": "videos/browser/02-bom",
+              "slug": "/videos/browser/what-is-bom",
+              "permalink": "/docs/videos/browser/what-is-bom",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/browser/02-bom/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "what-is-bom",
+                "title": "什么是 BOM？与 HTML DOM 有什么区别？",
+                "description": "BOM，全称是 Browser Object Model，浏览器对象模型。它不是官方的命名，也没有统一的标准，只是对浏览器提供的 API 的统称。BOM 提供的 API 都放到了 window 全局对象中，它代表当前浏览器窗口。 而 DOM 也属于 BOM 的一部分，因为 window 也包括 document 对象。",
+                "slug": "../what-is-bom",
+                "keywords": [
+                  "JavaScript",
+                  "bom",
+                  "html",
+                  "browser",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "HTML DOM 入门简介",
+                "permalink": "/docs/videos/browser/what-is-dom"
+              },
+              "next": {
+                "title": "JS HTML DOM 操作入门教程",
+                "permalink": "/docs/videos/browser/js-dom-manipulate"
+              }
+            },
+            {
+              "unversionedId": "videos/browser/dom/what-is-dom",
+              "id": "videos/browser/dom/what-is-dom",
+              "isDocsHomePage": false,
+              "title": "HTML DOM 入门简介",
+              "description": "什么是 DOM，有哪些特点？和 HTML、JavaScript 有什么关系？这个 2 分钟的动画视频带你了解 DOM。",
+              "source": "@site/docs/videos/browser/01-dom/index.md",
+              "sourceDirName": "videos/browser/01-dom",
+              "slug": "/videos/browser/what-is-dom",
+              "permalink": "/docs/videos/browser/what-is-dom",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/browser/01-dom/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "what-is-dom",
+                "title": "HTML DOM 入门简介",
+                "description": "什么是 DOM，有哪些特点？和 HTML、JavaScript 有什么关系？这个 2 分钟的动画视频带你了解 DOM。",
+                "slug": "../what-is-dom",
+                "keywords": [
+                  "JavaScript",
+                  "dom",
+                  "html",
+                  "browser",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "JS 实现鼠标滚轮横向滚动特效",
+                "permalink": "/docs/videos/effects/js-horizontal-scroll-effect"
+              },
+              "next": {
+                "title": "什么是 BOM？与 HTML DOM 有什么区别？",
+                "permalink": "/docs/videos/browser/what-is-bom"
+              }
+            },
+            {
+              "unversionedId": "videos/browser/js-dom/js-dom-operation",
+              "id": "videos/browser/js-dom/js-dom-operation",
+              "isDocsHomePage": false,
+              "title": "JS HTML DOM 操作入门教程",
+              "description": "浏览器提供了一系列的 DOM API 接口，用于创建、选择、修改 DOM 中的元素，处理 DOM 事件等。我们分别来看一下这些接口的使用方法和步骤。",
+              "source": "@site/docs/videos/browser/03-js-dom/index.md",
+              "sourceDirName": "videos/browser/03-js-dom",
+              "slug": "/videos/browser/js-dom-manipulate",
+              "permalink": "/docs/videos/browser/js-dom-manipulate",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/browser/03-js-dom/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "js-dom-operation",
+                "title": "JS HTML DOM 操作入门教程",
+                "description": "浏览器提供了一系列的 DOM API 接口，用于创建、选择、修改 DOM 中的元素，处理 DOM 事件等。我们分别来看一下这些接口的使用方法和步骤。",
+                "slug": "../js-dom-manipulate",
+                "keywords": [
+                  "JavaScript",
+                  "dom",
+                  "html",
+                  "browser",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "什么是 BOM？与 HTML DOM 有什么区别？",
+                "permalink": "/docs/videos/browser/what-is-bom"
+              },
+              "next": {
+                "title": "使用原生 JS Drag & Drop API 实现元素拖拽和文件拖放",
+                "permalink": "/docs/videos/browser/native-drag-drop"
+              }
+            },
+            {
+              "unversionedId": "videos/browser/js-web-animations-api/js-web-animations-api",
+              "id": "videos/browser/js-web-animations-api/js-web-animations-api",
+              "isDocsHomePage": false,
+              "title": "JS 原生高性能的动画实现：Web Animations API",
+              "description": "我们常用的、给页面元素添加动画的方式之一是，使用 CSS Keyframes，通过百分比来控制属性值的变化，从而产生动画效果，但是这样有个缺点，就是 keyframes 是静态的，里边的属性值不能动态的设置，并且也没有办法暂停或改变动画的执行过程。",
+              "source": "@site/docs/videos/browser/06-js-web-animations-api/index.md",
+              "sourceDirName": "videos/browser/06-js-web-animations-api",
+              "slug": "/videos/browser/js-web-animations-api",
+              "permalink": "/docs/videos/browser/js-web-animations-api",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/browser/06-js-web-animations-api/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "js-web-animations-api",
+                "title": "JS 原生高性能的动画实现：Web Animations API",
+                "slug": "../js-web-animations-api",
+                "description": "我们常用的、给页面元素添加动画的方式之一是，使用 CSS Keyframes，通过百分比来控制属性值的变化，从而产生动画效果，但是这样有个缺点，就是 keyframes 是静态的，里边的属性值不能动态的设置，并且也没有办法暂停或改变动画的执行过程。",
+                "keywords": [
+                  "browser",
+                  "web animations api",
+                  "bom",
+                  "动画",
+                  "keyframes",
+                  "前端",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "Web Components 前端开发入门教程",
+                "permalink": "/docs/videos/browser/web-components-get-started"
+              },
+              "next": {
+                "title": "HTTP 协议基础入门教程",
+                "permalink": "/docs/videos/network/http-basics"
+              }
+            },
+            {
+              "unversionedId": "videos/browser/native-drag-drop/native-drag-drop",
+              "id": "videos/browser/native-drag-drop/native-drag-drop",
+              "isDocsHomePage": false,
+              "title": "使用原生 JS Drag & Drop API 实现元素拖拽和文件拖放",
+              "description": "有时候经常会好奇那些可视化拖拽的工具，还有拖放文件上传是怎么实现的，是不是得监听鼠标点击，移动和释放事件，然后同时计算新位置的坐标？其实不用那么麻烦，浏览器提供了内置的 Drag & Drop API，能很方便的实现拖拽功能。",
+              "source": "@site/docs/videos/browser/05-native-drag-drop/index.md",
+              "sourceDirName": "videos/browser/05-native-drag-drop",
+              "slug": "/videos/browser/native-drag-drop",
+              "permalink": "/docs/videos/browser/native-drag-drop",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/browser/05-native-drag-drop/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "native-drag-drop",
+                "title": "使用原生 JS Drag & Drop API 实现元素拖拽和文件拖放",
+                "slug": "../native-drag-drop",
+                "description": "有时候经常会好奇那些可视化拖拽的工具，还有拖放文件上传是怎么实现的，是不是得监听鼠标点击，移动和释放事件，然后同时计算新位置的坐标？其实不用那么麻烦，浏览器提供了内置的 Drag & Drop API，能很方便的实现拖拽功能。",
+                "keywords": [
+                  "dom",
+                  "bom",
+                  "drag",
+                  "drop",
+                  "前端",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "JS HTML DOM 操作入门教程",
+                "permalink": "/docs/videos/browser/js-dom-manipulate"
+              },
+              "next": {
+                "title": "Web Components 前端开发入门教程",
+                "permalink": "/docs/videos/browser/web-components-get-started"
+              }
+            },
+            {
+              "unversionedId": "videos/browser/web-components-get-started/web-components-get-started",
+              "id": "videos/browser/web-components-get-started/web-components-get-started",
+              "isDocsHomePage": false,
+              "title": "Web Components 前端开发入门教程",
+              "description": "Web components 是原生的组件化开发技术，它可以让我们创建自定义的 HTML 元素，并且功能和样式都会封装在组件内部，不影响其它的元素。Web Components 与现有的 React 和 Vue 等库不冲突，而是相辅相成的。",
+              "source": "@site/docs/videos/browser/04-web-components-get-started/index.md",
+              "sourceDirName": "videos/browser/04-web-components-get-started",
+              "slug": "/videos/browser/web-components-get-started",
+              "permalink": "/docs/videos/browser/web-components-get-started",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/browser/04-web-components-get-started/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "web-components-get-started",
+                "title": "Web Components 前端开发入门教程",
+                "description": "Web components 是原生的组件化开发技术，它可以让我们创建自定义的 HTML 元素，并且功能和样式都会封装在组件内部，不影响其它的元素。Web Components 与现有的 React 和 Vue 等库不冲突，而是相辅相成的。",
+                "slug": "../web-components-get-started",
+                "keywords": [
+                  "web components",
+                  "dom",
+                  "browser",
+                  "组件化",
+                  "前端",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "使用原生 JS Drag & Drop API 实现元素拖拽和文件拖放",
+                "permalink": "/docs/videos/browser/native-drag-drop"
+              },
+              "next": {
+                "title": "JS 原生高性能的动画实现：Web Animations API",
+                "permalink": "/docs/videos/browser/js-web-animations-api"
+              }
+            },
+            {
+              "unversionedId": "videos/css/03-5-tips-master-css/5-tips-master-css",
+              "id": "videos/css/03-5-tips-master-css/5-tips-master-css",
+              "isDocsHomePage": false,
+              "title": "5个 CSS 特效实现和发现灵感网站推荐",
+              "description": "5 个技巧助你成为 CSS 大师！",
+              "source": "@site/docs/videos/css/03-5-tips-master-css/index.md",
+              "sourceDirName": "videos/css/03-5-tips-master-css",
+              "slug": "/videos/css/5-tips-master-css",
+              "permalink": "/docs/videos/css/5-tips-master-css",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/css/03-5-tips-master-css/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "5-tips-master-css",
+                "title": "5个 CSS 特效实现和发现灵感网站推荐",
+                "description": "5 个技巧助你成为 CSS 大师！",
+                "slug": "../5-tips-master-css",
+                "keywords": [
+                  "css",
+                  "css3",
+                  "前端",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "最直观的 JavaScript Event Loop 动画演示",
+                "permalink": "/docs/videos/js/javascript-eventloop"
+              },
+              "next": {
+                "title": "CSS Grid 布局入门教程",
+                "permalink": "/docs/videos/css/css-grid-layout"
+              }
+            },
+            {
+              "unversionedId": "videos/css/css-common-properties/css-common-properties",
+              "id": "videos/css/css-common-properties/css-common-properties",
+              "isDocsHomePage": false,
+              "title": "CSS 常用样式属性",
+              "description": "CSS 对于页面元素的美化，都有特定的套路，我们需要熟记一些 CSS 常用的属性才能快速并且优雅的实现复杂的样式。这个视频就给大家介绍一下 CSS 经常用到的一些样式属性。",
+              "source": "@site/docs/videos/css/13-css-common-properties/index.md",
+              "sourceDirName": "videos/css/13-css-common-properties",
+              "slug": "/videos/css/css-common-properties",
+              "permalink": "/docs/videos/css/css-common-properties",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/css/13-css-common-properties/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "css-common-properties",
+                "title": "CSS 常用样式属性",
+                "slug": "../css-common-properties",
+                "description": "CSS 对于页面元素的美化，都有特定的套路，我们需要熟记一些 CSS 常用的属性才能快速并且优雅的实现复杂的样式。这个视频就给大家介绍一下 CSS 经常用到的一些样式属性。",
+                "keywords": [
+                  "css",
+                  "properties",
+                  "props",
+                  "样式",
+                  "属性",
+                  "前端",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "CSS最新特性 Container Queries 介绍",
+                "permalink": "/docs/videos/css/css-container-queries-intro"
+              },
+              "next": {
+                "title": "CSS 过渡和动画属性",
+                "permalink": "/docs/videos/css/css-transition-keyframes-intro"
+              }
+            },
+            {
+              "unversionedId": "videos/css/css-conic-gradient-tutorial/css-conic-gradient-tutorial",
+              "id": "videos/css/css-conic-gradient-tutorial/css-conic-gradient-tutorial",
+              "isDocsHomePage": false,
+              "title": "利用 CSS conic-gradient 制作饼图和色盘",
+              "description": "请输入描述",
+              "source": "@site/docs/videos/css/11-css-conic-gradient-tutorial/index.md",
+              "sourceDirName": "videos/css/11-css-conic-gradient-tutorial",
+              "slug": "/videos/css/css-conic-gradient-tutorial",
+              "permalink": "/docs/videos/css/css-conic-gradient-tutorial",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/css/11-css-conic-gradient-tutorial/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "css-conic-gradient-tutorial",
+                "title": "利用 CSS conic-gradient 制作饼图和色盘",
+                "slug": "../css-conic-gradient-tutorial",
+                "description": "请输入描述",
+                "keywords": [
+                  "css",
+                  "gradient",
+                  "conic-gradient",
+                  "conic",
+                  "锥形渐变",
+                  "前端",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "利用 CSS Counter 计数器添加章节序号",
+                "permalink": "/docs/videos/css/css-counter-state-management"
+              },
+              "next": {
+                "title": "CSS最新特性 Container Queries 介绍",
+                "permalink": "/docs/videos/css/css-container-queries-intro"
+              }
+            },
+            {
+              "unversionedId": "videos/css/css-container-queries-intro/css-container-queries-intro",
+              "id": "videos/css/css-container-queries-intro/css-container-queries-intro",
+              "isDocsHomePage": false,
+              "title": "CSS最新特性 Container Queries 介绍",
+              "description": "SS Container Queries 是最新的响应式设计方式，通过它，可以方便的对通用的组件，进行响应式设计, 根据容器的尺寸去调整它内部元素的排列，而不是基于浏览器的宽度。",
+              "source": "@site/docs/videos/css/12-css-container-queries-intro/index.md",
+              "sourceDirName": "videos/css/12-css-container-queries-intro",
+              "slug": "/videos/css/css-container-queries-intro",
+              "permalink": "/docs/videos/css/css-container-queries-intro",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/css/12-css-container-queries-intro/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "css-container-queries-intro",
+                "title": "CSS最新特性 Container Queries 介绍",
+                "slug": "../css-container-queries-intro",
+                "description": "SS Container Queries 是最新的响应式设计方式，通过它，可以方便的对通用的组件，进行响应式设计, 根据容器的尺寸去调整它内部元素的排列，而不是基于浏览器的宽度。",
+                "keywords": [
+                  "css",
+                  "container queries",
+                  "css container queries",
+                  "响应式",
+                  "容器查询",
+                  "前端",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "利用 CSS conic-gradient 制作饼图和色盘",
+                "permalink": "/docs/videos/css/css-conic-gradient-tutorial"
+              },
+              "next": {
+                "title": "CSS 常用样式属性",
+                "permalink": "/docs/videos/css/css-common-properties"
+              }
+            },
+            {
+              "unversionedId": "videos/css/css-counter-state-management/css-counter-state-management",
+              "id": "videos/css/css-counter-state-management/css-counter-state-management",
+              "isDocsHomePage": false,
+              "title": "利用 CSS Counter 计数器添加章节序号",
+              "description": "我们在写 markdown 或者博客这种以内容为主的网页的时候，经常会有给标题加上序号的需求，就跟写书一样，在一级标题前加上第 1 章、第 2 章等，二级标题加上 1.1，1.2 之类的序号，三级标题则为 1.1.1、1.1.2",
+              "source": "@site/docs/videos/css/010-css-counter-state-management/index.md",
+              "sourceDirName": "videos/css/010-css-counter-state-management",
+              "slug": "/videos/css/css-counter-state-management",
+              "permalink": "/docs/videos/css/css-counter-state-management",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/css/010-css-counter-state-management/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "css-counter-state-management",
+                "title": "利用 CSS Counter 计数器添加章节序号",
+                "slug": "../css-counter-state-management",
+                "description": "我们在写 markdown 或者博客这种以内容为主的网页的时候，经常会有给标题加上序号的需求，就跟写书一样，在一级标题前加上第 1 章、第 2 章等，二级标题加上 1.1，1.2 之类的序号，三级标题则为 1.1.1、1.1.2",
+                "keywords": [
+                  "css",
+                  "counter",
+                  "counter-reset",
+                  "counter-increment",
+                  "计数器",
+                  "css 计数器",
+                  "前端",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "使用 Gap 属性给 CSS Flex 布局设置间距",
+                "permalink": "/docs/videos/css/css-flex-gap-tutorial"
+              },
+              "next": {
+                "title": "利用 CSS conic-gradient 制作饼图和色盘",
+                "permalink": "/docs/videos/css/css-conic-gradient-tutorial"
+              }
+            },
+            {
+              "unversionedId": "videos/css/css-flex-gap-tutorial/css-flex-gap-tutorial",
+              "id": "videos/css/css-flex-gap-tutorial/css-flex-gap-tutorial",
+              "isDocsHomePage": false,
+              "title": "使用 Gap 属性给 CSS Flex 布局设置间距",
+              "description": "我们知道css grid 布局有 gap 属性，可以让行和列之间有同样的空隙，但是有的时候我们并不需要使用 grid 布局，而是只想对一行，或者是一列元素，调整它的间距，如果在 flex 下也能使用 gap 就好了。",
+              "source": "@site/docs/videos/css/09-css-flex-gap-tutorial/index.md",
+              "sourceDirName": "videos/css/09-css-flex-gap-tutorial",
+              "slug": "/videos/css/css-flex-gap-tutorial",
+              "permalink": "/docs/videos/css/css-flex-gap-tutorial",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/css/09-css-flex-gap-tutorial/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "css-flex-gap-tutorial",
+                "title": "使用 Gap 属性给 CSS Flex 布局设置间距",
+                "slug": "../css-flex-gap-tutorial",
+                "description": "我们知道css grid 布局有 gap 属性，可以让行和列之间有同样的空隙，但是有的时候我们并不需要使用 grid 布局，而是只想对一行，或者是一列元素，调整它的间距，如果在 flex 下也能使用 gap 就好了。",
+                "keywords": [
+                  "css",
+                  "flex",
+                  "gap",
+                  "布局",
+                  "前端",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "使用 CSS 实现 word 中的图片文字环绕效果",
+                "permalink": "/docs/videos/css/css-text-image-wrap"
+              },
+              "next": {
+                "title": "利用 CSS Counter 计数器添加章节序号",
+                "permalink": "/docs/videos/css/css-counter-state-management"
+              }
+            },
+            {
+              "unversionedId": "videos/css/css-grid-place-items/css-grid-place-items",
+              "id": "videos/css/css-grid-place-items/css-grid-place-items",
+              "isDocsHomePage": false,
+              "title": "使用 2 行 CSS 代码居中元素",
+              "description": "在 CSS 中，最方便的居中方式就是使用 flex 布局或 grid 布局，利用 align 和 justify 分别设置垂直和水平方向上居中对齐，这样需要 3 行代码才能实现。有没有办法使用 2 行代码就实现呢？答案是有的。",
+              "source": "@site/docs/videos/css/07-css-grid-place-items/index.md",
+              "sourceDirName": "videos/css/07-css-grid-place-items",
+              "slug": "/videos/css/css-grid-place-items",
+              "permalink": "/docs/videos/css/css-grid-place-items",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/css/07-css-grid-place-items/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "css-grid-place-items",
+                "title": "使用 2 行 CSS 代码居中元素",
+                "description": "在 CSS 中，最方便的居中方式就是使用 flex 布局或 grid 布局，利用 align 和 justify 分别设置垂直和水平方向上居中对齐，这样需要 3 行代码才能实现。有没有办法使用 2 行代码就实现呢？答案是有的。",
+                "slug": "../css-grid-place-items",
+                "keywords": [
+                  "css",
+                  "color",
+                  "grid",
+                  "place-items",
+                  "前端",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "CSS HSL：更直观、可复用的 CSS 颜色表示法，不再盲猜颜色",
+                "permalink": "/docs/videos/css/css-hsl-color"
+              },
+              "next": {
+                "title": "使用 CSS 实现 word 中的图片文字环绕效果",
+                "permalink": "/docs/videos/css/css-text-image-wrap"
+              }
+            },
+            {
+              "unversionedId": "videos/css/css-hsl-color/css-hsl-color",
+              "id": "videos/css/css-hsl-color/css-hsl-color",
+              "isDocsHomePage": false,
+              "title": "CSS HSL：更直观、可复用的 CSS 颜色表示法，不再盲猜颜色",
+              "description": "CSS 的定位通过 position 属性设置，它有 static, relative, absolute, fixed, sticky 这几种。",
+              "source": "@site/docs/videos/css/06-css-hsl-color/index.md",
+              "sourceDirName": "videos/css/06-css-hsl-color",
+              "slug": "/videos/css/css-hsl-color",
+              "permalink": "/docs/videos/css/css-hsl-color",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/css/06-css-hsl-color/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "css-hsl-color",
+                "title": "CSS HSL：更直观、可复用的 CSS 颜色表示法，不再盲猜颜色",
+                "description": "CSS 的定位通过 position 属性设置，它有 static, relative, absolute, fixed, sticky 这几种。",
+                "slug": "../css-hsl-color",
+                "keywords": [
+                  "css",
+                  "color",
+                  "hsl",
+                  "颜色",
+                  "前端",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "CSS 5 大定位属性 Static, Relative, Absolute, Fixed, Sticky 使用教程",
+                "permalink": "/docs/videos/css/css-position"
+              },
+              "next": {
+                "title": "使用 2 行 CSS 代码居中元素",
+                "permalink": "/docs/videos/css/css-grid-place-items"
+              }
+            },
+            {
+              "unversionedId": "videos/css/css-text-image-wrap/css-text-image-wrap",
+              "id": "videos/css/css-text-image-wrap/css-text-image-wrap",
+              "isDocsHomePage": false,
+              "title": "使用 CSS 实现 word 中的图片文字环绕效果",
+              "description": "都说写网页跟写 word 文档类似，那么 word 文档可以设置图片和文字的环绕方式，CSS 可以吗？",
+              "source": "@site/docs/videos/css/08-css-text-image-wrap/index.md",
+              "sourceDirName": "videos/css/08-css-text-image-wrap",
+              "slug": "/videos/css/css-text-image-wrap",
+              "permalink": "/docs/videos/css/css-text-image-wrap",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/css/08-css-text-image-wrap/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "css-text-image-wrap",
+                "title": "使用 CSS 实现 word 中的图片文字环绕效果",
+                "slug": "../css-text-image-wrap",
+                "description": "都说写网页跟写 word 文档类似，那么 word 文档可以设置图片和文字的环绕方式，CSS 可以吗？",
+                "keywords": [
+                  "css",
+                  "text",
+                  "wrap",
+                  "shape-outside",
+                  "前端",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "使用 2 行 CSS 代码居中元素",
+                "permalink": "/docs/videos/css/css-grid-place-items"
+              },
+              "next": {
+                "title": "使用 Gap 属性给 CSS Flex 布局设置间距",
+                "permalink": "/docs/videos/css/css-flex-gap-tutorial"
+              }
+            },
+            {
+              "unversionedId": "videos/css/css-transition-keyframes-intro/css-transition-keyframes-intro",
+              "id": "videos/css/css-transition-keyframes-intro/css-transition-keyframes-intro",
+              "isDocsHomePage": false,
+              "title": "CSS 过渡和动画属性",
+              "description": "自从 CSS 支持动画属性之后，网站应用的用户体验变得更加丰富了。通过动画视觉效果可以引导用户的关注焦点，获得流畅的心理感受并且更容易理解网站的功能。另外使用 CSS 动画属性，比使用 JavaScript 性能更好，浏览器可以减少不可见的选项卡的动画的执行速度。CSS 中实现动画效果有两种方式，一种是使用 `transition` 过渡属性，另一种是使用 `@keyframes` 定义关键帧动画。我们先来看一下 transition 属性。",
+              "source": "@site/docs/videos/css/14-css-transition-keyframes-intro/index.md",
+              "sourceDirName": "videos/css/14-css-transition-keyframes-intro",
+              "slug": "/videos/css/css-transition-keyframes-intro",
+              "permalink": "/docs/videos/css/css-transition-keyframes-intro",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/css/14-css-transition-keyframes-intro/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "css-transition-keyframes-intro",
+                "title": "CSS 过渡和动画属性",
+                "slug": "../css-transition-keyframes-intro",
+                "description": "自从 CSS 支持动画属性之后，网站应用的用户体验变得更加丰富了。通过动画视觉效果可以引导用户的关注焦点，获得流畅的心理感受并且更容易理解网站的功能。另外使用 CSS 动画属性，比使用 JavaScript 性能更好，浏览器可以减少不可见的选项卡的动画的执行速度。CSS 中实现动画效果有两种方式，一种是使用 `transition` 过渡属性，另一种是使用 `@keyframes` 定义关键帧动画。我们先来看一下 transition 属性。",
+                "keywords": [
+                  "css",
+                  "transition",
+                  "keyframes",
+                  "过渡",
+                  "动画",
+                  "前端",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "CSS 常用样式属性",
+                "permalink": "/docs/videos/css/css-common-properties"
+              },
+              "next": {
+                "title": "HTML 网页制作基础入门教程",
+                "permalink": "/docs/videos/html/html-get-started"
+              }
+            },
+            {
+              "unversionedId": "videos/css/flex-layout/flex-layout",
+              "id": "videos/css/flex-layout/flex-layout",
+              "isDocsHomePage": false,
+              "title": "CSS flex 布局入门教程",
+              "description": "CSS Flex 布局 2分钟动画快速掌握。",
+              "source": "@site/docs/videos/css/02-flex-layout/index.md",
+              "sourceDirName": "videos/css/02-flex-layout",
+              "slug": "/videos/css/css-flex-layout",
+              "permalink": "/docs/videos/css/css-flex-layout",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/css/02-flex-layout/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "flex-layout",
+                "title": "CSS flex 布局入门教程",
+                "description": "CSS Flex 布局 2分钟动画快速掌握。",
+                "slug": "../css-flex-layout",
+                "keywords": [
+                  "css",
+                  "flex",
+                  "grid",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "CSS Grid 布局入门教程",
+                "permalink": "/docs/videos/css/css-grid-layout"
+              },
+              "next": {
+                "title": "JS DOM 和 CSS 选择器入门教程",
+                "permalink": "/docs/videos/css/css-selectors"
+              }
+            },
+            {
+              "unversionedId": "videos/css/grid-layout/grid-layout",
+              "id": "videos/css/grid-layout/grid-layout",
+              "isDocsHomePage": false,
+              "title": "CSS Grid 布局入门教程",
+              "description": "CSS Grid 布局 2分钟动画快速掌握。",
+              "source": "@site/docs/videos/css/01-grid-layout/index.md",
+              "sourceDirName": "videos/css/01-grid-layout",
+              "slug": "/videos/css/css-grid-layout",
+              "permalink": "/docs/videos/css/css-grid-layout",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/css/01-grid-layout/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "grid-layout",
+                "title": "CSS Grid 布局入门教程",
+                "description": "CSS Grid 布局 2分钟动画快速掌握。",
+                "slug": "../css-grid-layout",
+                "keywords": [
+                  "css",
+                  "flex",
+                  "grid",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "5个 CSS 特效实现和发现灵感网站推荐",
+                "permalink": "/docs/videos/css/5-tips-master-css"
+              },
+              "next": {
+                "title": "CSS flex 布局入门教程",
+                "permalink": "/docs/videos/css/css-flex-layout"
+              }
+            },
+            {
+              "unversionedId": "videos/css/position/css-position",
+              "id": "videos/css/position/css-position",
+              "isDocsHomePage": false,
+              "title": "CSS 5 大定位属性 Static, Relative, Absolute, Fixed, Sticky 使用教程",
+              "description": "CSS 的定位通过 position 属性设置，它有 static, relative, absolute, fixed, sticky 这几种。",
+              "source": "@site/docs/videos/css/05-position/index.md",
+              "sourceDirName": "videos/css/05-position",
+              "slug": "/videos/css/css-position",
+              "permalink": "/docs/videos/css/css-position",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/css/05-position/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "css-position",
+                "title": "CSS 5 大定位属性 Static, Relative, Absolute, Fixed, Sticky 使用教程",
+                "description": "CSS 的定位通过 position 属性设置，它有 static, relative, absolute, fixed, sticky 这几种。",
+                "slug": "../css-position",
+                "keywords": [
+                  "css",
+                  "position",
+                  "定位",
+                  "前端",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "JS DOM 和 CSS 选择器入门教程",
+                "permalink": "/docs/videos/css/css-selectors"
+              },
+              "next": {
+                "title": "CSS HSL：更直观、可复用的 CSS 颜色表示法，不再盲猜颜色",
+                "permalink": "/docs/videos/css/css-hsl-color"
+              }
+            },
+            {
+              "unversionedId": "videos/css/selectors/css-selectors",
+              "id": "videos/css/selectors/css-selectors",
+              "isDocsHomePage": false,
+              "title": "JS DOM 和 CSS 选择器入门教程",
+              "description": "选择器（Selector）用于选取 HTML 元素，既可以用于，在 CSS 中，给对应的元素添加样式，也在 JavaScript 中操作 HTML  DOM。由于选择器的用途广泛且重要，所以这个视频整理了常用的选择器的语法规则和效果。",
+              "source": "@site/docs/videos/css/04-selectors/index.md",
+              "sourceDirName": "videos/css/04-selectors",
+              "slug": "/videos/css/css-selectors",
+              "permalink": "/docs/videos/css/css-selectors",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/css/04-selectors/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "css-selectors",
+                "title": "JS DOM 和 CSS 选择器入门教程",
+                "description": "选择器（Selector）用于选取 HTML 元素，既可以用于，在 CSS 中，给对应的元素添加样式，也在 JavaScript 中操作 HTML  DOM。由于选择器的用途广泛且重要，所以这个视频整理了常用的选择器的语法规则和效果。",
+                "slug": "../css-selectors",
+                "keywords": [
+                  "css",
+                  "dom",
+                  "选择器",
+                  "前端",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "CSS flex 布局入门教程",
+                "permalink": "/docs/videos/css/css-flex-layout"
+              },
+              "next": {
+                "title": "CSS 5 大定位属性 Static, Relative, Absolute, Fixed, Sticky 使用教程",
+                "permalink": "/docs/videos/css/css-position"
+              }
+            },
+            {
+              "unversionedId": "videos/effects/cyberpunk/effects-glitch",
+              "id": "videos/effects/cyberpunk/effects-glitch",
+              "isDocsHomePage": false,
+              "title": "使用 CSS 实现赛博朋克 2077 官网按钮色差故障",
+              "description": "玩着玩着游戏，突然想仿一个官网做教程，发现光按钮的特效就够折腾的，那么就先研究一下它是怎么实现的吧，研究结果都在视频里了，源代码在视频简介中。",
+              "source": "@site/docs/videos/effects/02-cyberpunk/index.md",
+              "sourceDirName": "videos/effects/02-cyberpunk",
+              "slug": "/videos/effects/effects-glitch",
+              "permalink": "/docs/videos/effects/effects-glitch",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/effects/02-cyberpunk/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "effects-glitch",
+                "title": "使用 CSS 实现赛博朋克 2077 官网按钮色差故障",
+                "description": "玩着玩着游戏，突然想仿一个官网做教程，发现光按钮的特效就够折腾的，那么就先研究一下它是怎么实现的吧，研究结果都在视频里了，源代码在视频简介中。",
+                "slug": "../effects-glitch",
+                "keywords": [
+                  "css",
+                  "glitch",
+                  "赛博朋克",
+                  "特效",
+                  "前端",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "教你使用 2 行代码实现毛玻璃特效 Glassmorphism，附代码生成工具",
+                "permalink": "/docs/videos/effects/css-glassmorphism"
+              },
+              "next": {
+                "title": "使用 2 行 CSS 代码实现可缩放的 HTML 元素",
+                "permalink": "/docs/videos/effects/effects-resizable"
+              }
+            },
+            {
+              "unversionedId": "videos/effects/glassmorphism/effects-glassmorphism",
+              "id": "videos/effects/glassmorphism/effects-glassmorphism",
+              "isDocsHomePage": false,
+              "title": "教你使用 2 行代码实现毛玻璃特效 Glassmorphism，附代码生成工具",
+              "description": "之前我做过这样一期视频，实现一个毛玻璃特效的登录表单。当时的思路是这样的，首先有一个原始的背景图片，在它上面再放上一张一模一样的图片，然后给他设置模糊滤镜，再用一个圆角矩形的框，把它作为蒙版，把图片超出的部分给隐藏掉，只显示表单这一块区域所用到的部分，然后再给它设置一个内部的阴影，让它看起来有一个玻璃反光的效果，这样就有了玻璃特效。这个是比较原始的方式。",
+              "source": "@site/docs/videos/effects/01-glassmorphism/index.md",
+              "sourceDirName": "videos/effects/01-glassmorphism",
+              "slug": "/videos/effects/css-glassmorphism",
+              "permalink": "/docs/videos/effects/css-glassmorphism",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/effects/01-glassmorphism/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "effects-glassmorphism",
+                "title": "教你使用 2 行代码实现毛玻璃特效 Glassmorphism，附代码生成工具",
+                "description": "之前我做过这样一期视频，实现一个毛玻璃特效的登录表单。当时的思路是这样的，首先有一个原始的背景图片，在它上面再放上一张一模一样的图片，然后给他设置模糊滤镜，再用一个圆角矩形的框，把它作为蒙版，把图片超出的部分给隐藏掉，只显示表单这一块区域所用到的部分，然后再给它设置一个内部的阴影，让它看起来有一个玻璃反光的效果，这样就有了玻璃特效。这个是比较原始的方式。",
+                "slug": "../css-glassmorphism",
+                "keywords": [
+                  "css",
+                  "glassmorphism",
+                  "backdrop-filter",
+                  "特效",
+                  "前端",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "创建一个工业风的网站 | HTML & CSS 入门教程",
+                "permalink": "/docs/videos/projects/html-css-full-website-idustrial"
+              },
+              "next": {
+                "title": "使用 CSS 实现赛博朋克 2077 官网按钮色差故障",
+                "permalink": "/docs/videos/effects/effects-glitch"
+              }
+            },
+            {
+              "unversionedId": "videos/effects/gradient-animation/gradient-animation",
+              "id": "videos/effects/gradient-animation/gradient-animation",
+              "isDocsHomePage": false,
+              "title": "使用 CSS 实现渐变背景色过渡动画",
+              "description": "那种首页有好看的渐变背景动画的效果是怎么实现的呢？我们知道 css 的 linear-gradient() 函数不支持对它其中的颜色参数进行动画，还有其它纯 CSS 的方式吗？",
+              "source": "@site/docs/videos/effects/04-gradient-animation/index.md",
+              "sourceDirName": "videos/effects/04-gradient-animation",
+              "slug": "/videos/effects/css-gradient-animation",
+              "permalink": "/docs/videos/effects/css-gradient-animation",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/effects/04-gradient-animation/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "gradient-animation",
+                "title": "使用 CSS 实现渐变背景色过渡动画",
+                "description": "那种首页有好看的渐变背景动画的效果是怎么实现的呢？我们知道 css 的 linear-gradient() 函数不支持对它其中的颜色参数进行动画，还有其它纯 CSS 的方式吗？",
+                "slug": "../css-gradient-animation",
+                "keywords": [
+                  "css",
+                  "渐变",
+                  "动画",
+                  "特效",
+                  "前端",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "使用 2 行 CSS 代码实现可缩放的 HTML 元素",
+                "permalink": "/docs/videos/effects/effects-resizable"
+              },
+              "next": {
+                "title": "JS 实现鼠标滚轮横向滚动特效",
+                "permalink": "/docs/videos/effects/js-horizontal-scroll-effect"
+              }
+            },
+            {
+              "unversionedId": "videos/effects/js-horizontal-scroll-effect/js-horizontal-scroll-effect",
+              "id": "videos/effects/js-horizontal-scroll-effect/js-horizontal-scroll-effect",
+              "isDocsHomePage": false,
+              "title": "JS 实现鼠标滚轮横向滚动特效",
+              "description": "在前端这个无奇不有的世界里，有些网站不是正常垂直滚动的，而是横向滚动的，那么在没法把鼠标滚轮横过来的前提下（苹果除外），能否实现网页横向滚动呢？我们来写代码试试。",
+              "source": "@site/docs/videos/effects/05-js-horizontal-scroll-effect/index.md",
+              "sourceDirName": "videos/effects/05-js-horizontal-scroll-effect",
+              "slug": "/videos/effects/js-horizontal-scroll-effect",
+              "permalink": "/docs/videos/effects/js-horizontal-scroll-effect",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/effects/05-js-horizontal-scroll-effect/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "js-horizontal-scroll-effect",
+                "title": "JS 实现鼠标滚轮横向滚动特效",
+                "slug": "../js-horizontal-scroll-effect",
+                "description": "在前端这个无奇不有的世界里，有些网站不是正常垂直滚动的，而是横向滚动的，那么在没法把鼠标滚轮横过来的前提下（苹果除外），能否实现网页横向滚动呢？我们来写代码试试。",
+                "keywords": [
+                  "effects",
+                  "特效",
+                  "横向滚动",
+                  "前端",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "使用 CSS 实现渐变背景色过渡动画",
+                "permalink": "/docs/videos/effects/css-gradient-animation"
+              },
+              "next": {
+                "title": "HTML DOM 入门简介",
+                "permalink": "/docs/videos/browser/what-is-dom"
+              }
+            },
+            {
+              "unversionedId": "videos/effects/resize/effects-resizable",
+              "id": "videos/effects/resize/effects-resizable",
+              "isDocsHomePage": false,
+              "title": "使用 2 行 CSS 代码实现可缩放的 HTML 元素",
+              "description": "CSS 里有一个 resize 属性，可以给 HTML 元素添加上缩放按钮，就像 textarea 元素的一样。不过它只能给块级元素，例如 div 添加，并且需要把元素的 overflow 属性设置为 auto、hidden 或 scroll 其中的一种。resize 常用的属性值有 horizontal、vertical 和 both 三种属性，分别控制是否可以水平缩放、垂直缩放或同时缩放。",
+              "source": "@site/docs/videos/effects/03-resize/index.md",
+              "sourceDirName": "videos/effects/03-resize",
+              "slug": "/videos/effects/effects-resizable",
+              "permalink": "/docs/videos/effects/effects-resizable",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/effects/03-resize/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "effects-resizable",
+                "title": "使用 2 行 CSS 代码实现可缩放的 HTML 元素",
+                "description": "CSS 里有一个 resize 属性，可以给 HTML 元素添加上缩放按钮，就像 textarea 元素的一样。不过它只能给块级元素，例如 div 添加，并且需要把元素的 overflow 属性设置为 auto、hidden 或 scroll 其中的一种。resize 常用的属性值有 horizontal、vertical 和 both 三种属性，分别控制是否可以水平缩放、垂直缩放或同时缩放。",
+                "slug": "../effects-resizable",
+                "keywords": [
+                  "css",
+                  "resizable",
+                  "resize",
+                  "特效",
+                  "前端",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "使用 CSS 实现赛博朋克 2077 官网按钮色差故障",
+                "permalink": "/docs/videos/effects/effects-glitch"
+              },
+              "next": {
+                "title": "使用 CSS 实现渐变背景色过渡动画",
+                "permalink": "/docs/videos/effects/css-gradient-animation"
+              }
+            },
+            {
+              "unversionedId": "videos/express/express-get-started/express-get-started",
+              "id": "videos/express/express-get-started/express-get-started",
+              "isDocsHomePage": false,
+              "title": "Express.js 快速入门指南",
+              "description": "Express 是 Node.js 的 web 开发框架。它是 unopinionated 意思是框架本身只提供最小 web 应用开发 API，不限制应用设计模式（比如 MVC，MVP)、代码规范以及功能的选择（例如是否有视图层生成 html 页面）。",
+              "source": "@site/docs/videos/express/02-express-get-started/index.md",
+              "sourceDirName": "videos/express/02-express-get-started",
+              "slug": "/videos/express/express-get-started",
+              "permalink": "/docs/videos/express/express-get-started",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/express/02-express-get-started/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "express-get-started",
+                "title": "Express.js 快速入门指南",
+                "slug": "../express-get-started",
+                "description": "Express 是 Node.js 的 web 开发框架。它是 unopinionated 意思是框架本身只提供最小 web 应用开发 API，不限制应用设计模式（比如 MVC，MVP)、代码规范以及功能的选择（例如是否有视图层生成 html 页面）。",
+                "keywords": [
+                  "express",
+                  "api",
+                  "node.js",
+                  "nodejs",
+                  "后端",
+                  "全栈"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "TypeScript：面向对象特性之多态",
+                "permalink": "/docs/videos/ts/typescript-oop-polymorphism"
+              },
+              "next": {
+                "title": "Express + MongoDB 实现 Restful API 教程",
+                "permalink": "/docs/videos/express/express-mongo-crud"
+              }
+            },
+            {
+              "unversionedId": "videos/express/express-mongo-crud/express-mongo-crud",
+              "id": "videos/express/express-mongo-crud/express-mongo-crud",
+              "isDocsHomePage": false,
+              "title": "Express + MongoDB 实现 Restful API 教程",
+              "description": "之前分别讲了 Express 和MongoDB的使用方法。那么该如何把他们两个结合到一起呢？毕竟把后端应用程序和数据库连起来才能构成一个完整的后端API。这个视频就教你实现一个完整的后端增删改查API。要更好的理解视频的内容，你需要熟悉 ES6、ES7的语法，尤其是 async/await 的用法。",
+              "source": "@site/docs/videos/express/01-express-mongo-crud/index.md",
+              "sourceDirName": "videos/express/01-express-mongo-crud",
+              "slug": "/videos/express/express-mongo-crud",
+              "permalink": "/docs/videos/express/express-mongo-crud",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/express/01-express-mongo-crud/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "express-mongo-crud",
+                "title": "Express + MongoDB 实现 Restful API 教程",
+                "slug": "../express-mongo-crud",
+                "description": "之前分别讲了 Express 和MongoDB的使用方法。那么该如何把他们两个结合到一起呢？毕竟把后端应用程序和数据库连起来才能构成一个完整的后端API。这个视频就教你实现一个完整的后端增删改查API。要更好的理解视频的内容，你需要熟悉 ES6、ES7的语法，尤其是 async/await 的用法。",
+                "keywords": [
+                  "express",
+                  "mongodb",
+                  "crud",
+                  "restful api",
+                  "后端",
+                  "backend",
+                  "全栈",
+                  "fullstack"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "Express.js 快速入门指南",
+                "permalink": "/docs/videos/express/express-get-started"
+              },
+              "next": {
+                "title": "2020最新 MongoDB 4.2 快速入门教程",
+                "permalink": "/docs/videos/mongo/mongodb-get-started"
+              }
+            },
+            {
+              "unversionedId": "videos/html/html-basics/html-basics",
+              "id": "videos/html/html-basics/html-basics",
+              "isDocsHomePage": false,
+              "title": "HTML 网页制作基础入门教程",
+              "description": "一个视频快速了解 HTML 基础，从零开始编写自己的网页。",
+              "source": "@site/docs/videos/html/01-html-basics/index.md",
+              "sourceDirName": "videos/html/01-html-basics",
+              "slug": "/videos/html/html-get-started",
+              "permalink": "/docs/videos/html/html-get-started",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/html/01-html-basics/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "html-basics",
+                "title": "HTML 网页制作基础入门教程",
+                "description": "一个视频快速了解 HTML 基础，从零开始编写自己的网页。",
+                "slug": "../html-get-started",
+                "keywords": [
+                  "html",
+                  "html5",
+                  "主义化",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "CSS 过渡和动画属性",
+                "permalink": "/docs/videos/css/css-transition-keyframes-intro"
+              },
+              "next": {
+                "title": "创建一个工业风的网站 | HTML & CSS 入门教程",
+                "permalink": "/docs/videos/projects/html-css-full-website-idustrial"
+              }
+            },
+            {
+              "unversionedId": "videos/js/event-loop/event-loop",
+              "id": "videos/js/event-loop/event-loop",
+              "isDocsHomePage": false,
+              "title": "最直观的 JavaScript Event Loop 动画演示",
+              "description": "JS Event Loop 事件循环机制视频动画详解。setTimeout(), Promise(), then() 之间的调用和执行顺序",
+              "source": "@site/docs/videos/js/01-event-loop/index.md",
+              "sourceDirName": "videos/js/01-event-loop",
+              "slug": "/videos/js/javascript-eventloop",
+              "permalink": "/docs/videos/js/javascript-eventloop",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/js/01-event-loop/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "event-loop",
+                "title": "最直观的 JavaScript Event Loop 动画演示",
+                "description": "JS Event Loop 事件循环机制视频动画详解。setTimeout(), Promise(), then() 之间的调用和执行顺序",
+                "slug": "../javascript-eventloop",
+                "keywords": [
+                  "JavaScript",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "技术视频栏目简介",
+                "permalink": "/docs/videos"
+              },
+              "next": {
+                "title": "5个 CSS 特效实现和发现灵感网站推荐",
+                "permalink": "/docs/videos/css/5-tips-master-css"
+              }
+            },
+            {
+              "unversionedId": "videos/mongo/mongodb-get-started/mongodb-get-started",
+              "id": "videos/mongo/mongodb-get-started/mongodb-get-started",
+              "isDocsHomePage": false,
+              "title": "2020最新 MongoDB 4.2 快速入门教程",
+              "description": "MongoDB 是以文档为存储结构的数据库，文档是一种类似于 JSON 的数据。 MongoDB 是非关系型数据库(NoSQL），它们有共同的特点，就是高可用(High Availability)、高性能（High Performance)、可伸缩(Scalability)。",
+              "source": "@site/docs/videos/mongo/01-mongodb-get-started/index.md",
+              "sourceDirName": "videos/mongo/01-mongodb-get-started",
+              "slug": "/videos/mongo/mongodb-get-started",
+              "permalink": "/docs/videos/mongo/mongodb-get-started",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/mongo/01-mongodb-get-started/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "mongodb-get-started",
+                "title": "2020最新 MongoDB 4.2 快速入门教程",
+                "slug": "../mongodb-get-started",
+                "description": "MongoDB 是以文档为存储结构的数据库，文档是一种类似于 JSON 的数据。 MongoDB 是非关系型数据库(NoSQL），它们有共同的特点，就是高可用(High Availability)、高性能（High Performance)、可伸缩(Scalability)。",
+                "keywords": [
+                  "mongo",
+                  "mongodb",
+                  "mongodb 入门",
+                  "后端",
+                  "backend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "Express + MongoDB 实现 Restful API 教程",
+                "permalink": "/docs/videos/express/express-mongo-crud"
+              },
+              "next": {
+                "title": "开发工具：CodeSandBox 和 VS Code",
+                "permalink": "/docs/videos/tools/tools-vs-code-codesandbox"
+              }
+            },
+            {
+              "unversionedId": "videos/network/http-basics/http-basics",
+              "id": "videos/network/http-basics/http-basics",
+              "isDocsHomePage": false,
+              "title": "HTTP 协议基础入门教程",
+              "description": "前后端交互之 HTTP 协议。HTTP协议简明概述。",
+              "source": "@site/docs/videos/network/01-http-basics/index.md",
+              "sourceDirName": "videos/network/01-http-basics",
+              "slug": "/videos/network/http-basics",
+              "permalink": "/docs/videos/network/http-basics",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/network/01-http-basics/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "http-basics",
+                "title": "HTTP 协议基础入门教程",
+                "description": "前后端交互之 HTTP 协议。HTTP协议简明概述。",
+                "slug": "../http-basics",
+                "keywords": [
+                  "network",
+                  "http",
+                  "https",
+                  "网络",
+                  "网络协议",
+                  "http协议"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "JS 原生高性能的动画实现：Web Animations API",
+                "permalink": "/docs/videos/browser/js-web-animations-api"
+              },
+              "next": {
+                "title": "HTTPS 原理和 TLS 握手机制",
+                "permalink": "/docs/videos/network/https-basics"
+              }
+            },
+            {
+              "unversionedId": "videos/network/https-basics/https-basics",
+              "id": "videos/network/https-basics/https-basics",
+              "isDocsHomePage": false,
+              "title": "HTTPS 原理和 TLS 握手机制",
+              "description": "前后端交互之 HTTPS 协议。HTTPS协议简明概述。",
+              "source": "@site/docs/videos/network/02-https-basics/index.md",
+              "sourceDirName": "videos/network/02-https-basics",
+              "slug": "/videos/network/https-basics",
+              "permalink": "/docs/videos/network/https-basics",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/network/02-https-basics/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "https-basics",
+                "title": "HTTPS 原理和 TLS 握手机制",
+                "description": "前后端交互之 HTTPS 协议。HTTPS协议简明概述。",
+                "slug": "../https-basics",
+                "keywords": [
+                  "network",
+                  "http",
+                  "https",
+                  "网络",
+                  "网络协议",
+                  "http协议"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "HTTP 协议基础入门教程",
+                "permalink": "/docs/videos/network/http-basics"
+              },
+              "next": {
+                "title": "React Props 属性介绍，制作一个漂亮的按钮",
+                "permalink": "/docs/videos/react/react-props-example"
+              }
+            },
+            {
+              "unversionedId": "videos/projects/html-css-full-website-idustrial/html-css-full-website-idustrial",
+              "id": "videos/projects/html-css-full-website-idustrial/html-css-full-website-idustrial",
+              "isDocsHomePage": false,
+              "title": "创建一个工业风的网站 | HTML & CSS 入门教程",
+              "description": "这是一个 ‌入门级的网站，‌ 只涉及到了简单的 html 和 CSS 的基本知识，‌‌ 适合初学者入门。这是一个 PC 端的 web 页面，‌ 我们主要通过这一个项目来了解一下。",
+              "source": "@site/docs/videos/projects/01-html-css-full-website-idustrial/index.md",
+              "sourceDirName": "videos/projects/01-html-css-full-website-idustrial",
+              "slug": "/videos/projects/html-css-full-website-idustrial",
+              "permalink": "/docs/videos/projects/html-css-full-website-idustrial",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/projects/01-html-css-full-website-idustrial/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "html-css-full-website-idustrial",
+                "title": "创建一个工业风的网站 | HTML & CSS 入门教程",
+                "slug": "../html-css-full-website-idustrial",
+                "description": "这是一个 ‌入门级的网站，‌ 只涉及到了简单的 html 和 CSS 的基本知识，‌‌ 适合初学者入门。这是一个 PC 端的 web 页面，‌ 我们主要通过这一个项目来了解一下。",
+                "keywords": [
+                  "html",
+                  "color",
+                  "grid",
+                  "place-items",
+                  "前端",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "HTML 网页制作基础入门教程",
+                "permalink": "/docs/videos/html/html-get-started"
+              },
+              "next": {
+                "title": "教你使用 2 行代码实现毛玻璃特效 Glassmorphism，附代码生成工具",
+                "permalink": "/docs/videos/effects/css-glassmorphism"
+              }
+            },
+            {
+              "unversionedId": "videos/react/03-5-react-spring-animations/5-react-spring-animations",
+              "id": "videos/react/03-5-react-spring-animations/5-react-spring-animations",
+              "isDocsHomePage": false,
+              "title": "精选 5 个 React Spring 前端动画",
+              "description": "来自 react-spring 官网的 5 个酷炫、复杂的动画示例，通过学习代码可以掌握高级动画的实现方式。React Spring 是一个物理弹簧仿真动画实现库。",
+              "source": "@site/docs/videos/react/03-5-react-spring-animations/index.md",
+              "sourceDirName": "videos/react/03-5-react-spring-animations",
+              "slug": "/videos/react/5-react-spring-examples",
+              "permalink": "/docs/videos/react/5-react-spring-examples",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/react/03-5-react-spring-animations/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "5-react-spring-animations",
+                "title": "精选 5 个 React Spring 前端动画",
+                "description": "来自 react-spring 官网的 5 个酷炫、复杂的动画示例，通过学习代码可以掌握高级动画的实现方式。React Spring 是一个物理弹簧仿真动画实现库。",
+                "slug": "../5-react-spring-examples"
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "React 状态和事件处理，制作渐变背景生成器",
+                "permalink": "/docs/videos/react/react-state-event-exmaple"
+              },
+              "next": {
+                "title": "React + Docusaurus 博客列表视图实现",
+                "permalink": "/docs/videos/react/react-docusaurus-blog-list-view"
+              }
+            },
+            {
+              "unversionedId": "videos/react/gradient-bg-react-state-event/react-state-event-gradient",
+              "id": "videos/react/gradient-bg-react-state-event/react-state-event-gradient",
+              "isDocsHomePage": false,
+              "title": "React 状态和事件处理，制作渐变背景生成器",
+              "description": "用一个渐变背景生成器来演示React State & Event 用法。",
+              "source": "@site/docs/videos/react/02-gradient-bg-react-state-event/index.md",
+              "sourceDirName": "videos/react/02-gradient-bg-react-state-event",
+              "slug": "/videos/react/react-state-event-exmaple",
+              "permalink": "/docs/videos/react/react-state-event-exmaple",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/react/02-gradient-bg-react-state-event/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "react-state-event-gradient",
+                "title": "React 状态和事件处理，制作渐变背景生成器",
+                "description": "用一个渐变背景生成器来演示React State & Event 用法。",
+                "slug": "../react-state-event-exmaple"
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "React Props 属性介绍，制作一个漂亮的按钮",
+                "permalink": "/docs/videos/react/react-props-example"
+              },
+              "next": {
+                "title": "精选 5 个 React Spring 前端动画",
+                "permalink": "/docs/videos/react/5-react-spring-examples"
+              }
+            },
+            {
+              "unversionedId": "videos/react/react-docusaurus-blog-list-view/react-docusaurus-blog-list-view",
+              "id": "videos/react/react-docusaurus-blog-list-view/react-docusaurus-blog-list-view",
+              "isDocsHomePage": false,
+              "title": "React + Docusaurus 博客列表视图实现",
+              "description": "网站之前加上了列表视图，方便快速查找文章，这个视频整理了制作过程，网站代码是开源的，可以结合视频理解（非常非常简单！）。",
+              "source": "@site/docs/videos/react/04-react-docusaurus-blog-list-view/index.md",
+              "sourceDirName": "videos/react/04-react-docusaurus-blog-list-view",
+              "slug": "/videos/react/react-docusaurus-blog-list-view",
+              "permalink": "/docs/videos/react/react-docusaurus-blog-list-view",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/react/04-react-docusaurus-blog-list-view/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "react-docusaurus-blog-list-view",
+                "title": "React + Docusaurus 博客列表视图实现",
+                "slug": "../react-docusaurus-blog-list-view",
+                "description": "网站之前加上了列表视图，方便快速查找文章，这个视频整理了制作过程，网站代码是开源的，可以结合视频理解（非常非常简单！）。",
+                "keywords": [
+                  "react",
+                  "docusaurus",
+                  "blog",
+                  "hooks",
+                  "list",
+                  "前端",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "精选 5 个 React Spring 前端动画",
+                "permalink": "/docs/videos/react/5-react-spring-examples"
+              },
+              "next": {
+                "title": "Vue 3.0 实战，开发基于 Composition API 的 Todo Web App",
+                "permalink": "/docs/videos/vue/develop-a-todo-app-using-vue3"
+              }
+            },
+            {
+              "unversionedId": "videos/react/react-props-buttons/react-props-button",
+              "id": "videos/react/react-props-buttons/react-props-button",
+              "isDocsHomePage": false,
+              "title": "React Props 属性介绍，制作一个漂亮的按钮",
+              "description": "使用按钮组件展示 React Props 的使用方法",
+              "source": "@site/docs/videos/react/01-react-props-buttons/index.md",
+              "sourceDirName": "videos/react/01-react-props-buttons",
+              "slug": "/videos/react/react-props-example",
+              "permalink": "/docs/videos/react/react-props-example",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/react/01-react-props-buttons/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "react-props-button",
+                "title": "React Props 属性介绍，制作一个漂亮的按钮",
+                "description": "使用按钮组件展示 React Props 的使用方法",
+                "slug": "../react-props-example"
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "HTTPS 原理和 TLS 握手机制",
+                "permalink": "/docs/videos/network/https-basics"
+              },
+              "next": {
+                "title": "React 状态和事件处理，制作渐变背景生成器",
+                "permalink": "/docs/videos/react/react-state-event-exmaple"
+              }
+            },
+            {
+              "unversionedId": "videos/tools/tools-vs-code-codesandbox/tools-vs-code-codesandbox",
+              "id": "videos/tools/tools-vs-code-codesandbox/tools-vs-code-codesandbox",
+              "isDocsHomePage": false,
+              "title": "开发工具：CodeSandBox 和 VS Code",
+              "description": "这两个工具一个是线上的 CodeSandBox，一个是本地的 Visual Studio Code，这两款工具其实是一个，只不过 CodeSandBox 把 Visual Studio Code 放到了线上。",
+              "source": "@site/docs/videos/tools/01-tools-vs-code-codesandbox/index.md",
+              "sourceDirName": "videos/tools/01-tools-vs-code-codesandbox",
+              "slug": "/videos/tools/tools-vs-code-codesandbox",
+              "permalink": "/docs/videos/tools/tools-vs-code-codesandbox",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/tools/01-tools-vs-code-codesandbox/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "tools-vs-code-codesandbox",
+                "title": "开发工具：CodeSandBox 和 VS Code",
+                "slug": "../tools-vs-code-codesandbox",
+                "description": "这两个工具一个是线上的 CodeSandBox，一个是本地的 Visual Studio Code，这两款工具其实是一个，只不过 CodeSandBox 把 Visual Studio Code 放到了线上。",
+                "keywords": [
+                  "tools",
+                  "vs code",
+                  "codesandbox",
+                  "开发工具",
+                  "前端",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "2020最新 MongoDB 4.2 快速入门教程",
+                "permalink": "/docs/videos/mongo/mongodb-get-started"
+              }
+            },
+            {
+              "unversionedId": "videos/ts/intro/ts-intro",
+              "id": "videos/ts/intro/ts-intro",
+              "isDocsHomePage": false,
+              "title": "TypeScript 入门教程",
+              "description": "TypeScript 官方定义是 JavaScript的、带有类型的超集，并且能够编译为普通的 JavaScript。这里有三个重点，一个是编译，一个是带有类型，一个是超集。",
+              "source": "@site/docs/videos/ts/01-intro/index.md",
+              "sourceDirName": "videos/ts/01-intro",
+              "slug": "/videos/ts/typscript-intro",
+              "permalink": "/docs/videos/ts/typscript-intro",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/ts/01-intro/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "ts-intro",
+                "title": "TypeScript 入门教程",
+                "description": "TypeScript 官方定义是 JavaScript的、带有类型的超集，并且能够编译为普通的 JavaScript。这里有三个重点，一个是编译，一个是带有类型，一个是超集。",
+                "slug": "../typscript-intro",
+                "keywords": [
+                  "JavaScript",
+                  "TypeScript",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "Vue 3.0 + ECharts 实现电影票房自定义环形图教程",
+                "permalink": "/docs/videos/vue/vue-echarts-doughnut-chart"
+              },
+              "next": {
+                "title": "TypeScript：面向对象编程基础",
+                "permalink": "/docs/videos/ts/typescript-oo-basics"
+              }
+            },
+            {
+              "unversionedId": "videos/ts/typescript-oo-basics/typescript-oo-basics",
+              "id": "videos/ts/typescript-oo-basics/typescript-oo-basics",
+              "isDocsHomePage": false,
+              "title": "TypeScript：面向对象编程基础",
+              "description": "面向对象这个词听起来好像很抽象，什么是对象，什么要面向它？这个视频就给你介绍一下面向对象编程的概念，并且使用 TypeScript 来演示面向对象的代码。如果你有一定的编程基础，但是对面向对象这个概念比较模糊的话，那这个视频就是适合你的。",
+              "source": "@site/docs/videos/ts/02-typescript-oo-basics/index.md",
+              "sourceDirName": "videos/ts/02-typescript-oo-basics",
+              "slug": "/videos/ts/typescript-oo-basics",
+              "permalink": "/docs/videos/ts/typescript-oo-basics",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/ts/02-typescript-oo-basics/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "typescript-oo-basics",
+                "title": "TypeScript：面向对象编程基础",
+                "slug": "../typescript-oo-basics",
+                "description": "面向对象这个词听起来好像很抽象，什么是对象，什么要面向它？这个视频就给你介绍一下面向对象编程的概念，并且使用 TypeScript 来演示面向对象的代码。如果你有一定的编程基础，但是对面向对象这个概念比较模糊的话，那这个视频就是适合你的。",
+                "keywords": [
+                  "ts",
+                  "typescript",
+                  "面向对象",
+                  "前端",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "TypeScript 入门教程",
+                "permalink": "/docs/videos/ts/typscript-intro"
+              },
+              "next": {
+                "title": "TypeScript：面向对象特性之封装与抽象",
+                "permalink": "/docs/videos/ts/typescript-oop-abstraction"
+              }
+            },
+            {
+              "unversionedId": "videos/ts/typescript-oop-abstraction/typescript-oop-abstraction",
+              "id": "videos/ts/typescript-oop-abstraction/typescript-oop-abstraction",
+              "isDocsHomePage": false,
+              "title": "TypeScript：面向对象特性之封装与抽象",
+              "description": "对象里有属性和方法，封装是说把一些属性和方法设置为私有的，只能在对象内部访问和修改，然后把想暴露给外界的属性和方法设置为公开，这样就能保护对象里的数据。比如开车时，通过踩油门和刹车来控制速度，而不是手动修改速度的数值。",
+              "source": "@site/docs/videos/ts/03-typescript-oop-abstraction/index.md",
+              "sourceDirName": "videos/ts/03-typescript-oop-abstraction",
+              "slug": "/videos/ts/typescript-oop-abstraction",
+              "permalink": "/docs/videos/ts/typescript-oop-abstraction",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/ts/03-typescript-oop-abstraction/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "typescript-oop-abstraction",
+                "title": "TypeScript：面向对象特性之封装与抽象",
+                "slug": "../typescript-oop-abstraction",
+                "description": "对象里有属性和方法，封装是说把一些属性和方法设置为私有的，只能在对象内部访问和修改，然后把想暴露给外界的属性和方法设置为公开，这样就能保护对象里的数据。比如开车时，通过踩油门和刹车来控制速度，而不是手动修改速度的数值。",
+                "keywords": [
+                  "ts",
+                  "面向对象",
+                  "typescript",
+                  "封装",
+                  "前端",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "TypeScript：面向对象编程基础",
+                "permalink": "/docs/videos/ts/typescript-oo-basics"
+              },
+              "next": {
+                "title": "TypeScript：面向对象特性之继承",
+                "permalink": "/docs/videos/ts/typescript-oop-inheritance"
+              }
+            },
+            {
+              "unversionedId": "videos/ts/typescript-oop-inheritance/typescript-oop-inheritance",
+              "id": "videos/ts/typescript-oop-inheritance/typescript-oop-inheritance",
+              "isDocsHomePage": false,
+              "title": "TypeScript：面向对象特性之继承",
+              "description": "继承在日常生活中随处可见，比如，我们都继承自人，都有同样的身体结构，但是有不同的样貌和技能。再比如，汽车之间也有相同的结构，但是有不同的外形和品牌。在编程语言里，继承也是通过这样的机制，来获得通用的属性和方法，而继承出来的类可以通过覆盖它们来增加自己独特的属性和方法。",
+              "source": "@site/docs/videos/ts/04-typescript-oop-inheritance/index.md",
+              "sourceDirName": "videos/ts/04-typescript-oop-inheritance",
+              "slug": "/videos/ts/typescript-oop-inheritance",
+              "permalink": "/docs/videos/ts/typescript-oop-inheritance",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/ts/04-typescript-oop-inheritance/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "typescript-oop-inheritance",
+                "title": "TypeScript：面向对象特性之继承",
+                "slug": "../typescript-oop-inheritance",
+                "description": "继承在日常生活中随处可见，比如，我们都继承自人，都有同样的身体结构，但是有不同的样貌和技能。再比如，汽车之间也有相同的结构，但是有不同的外形和品牌。在编程语言里，继承也是通过这样的机制，来获得通用的属性和方法，而继承出来的类可以通过覆盖它们来增加自己独特的属性和方法。",
+                "keywords": [
+                  "ts",
+                  "面向对象",
+                  "typescript",
+                  "继承",
+                  "前端",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "TypeScript：面向对象特性之封装与抽象",
+                "permalink": "/docs/videos/ts/typescript-oop-abstraction"
+              },
+              "next": {
+                "title": "TypeScript：面向对象特性之多态",
+                "permalink": "/docs/videos/ts/typescript-oop-polymorphism"
+              }
+            },
+            {
+              "unversionedId": "videos/ts/typescript-oop-polymorphism/typescript-oop-polymorphism",
+              "id": "videos/ts/typescript-oop-polymorphism/typescript-oop-polymorphism",
+              "isDocsHomePage": false,
+              "title": "TypeScript：面向对象特性之多态",
+              "description": "多态，是说一种物质，有多种状态，在很多生活场景中都能遇到这种现象。当组装电脑的时候，我们知道主板上有 CPU、显卡接口，对于显卡来说，只要接口型号匹配，那么不管它的厂家是谁、性能如何，它都能正常的发挥作用。在编程世界里，多态表现为，在创建对象的时候，不需要知道它具体是由哪个 class 创建的，但是通过继承或接口，我明确知道它包含一些方法和属性，这样我能安全的调用它们。接下来，分别看一下，在 typescript 中使用继承方式和接口方式实现多态。",
+              "source": "@site/docs/videos/ts/05-typescript-oop-polymorphism/index.md",
+              "sourceDirName": "videos/ts/05-typescript-oop-polymorphism",
+              "slug": "/videos/ts/typescript-oop-polymorphism",
+              "permalink": "/docs/videos/ts/typescript-oop-polymorphism",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/ts/05-typescript-oop-polymorphism/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "typescript-oop-polymorphism",
+                "title": "TypeScript：面向对象特性之多态",
+                "slug": "../typescript-oop-polymorphism",
+                "description": "多态，是说一种物质，有多种状态，在很多生活场景中都能遇到这种现象。当组装电脑的时候，我们知道主板上有 CPU、显卡接口，对于显卡来说，只要接口型号匹配，那么不管它的厂家是谁、性能如何，它都能正常的发挥作用。在编程世界里，多态表现为，在创建对象的时候，不需要知道它具体是由哪个 class 创建的，但是通过继承或接口，我明确知道它包含一些方法和属性，这样我能安全的调用它们。接下来，分别看一下，在 typescript 中使用继承方式和接口方式实现多态。",
+                "keywords": [
+                  "ts",
+                  "typescript",
+                  "polymorphism",
+                  "多态",
+                  "面向对象",
+                  "前端",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "TypeScript：面向对象特性之继承",
+                "permalink": "/docs/videos/ts/typescript-oop-inheritance"
+              },
+              "next": {
+                "title": "Express.js 快速入门指南",
+                "permalink": "/docs/videos/express/express-get-started"
+              }
+            },
+            {
+              "unversionedId": "videos/videos-intro",
+              "id": "videos/videos-intro",
+              "isDocsHomePage": false,
+              "title": "技术视频栏目简介",
+              "description": "欢迎访问峰华前端工程师博客！这个页面是我发布的视频合集，包括嵌入的 B 站视频和文本，方便大家引用视频中的代码和链接等。",
+              "source": "@site/docs/videos/index.md",
+              "sourceDirName": "videos",
+              "slug": "/videos",
+              "permalink": "/docs/videos",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "videos-intro",
+                "title": "技术视频栏目简介",
+                "slug": "/videos",
+                "description": "欢迎访问峰华前端工程师博客！这个页面是我发布的视频合集，包括嵌入的 B 站视频和文本，方便大家引用视频中的代码和链接等。",
+                "keywords": [
+                  "JavaScript",
+                  "frontend",
+                  "视频教程",
+                  "前端"
+                ]
+              },
+              "sidebar": "videos",
+              "next": {
+                "title": "最直观的 JavaScript Event Loop 动画演示",
+                "permalink": "/docs/videos/js/javascript-eventloop"
+              }
+            },
+            {
+              "unversionedId": "videos/vue/vite-get-started/vite-get-started",
+              "id": "videos/vue/vite-get-started/vite-get-started",
+              "isDocsHomePage": false,
+              "title": "Vite 2.0 极速体验，全框架支持 Vue/React/Svelte 的开发环境",
+              "description": "这几天研究了一下 Vite 2.0，之前在 Vue3 的官方文档有看到过如何使用 Vite 新建一个 Vue 项目，但是没有去了解它，就在最近我收到了关于 Vite 2.0 的新闻推送，看到它支持很多框架，像是 React、Vue、Sevlte，于是就来了兴趣，试了试它的开发体验。整体还是很不错的。首先看一下 Vite 是个什么东西。",
+              "source": "@site/docs/videos/vue/02-vite-get-started/index.md",
+              "sourceDirName": "videos/vue/02-vite-get-started",
+              "slug": "/videos/vue/vite-get-started",
+              "permalink": "/docs/videos/vue/vite-get-started",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/vue/02-vite-get-started/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "vite-get-started",
+                "title": "Vite 2.0 极速体验，全框架支持 Vue/React/Svelte 的开发环境",
+                "slug": "../vite-get-started",
+                "description": "这几天研究了一下 Vite 2.0，之前在 Vue3 的官方文档有看到过如何使用 Vite 新建一个 Vue 项目，但是没有去了解它，就在最近我收到了关于 Vite 2.0 的新闻推送，看到它支持很多框架，像是 React、Vue、Sevlte，于是就来了兴趣，试了试它的开发体验。整体还是很不错的。首先看一下 Vite 是个什么东西。",
+                "keywords": [
+                  "vite",
+                  "vue",
+                  "脚手架",
+                  "vue-cli",
+                  "前端",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "Vue 3.0 实战，开发基于 Composition API 的 Todo Web App",
+                "permalink": "/docs/videos/vue/develop-a-todo-app-using-vue3"
+              },
+              "next": {
+                "title": "Vue 3 Watch API 的使用注意事项",
+                "permalink": "/docs/videos/vue/vue-watch-api-tips"
+              }
+            },
+            {
+              "unversionedId": "videos/vue/vue-echarts-bar-chart/vue-echarts-bar-chart",
+              "id": "videos/vue/vue-echarts-bar-chart/vue-echarts-bar-chart",
+              "isDocsHomePage": false,
+              "title": "Vue 3.0 + Echarts 电影票房数据可视化柱状图展示",
+              "description": "数据可视化已经成为前端发展的一个重要的方向了，利用大数据可以预测趋势、行为。那么数据在进行计算出来之后，最重要 的一步就是进行展示，不展示出来，再好的数据也没说服力。这个视频就看一下，如何利用咱们上期封装好的 Vue Echarts 组件，来展示一下电影票房柱状图的实现过程。先看一效果。",
+              "source": "@site/docs/videos/vue/05-vue-echarts-bar-chart/index.md",
+              "sourceDirName": "videos/vue/05-vue-echarts-bar-chart",
+              "slug": "/videos/vue/vue-echarts-bar-chart",
+              "permalink": "/docs/videos/vue/vue-echarts-bar-chart",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/vue/05-vue-echarts-bar-chart/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "vue-echarts-bar-chart",
+                "title": "Vue 3.0 + Echarts 电影票房数据可视化柱状图展示",
+                "slug": "../vue-echarts-bar-chart",
+                "description": "数据可视化已经成为前端发展的一个重要的方向了，利用大数据可以预测趋势、行为。那么数据在进行计算出来之后，最重要 的一步就是进行展示，不展示出来，再好的数据也没说服力。这个视频就看一下，如何利用咱们上期封装好的 Vue Echarts 组件，来展示一下电影票房柱状图的实现过程。先看一效果。",
+                "keywords": [
+                  "vue",
+                  "echarts",
+                  "柱状图",
+                  "票房",
+                  "前端",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "封装 Echarts 为 Vue.js 组件教程",
+                "permalink": "/docs/videos/vue/vue-echarts-integration"
+              },
+              "next": {
+                "title": "Vue 3.0 + ECharts 实现电影票房自定义环形图教程",
+                "permalink": "/docs/videos/vue/vue-echarts-doughnut-chart"
+              }
+            },
+            {
+              "unversionedId": "videos/vue/vue-echarts-doughnut-chart/vue-echarts-doughnut-chart",
+              "id": "videos/vue/vue-echarts-doughnut-chart/vue-echarts-doughnut-chart",
+              "isDocsHomePage": false,
+              "title": "Vue 3.0 + ECharts 实现电影票房自定义环形图教程",
+              "description": "上期视频我们实现了票房的柱状图展示，那么这期视频我们来看一个环形图的配置。先看一下最终效果，环形图的各个部分表示的是某个电影的票房占比，占比越高的颜色越浅，占比越低的颜色越深，每部分还会有指示线，配有文本指明这块区域是哪部电影，占比是多少。鼠标移到某区域的时候，会显示提示框，上面有电影名和具体的数值。在大体了解做成什么样之后，我们来看一下组件的主要代码。",
+              "source": "@site/docs/videos/vue/06-vue-echarts-doughnut-chart/index.md",
+              "sourceDirName": "videos/vue/06-vue-echarts-doughnut-chart",
+              "slug": "/videos/vue/vue-echarts-doughnut-chart",
+              "permalink": "/docs/videos/vue/vue-echarts-doughnut-chart",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/vue/06-vue-echarts-doughnut-chart/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "vue-echarts-doughnut-chart",
+                "title": "Vue 3.0 + ECharts 实现电影票房自定义环形图教程",
+                "slug": "../vue-echarts-doughnut-chart",
+                "description": "上期视频我们实现了票房的柱状图展示，那么这期视频我们来看一个环形图的配置。先看一下最终效果，环形图的各个部分表示的是某个电影的票房占比，占比越高的颜色越浅，占比越低的颜色越深，每部分还会有指示线，配有文本指明这块区域是哪部电影，占比是多少。鼠标移到某区域的时候，会显示提示框，上面有电影名和具体的数值。在大体了解做成什么样之后，我们来看一下组件的主要代码。",
+                "keywords": [
+                  "vue",
+                  "echarts",
+                  "vue-echarts",
+                  "柱状图",
+                  "前端",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "Vue 3.0 + Echarts 电影票房数据可视化柱状图展示",
+                "permalink": "/docs/videos/vue/vue-echarts-bar-chart"
+              },
+              "next": {
+                "title": "TypeScript 入门教程",
+                "permalink": "/docs/videos/ts/typscript-intro"
+              }
+            },
+            {
+              "unversionedId": "videos/vue/vue-echarts-integration/vue-echarts-integration",
+              "id": "videos/vue/vue-echarts-integration/vue-echarts-integration",
+              "isDocsHomePage": false,
+              "title": "封装 Echarts 为 Vue.js 组件教程",
+              "description": "在上一家公司里，公司的产品用到了大量的图表进行数据可视化，当时公司决定使用的是 Echarts，它是一个与框架无关的 JS 图表库，所以需要自行封装到 react 或 vue 中。",
+              "source": "@site/docs/videos/vue/04-vue-echarts-integration/index.md",
+              "sourceDirName": "videos/vue/04-vue-echarts-integration",
+              "slug": "/videos/vue/vue-echarts-integration",
+              "permalink": "/docs/videos/vue/vue-echarts-integration",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/vue/04-vue-echarts-integration/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "vue-echarts-integration",
+                "title": "封装 Echarts 为 Vue.js 组件教程",
+                "slug": "../vue-echarts-integration",
+                "description": "在上一家公司里，公司的产品用到了大量的图表进行数据可视化，当时公司决定使用的是 Echarts，它是一个与框架无关的 JS 图表库，所以需要自行封装到 react 或 vue 中。",
+                "keywords": [
+                  "vue",
+                  "echarts",
+                  "vue-echarts",
+                  "封装 Echarts 为 Vue 组件",
+                  "封装 Echarts",
+                  "前端",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "Vue 3 Watch API 的使用注意事项",
+                "permalink": "/docs/videos/vue/vue-watch-api-tips"
+              },
+              "next": {
+                "title": "Vue 3.0 + Echarts 电影票房数据可视化柱状图展示",
+                "permalink": "/docs/videos/vue/vue-echarts-bar-chart"
+              }
+            },
+            {
+              "unversionedId": "videos/vue/vue-todo-app/vue-todo-app",
+              "id": "videos/vue/vue-todo-app/vue-todo-app",
+              "isDocsHomePage": false,
+              "title": "Vue 3.0 实战，开发基于 Composition API 的 Todo Web App",
+              "description": "Vue 3 实战系列的视频来啦！我们会从寻找项目灵感开始，到创建项目、编写 HTML、编写 CSS、拆分组件、完成功能、优化代码结束。这一期是关于如何寻找项目灵感的，学完某个技术没 idea 的难题可以解决了。",
+              "source": "@site/docs/videos/vue/01-vue-todo-app/index.md",
+              "sourceDirName": "videos/vue/01-vue-todo-app",
+              "slug": "/videos/vue/develop-a-todo-app-using-vue3",
+              "permalink": "/docs/videos/vue/develop-a-todo-app-using-vue3",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/vue/01-vue-todo-app/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "vue-todo-app",
+                "title": "Vue 3.0 实战，开发基于 Composition API 的 Todo Web App",
+                "description": "Vue 3 实战系列的视频来啦！我们会从寻找项目灵感开始，到创建项目、编写 HTML、编写 CSS、拆分组件、完成功能、优化代码结束。这一期是关于如何寻找项目灵感的，学完某个技术没 idea 的难题可以解决了。",
+                "slug": "../develop-a-todo-app-using-vue3",
+                "keywords": [
+                  "vue3",
+                  "css",
+                  "vue",
+                  "html",
+                  "javascript",
+                  "前端",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "React + Docusaurus 博客列表视图实现",
+                "permalink": "/docs/videos/react/react-docusaurus-blog-list-view"
+              },
+              "next": {
+                "title": "Vite 2.0 极速体验，全框架支持 Vue/React/Svelte 的开发环境",
+                "permalink": "/docs/videos/vue/vite-get-started"
+              }
+            },
+            {
+              "unversionedId": "videos/vue/vue-watch-api-tips/vue-watch-api-tips",
+              "id": "videos/vue/vue-watch-api-tips/vue-watch-api-tips",
+              "isDocsHomePage": false,
+              "title": "Vue 3 Watch API 的使用注意事项",
+              "description": "Vue 的 composition api 虽然简化了 vue 组件的代码，但是在实际使用过程中仍然需要注意一些问题。这里我把我在体验 vue 3 composition api 的过程中遇到的比较重要的问题整理了一下，尤其是对于有 React 开发经验的人来学习 Vue，会更有帮助。",
+              "source": "@site/docs/videos/vue/03-vue-watch-api-tips/index.md",
+              "sourceDirName": "videos/vue/03-vue-watch-api-tips",
+              "slug": "/videos/vue/vue-watch-api-tips",
+              "permalink": "/docs/videos/vue/vue-watch-api-tips",
+              "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/vue/03-vue-watch-api-tips/index.md",
+              "version": "current",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018/10/14",
+              "frontMatter": {
+                "id": "vue-watch-api-tips",
+                "title": "Vue 3 Watch API 的使用注意事项",
+                "slug": "../vue-watch-api-tips",
+                "description": "Vue 的 composition api 虽然简化了 vue 组件的代码，但是在实际使用过程中仍然需要注意一些问题。这里我把我在体验 vue 3 composition api 的过程中遇到的比较重要的问题整理了一下，尤其是对于有 React 开发经验的人来学习 Vue，会更有帮助。",
+                "keywords": [
+                  "vue",
+                  "watch",
+                  "watch api",
+                  "setup",
+                  "vue 3",
+                  "composition api",
+                  "前端",
+                  "frontend"
+                ]
+              },
+              "sidebar": "videos",
+              "previous": {
+                "title": "Vite 2.0 极速体验，全框架支持 Vue/React/Svelte 的开发环境",
+                "permalink": "/docs/videos/vue/vite-get-started"
+              },
+              "next": {
+                "title": "封装 Echarts 为 Vue.js 组件教程",
+                "permalink": "/docs/videos/vue/vue-echarts-integration"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogPosts": [
+        {
+          "id": "how-to-learn-a-programming-language-quickly",
+          "metadata": {
+            "permalink": "/how-to-learn-a-programming-language-quickly",
+            "source": "@site/blog/2021-06-27-how-to-learn-a-programming-language-quickly.md",
+            "title": "如何快速学会一门编程语言",
+            "description": "面对越来越激烈的内卷，程序员需要掌握的技能越来越多，并且对于快速掌握一门编程语言的能力也日趋重要，因为现在的开发基本都是多端、各种语言都会使用，能快速的转换，才能在编程界里立足。",
+            "date": "2021-06-27T00:00:00.000Z",
+            "formattedDate": "2021年6月27日",
+            "tags": [
+              {
+                "label": "职业",
+                "permalink": "/tags/职业"
+              }
+            ],
+            "readingTime": 0.145,
+            "truncated": false,
+            "nextItem": {
+              "title": "CSS :is() 伪类选择器使用指南",
+              "permalink": "/css-is-pseudo-class-selector"
+            }
+          }
+        },
+        {
+          "id": "css-is-pseudo-class-selector",
+          "metadata": {
+            "permalink": "/css-is-pseudo-class-selector",
+            "source": "@site/blog/2021-06-07-css-is-pseudo-class-selector.md",
+            "title": "CSS :is() 伪类选择器使用指南",
+            "description": "css :is() 伪类选择器还是一个正在逐步规范化的新特性，所以在使用上也需要注意一下变动，总之，它可以让我们减少编写重复选择器的次数，实现像 SASS/Less 等 CSS 预处理编译器类似的嵌套语法。",
+            "date": "2021-06-07T00:00:00.000Z",
+            "formattedDate": "2021年6月7日",
+            "tags": [
+              {
+                "label": "css",
+                "permalink": "/tags/css"
+              },
+              {
+                "label": "selectors",
+                "permalink": "/tags/selectors"
+              },
+              {
+                "label": "is",
+                "permalink": "/tags/is"
+              },
+              {
+                "label": "css选择器",
+                "permalink": "/tags/css选择器"
+              },
+              {
+                "label": "is选择器",
+                "permalink": "/tags/is选择器"
+              }
+            ],
+            "readingTime": 0.915,
+            "truncated": true,
+            "prevItem": {
+              "title": "如何快速学会一门编程语言",
+              "permalink": "/how-to-learn-a-programming-language-quickly"
+            },
+            "nextItem": {
+              "title": "面试没通过，又一次，我好菜呀...",
+              "permalink": "/interview-failed-recover"
+            }
+          }
+        },
+        {
+          "id": "interview-failed-recover",
+          "metadata": {
+            "permalink": "/interview-failed-recover",
+            "source": "@site/blog/2021-04-02-interview-failed-recover.md",
+            "title": "面试没通过，又一次，我好菜呀...",
+            "description": "是不是每次面试没通过都会有这样的感觉？作为一名程序员，每次面试的时候都觉得准备不充分，面试资料多的看不完，实战经验也不够，即使自认为准备的很充分了，最后还是栽了，到底是因为自己菜，还是自己菜，还是自己菜呢？要回答这个问题，我们得先知道面试到底在面什么。",
+            "date": "2021-04-02T00:00:00.000Z",
+            "formattedDate": "2021年4月2日",
+            "tags": [
+              {
+                "label": "职业",
+                "permalink": "/tags/职业"
+              },
+              {
+                "label": "面试",
+                "permalink": "/tags/面试"
+              },
+              {
+                "label": "经验",
+                "permalink": "/tags/经验"
+              }
+            ],
+            "readingTime": 0.265,
+            "truncated": true,
+            "prevItem": {
+              "title": "CSS :is() 伪类选择器使用指南",
+              "permalink": "/css-is-pseudo-class-selector"
+            },
+            "nextItem": {
+              "title": "Web性能优化：使用图片懒加载推迟屏幕外图片的加载",
+              "permalink": "/web-performance-optimization-image-lazy-loading"
+            }
+          }
+        },
+        {
+          "id": "web-performance-optimization-image-lazy-loading",
+          "metadata": {
+            "permalink": "/web-performance-optimization-image-lazy-loading",
+            "source": "@site/blog/2021-03-23-web-performance-optimization-image-lazy-loading.md",
+            "title": "Web性能优化：使用图片懒加载推迟屏幕外图片的加载",
+            "description": "在使用 chrome 的 lighthouse 对网站进行测速之后，发现有一条优化提示：推迟屏幕外的图片加载。之前有看到过要实现这样的效果需要使用 lazy loading，图片懒加载，但是需要使用 js 的方式来实现，由于本人十分懒惰，不想用太复杂的代码，于是在网上搜索了一番，发现 `<img>`  标签原生支持懒加载。",
+            "date": "2021-03-23T00:00:00.000Z",
+            "formattedDate": "2021年3月23日",
+            "tags": [
+              {
+                "label": "前端",
+                "permalink": "/tags/前端"
+              },
+              {
+                "label": "JavaScript",
+                "permalink": "/tags/java-script"
+              },
+              {
+                "label": "性能优化",
+                "permalink": "/tags/性能优化"
+              }
+            ],
+            "readingTime": 0.645,
+            "truncated": true,
+            "prevItem": {
+              "title": "面试没通过，又一次，我好菜呀...",
+              "permalink": "/interview-failed-recover"
+            },
+            "nextItem": {
+              "title": "实现前端网页 WebRTC 视频通话以及换脸特效",
+              "permalink": "/webrtc-avatarify-face-swap-tutorial"
+            }
+          }
+        },
+        {
+          "id": "webrtc-avatarify-face-swap-tutorial",
+          "metadata": {
+            "permalink": "/webrtc-avatarify-face-swap-tutorial",
+            "source": "@site/blog/2021-03-14-webrtc-avatarify-face-swap-tutorial.md",
+            "title": "实现前端网页 WebRTC 视频通话以及换脸特效",
+            "description": "因为疫情的原因，线上视频会议软件异军突起，成为了在家办公的主要沟通渠道。而最近抖音上“蚂蚁呀嘿”恶搞换脸的小视频也突然火了起来，那我就想了想能不能在视频会议的时候换张脸活跃下气氛？",
+            "date": "2021-03-14T00:00:00.000Z",
+            "formattedDate": "2021年3月14日",
+            "tags": [
+              {
+                "label": "前端",
+                "permalink": "/tags/前端"
+              },
+              {
+                "label": "WebRTC",
+                "permalink": "/tags/web-rtc"
+              },
+              {
+                "label": "avatarify",
+                "permalink": "/tags/avatarify"
+              }
+            ],
+            "readingTime": 7.9,
+            "truncated": true,
+            "prevItem": {
+              "title": "Web性能优化：使用图片懒加载推迟屏幕外图片的加载",
+              "permalink": "/web-performance-optimization-image-lazy-loading"
+            },
+            "nextItem": {
+              "title": "Web 性能优化：使用 CSS font-display 控制字体加载和替换",
+              "permalink": "/css-font-display-intro"
+            }
+          }
+        },
+        {
+          "id": "css-font-display-intro",
+          "metadata": {
+            "permalink": "/css-font-display-intro",
+            "source": "@site/blog/2021-03-09-css-font-display-intro.md",
+            "title": "Web 性能优化：使用 CSS font-display 控制字体加载和替换",
+            "description": "在编写网站的时候，或多或少都会用到一些网络上的字体，CSS 3 中虽然加入了对 Web Fonts（网络字体）的支持，但是浏览器对它们的加载和默认处理方式会极大的影响网站的性能和用户体验。例如默认情况下，在 Web Fonts 加载时，使用该字体的地方会显示空白，直到字体下载完成之后才会显示，这时通过改变 CSS 中的 `font-display` 属性，就可以避免这个问题。",
+            "date": "2021-03-09T00:00:00.000Z",
+            "formattedDate": "2021年3月9日",
+            "tags": [
+              {
+                "label": "前端",
+                "permalink": "/tags/前端"
+              },
+              {
+                "label": "css",
+                "permalink": "/tags/css"
+              },
+              {
+                "label": "性能优化",
+                "permalink": "/tags/性能优化"
+              }
+            ],
+            "readingTime": 1.32,
+            "truncated": true,
+            "prevItem": {
+              "title": "实现前端网页 WebRTC 视频通话以及换脸特效",
+              "permalink": "/webrtc-avatarify-face-swap-tutorial"
+            },
+            "nextItem": {
+              "title": "JavaScript 游戏开发 - 物理碰撞引擎实现",
+              "permalink": "/javascript-collision-physics"
+            }
+          }
+        },
+        {
+          "id": "javascript-collision-physics",
+          "metadata": {
+            "permalink": "/javascript-collision-physics",
+            "source": "@site/blog/2021-02-28-javascript-collision-physics.md",
+            "title": "JavaScript 游戏开发 - 物理碰撞引擎实现",
+            "description": "从原生角度上如何实现游戏里的物理特性，例如运动、碰撞。不用框架编写一个简单的、基于 JavaScript Canvas 的物理引擎，实现小球的碰撞效果。",
+            "date": "2021-02-28T00:00:00.000Z",
+            "formattedDate": "2021年2月28日",
+            "tags": [
+              {
+                "label": "前端",
+                "permalink": "/tags/前端"
+              },
+              {
+                "label": "游戏",
+                "permalink": "/tags/游戏"
+              },
+              {
+                "label": "JavaScript",
+                "permalink": "/tags/java-script"
+              }
+            ],
+            "readingTime": 10.83,
+            "truncated": true,
+            "prevItem": {
+              "title": "Web 性能优化：使用 CSS font-display 控制字体加载和替换",
+              "permalink": "/css-font-display-intro"
+            },
+            "nextItem": {
+              "title": "来自未来世界的机能服：科技带来便利（实测）",
+              "permalink": "/uppervoid-jacket"
+            }
+          }
+        },
+        {
+          "id": "uppervoid-jacket",
+          "metadata": {
+            "permalink": "/uppervoid-jacket",
+            "source": "@site/blog/2021-01-28-uppervoid-jacket.md",
+            "title": "来自未来世界的机能服：科技带来便利（实测）",
+            "description": "品牌 UPPERVOID，创始人为 Vis，毕业于沃顿商学院，坚持理性逻辑和艺术审美应当结合起来，这一点与本 UP 主的理念保持一致。在体验过诸如喜马拉雅、北极圈之类的极端环境之后，Vis 认为应该将防护作为生存之根本，加上对科技从业者的敬佩，于是就有了 UPPERVOID，专门为互联网从业人士打造的生活方式品牌。通过把最新的科技融入到生活中，把未来机械世界的场景提前带入到了日常生活中来，让我们体验到技术究竟会引领大家到何方。这款机能服是 UPPERVOID 的第一个产品，从面料、功能和设计上来看已经完全可以看到未来高科技生活的影子了。",
+            "date": "2021-01-28T00:00:00.000Z",
+            "formattedDate": "2021年1月28日",
+            "tags": [
+              {
+                "label": "男装",
+                "permalink": "/tags/男装"
+              },
+              {
+                "label": "生活方式",
+                "permalink": "/tags/生活方式"
+              }
+            ],
+            "readingTime": 1.185,
+            "truncated": true,
+            "prevItem": {
+              "title": "JavaScript 游戏开发 - 物理碰撞引擎实现",
+              "permalink": "/javascript-collision-physics"
+            },
+            "nextItem": {
+              "title": "从 0 仿微信 8.0 动态表情实现过程",
+              "permalink": "/wechat-stickers-effect"
+            }
+          }
+        },
+        {
+          "id": "wechat-stickers-effect",
+          "metadata": {
+            "permalink": "/wechat-stickers-effect",
+            "source": "@site/blog/2021-01-27-wechat-stickers-effect.md",
+            "title": "从 0 仿微信 8.0 动态表情实现过程",
+            "description": "微信 8.0 更新的一大特色就是支持动画表情，如果发送的消息只有一个内置的表情图标，这个表情会有一段简单的动画，一些特殊的表情还有全屏特效，例如烟花表情有全屏放烟花的特效，炸弹表情有爆炸动画并且消息和头像也会随之震动。本着作为前端工程师的职业精神，我就想看看能不能实现一个类似的特效。折腾许久之后，做出来的效果如下：",
+            "date": "2021-01-27T00:00:00.000Z",
+            "formattedDate": "2021年1月27日",
+            "tags": [
+              {
+                "label": "前端",
+                "permalink": "/tags/前端"
+              },
+              {
+                "label": "React",
+                "permalink": "/tags/react"
+              }
+            ],
+            "readingTime": 7.32,
+            "truncated": true,
+            "prevItem": {
+              "title": "来自未来世界的机能服：科技带来便利（实测）",
+              "permalink": "/uppervoid-jacket"
+            },
+            "nextItem": {
+              "title": "回顾2020，程序员转型的起步",
+              "permalink": "/review-2020"
+            }
+          }
+        },
+        {
+          "id": "review-2020",
+          "metadata": {
+            "permalink": "/review-2020",
+            "source": "@site/blog/2021-01-06-review-2020.md",
+            "title": "回顾2020，程序员转型的起步",
+            "description": "对未来的焦虑应该是每个程序员都能体会到的吧，面对招聘的年龄门槛、工作与生活的平衡、不良的生活习惯，以后的路要怎么走充满了不确定性。但是又因为程序员是技术工种，自己所掌握的技能可以从接外包、作产品、写博客、录视频等多方面进行输出，看似又不缺出路，只是怀疑能不能做好，所以一边担心自己能不能转型或改行，一边又极其期望逃离没有出头之日的 996 ，这是一个难题。",
+            "date": "2021-01-06T00:00:00.000Z",
+            "formattedDate": "2021年1月6日",
+            "tags": [
+              {
+                "label": "个人",
+                "permalink": "/tags/个人"
+              },
+              {
+                "label": "经验",
+                "permalink": "/tags/经验"
+              }
+            ],
+            "readingTime": 0.825,
+            "truncated": true,
+            "prevItem": {
+              "title": "从 0 仿微信 8.0 动态表情实现过程",
+              "permalink": "/wechat-stickers-effect"
+            },
+            "nextItem": {
+              "title": "整理了5个JavaScript怪异行为及其原因",
+              "permalink": "/5-javascript-tricky-problems"
+            }
+          }
+        },
+        {
+          "id": "5-javascript-tricky-problems",
+          "metadata": {
+            "permalink": "/5-javascript-tricky-problems",
+            "source": "@site/blog/2020-12-13-5-javascript-tricky-problems.md",
+            "title": "整理了5个JavaScript怪异行为及其原因",
+            "description": "JavaScript 早期的规范不统一，也没有严格的标准，再加上它的语法灵活多样，有些看起来就不正确的代码却能正常执行，一些看起来符合逻辑的代码，运行结果却相差十万八千里。这些问题在日常开发中经常会导致 BUG，更重要的是，很多面试官会把它们拿出来当考验咱们 JS 工程师的能力。",
+            "date": "2020-12-13T00:00:00.000Z",
+            "formattedDate": "2020年12月13日",
+            "tags": [
+              {
+                "label": "前端",
+                "permalink": "/tags/前端"
+              },
+              {
+                "label": "JavaScript",
+                "permalink": "/tags/java-script"
+              }
+            ],
+            "readingTime": 1.61,
+            "truncated": true,
+            "prevItem": {
+              "title": "回顾2020，程序员转型的起步",
+              "permalink": "/review-2020"
+            },
+            "nextItem": {
+              "title": "1024：程序员，你的身体还好吗？",
+              "permalink": "/1024-developer-health"
+            }
+          }
+        },
+        {
+          "id": "1024-developer-health",
+          "metadata": {
+            "permalink": "/1024-developer-health",
+            "source": "@site/blog/2020-10-24-1024-developer-health.md",
+            "title": "1024：程序员，你的身体还好吗？",
+            "description": "从几何时，程序员成了加班、996 的代名词，从以前业务做不完偶尔加班变成了现在的常态，不得不说一句俗话：这是时代的进步还是倒退？",
+            "date": "2020-10-24T00:00:00.000Z",
+            "formattedDate": "2020年10月24日",
+            "tags": [
+              {
+                "label": "健康",
+                "permalink": "/tags/健康"
+              }
+            ],
+            "readingTime": 0.465,
+            "truncated": true,
+            "prevItem": {
+              "title": "整理了5个JavaScript怪异行为及其原因",
+              "permalink": "/5-javascript-tricky-problems"
+            },
+            "nextItem": {
+              "title": "鸿蒙 OS：使用 JavaScript 开发 Todo App UI 界面",
+              "permalink": "/harmonyos-js-todo"
+            }
+          }
+        },
+        {
+          "id": "harmonyos-js-todo",
+          "metadata": {
+            "permalink": "/harmonyos-js-todo",
+            "source": "@site/blog/2020-09-20-harmonyos-js-todo.md",
+            "title": "鸿蒙 OS：使用 JavaScript 开发 Todo App UI 界面",
+            "description": "使用鸿蒙 JS 框架开发 Todo 应用的 TV 版 UI 界面。",
+            "date": "2020-09-20T00:00:00.000Z",
+            "formattedDate": "2020年9月20日",
+            "tags": [
+              {
+                "label": "前端",
+                "permalink": "/tags/前端"
+              },
+              {
+                "label": "鸿蒙",
+                "permalink": "/tags/鸿蒙"
+              },
+              {
+                "label": "JavaScript",
+                "permalink": "/tags/java-script"
+              }
+            ],
+            "readingTime": 3.995,
+            "truncated": true,
+            "prevItem": {
+              "title": "1024：程序员，你的身体还好吗？",
+              "permalink": "/1024-developer-health"
+            },
+            "nextItem": {
+              "title": "职业规划：程序员的 T 字形发展攻略",
+              "permalink": "/programmer-t-type-career"
+            }
+          }
+        },
+        {
+          "id": "programmer-t-type-career",
+          "metadata": {
+            "permalink": "/programmer-t-type-career",
+            "source": "@site/blog/2020-09-14-programmer-t-type-career.md",
+            "title": "职业规划：程序员的 T 字形发展攻略",
+            "description": "你是不是在面对市面上众多的技术的时候，不知道选择哪个才能对自己的职业和未来发展有所帮助？有这样的想法是正常的，因为随着科学的发展，现在的编程技术已经到了百花齐放的地步了。那么这么多的技术和领域，我们到底应该选哪一个才比较好呢？",
+            "date": "2020-09-14T00:00:00.000Z",
+            "formattedDate": "2020年9月14日",
+            "tags": [
+              {
+                "label": "前端",
+                "permalink": "/tags/前端"
+              },
+              {
+                "label": "职业",
+                "permalink": "/tags/职业"
+              },
+              {
+                "label": "经验",
+                "permalink": "/tags/经验"
+              }
+            ],
+            "readingTime": 0.375,
+            "truncated": true,
+            "prevItem": {
+              "title": "鸿蒙 OS：使用 JavaScript 开发 Todo App UI 界面",
+              "permalink": "/harmonyos-js-todo"
+            },
+            "nextItem": {
+              "title": "前端工程师到底要学到什么程序才能去找工作？成功面试的必备要素与回答技巧",
+              "permalink": "/frontend-looking-for-jobs"
+            }
+          }
+        },
+        {
+          "id": "frontend-looking-for-jobs",
+          "metadata": {
+            "permalink": "/frontend-looking-for-jobs",
+            "source": "@site/blog/2020-08-16-frontend-looking-for-jobs.mdx",
+            "title": "前端工程师到底要学到什么程序才能去找工作？成功面试的必备要素与回答技巧",
+            "description": "好多人都想知道，前端工程师到底要需要掌握什么技能、到什么程度，才能去找工作？最简单的答案：",
+            "date": "2020-08-16T00:00:00.000Z",
+            "formattedDate": "2020年8月16日",
+            "tags": [
+              {
+                "label": "前端",
+                "permalink": "/tags/前端"
+              },
+              {
+                "label": "面试",
+                "permalink": "/tags/面试"
+              }
+            ],
+            "readingTime": 0.92,
+            "truncated": true,
+            "prevItem": {
+              "title": "职业规划：程序员的 T 字形发展攻略",
+              "permalink": "/programmer-t-type-career"
+            },
+            "nextItem": {
+              "title": "噢！原来这就是 TypeScript",
+              "permalink": "/typescript-intro"
+            }
+          }
+        },
+        {
+          "id": "typescript-intro",
+          "metadata": {
+            "permalink": "/typescript-intro",
+            "source": "@site/blog/2020-06-09-typescript-intro.md",
+            "title": "噢！原来这就是 TypeScript",
+            "description": "TypeScript 是 JavaScript 的，带有类型的超集，并且可以编译为 JavaScript 脚本，这篇幅文章将带你认识一下 TypeScript",
+            "date": "2020-06-09T00:00:00.000Z",
+            "formattedDate": "2020年6月9日",
+            "tags": [
+              {
+                "label": "前端",
+                "permalink": "/tags/前端"
+              },
+              {
+                "label": "TypeScript",
+                "permalink": "/tags/type-script"
+              }
+            ],
+            "readingTime": 4.68,
+            "truncated": true,
+            "prevItem": {
+              "title": "前端工程师到底要学到什么程序才能去找工作？成功面试的必备要素与回答技巧",
+              "permalink": "/frontend-looking-for-jobs"
+            },
+            "nextItem": {
+              "title": "给前端工程师看的后端科普",
+              "permalink": "/backend-intro"
+            }
+          }
+        },
+        {
+          "id": "backend-intro",
+          "metadata": {
+            "permalink": "/backend-intro",
+            "source": "@site/blog/2020-05-11-backend-intro.md",
+            "title": "给前端工程师看的后端科普",
+            "description": "前端工程师了解后端的功能和作用之后，能更好的和后端工程师进行沟通，减少沟通成本，另外也有助于向全栈工程师方向发展。",
+            "date": "2020-05-11T00:00:00.000Z",
+            "formattedDate": "2020年5月11日",
+            "tags": [
+              {
+                "label": "前端",
+                "permalink": "/tags/前端"
+              },
+              {
+                "label": "后端",
+                "permalink": "/tags/后端"
+              }
+            ],
+            "readingTime": 0.485,
+            "truncated": true,
+            "prevItem": {
+              "title": "噢！原来这就是 TypeScript",
+              "permalink": "/typescript-intro"
+            },
+            "nextItem": {
+              "title": "前后端通信之 HTTP 协议简介",
+              "permalink": "/http-protocol"
+            }
+          }
+        },
+        {
+          "id": "http-protocol",
+          "metadata": {
+            "permalink": "/http-protocol",
+            "source": "@site/blog/2020-05-10-http.mdx",
+            "title": "前后端通信之 HTTP 协议简介",
+            "description": "HTTP 协议包括客户端和服务端两个实体，客户端发送请求给服务端，服务端返回响应给客户端。在 HTTP 中，数据称为资源，可以是 html 文档、图片、也可以是普通文本。资源是通过 URL 进行定位的。",
+            "date": "2020-05-10T00:00:00.000Z",
+            "formattedDate": "2020年5月10日",
+            "tags": [
+              {
+                "label": "前端",
+                "permalink": "/tags/前端"
+              },
+              {
+                "label": "React",
+                "permalink": "/tags/react"
+              }
+            ],
+            "readingTime": 1.21,
+            "truncated": true,
+            "prevItem": {
+              "title": "给前端工程师看的后端科普",
+              "permalink": "/backend-intro"
+            },
+            "nextItem": {
+              "title": "5个技巧助你成为 CSS 大神",
+              "permalink": "/5-tips-to-master-css"
+            }
+          }
+        },
+        {
+          "id": "5-tips-to-master-css",
+          "metadata": {
+            "permalink": "/5-tips-to-master-css",
+            "source": "@site/blog/2020-04-29-5-tips-to-master-css.mdx",
+            "title": "5个技巧助你成为 CSS 大神",
+            "description": "都说 CSS 很难掌握，最愁给页面编写样式，其实都是因为还没有形成一个对 CSS 宏观的了解，只要有了正确的学习方法、设计思维，再通过不断的积累，就能轻松的掌握它。接下来我会把掌握 CSS 的 5 个技巧整理一下，让你在以后编写 CSS 的时候不再发愁。",
+            "date": "2020-04-29T00:00:00.000Z",
+            "formattedDate": "2020年4月29日",
+            "tags": [
+              {
+                "label": "前端",
+                "permalink": "/tags/前端"
+              },
+              {
+                "label": "css",
+                "permalink": "/tags/css"
+              }
+            ],
+            "readingTime": 0.89,
+            "truncated": true,
+            "prevItem": {
+              "title": "前后端通信之 HTTP 协议简介",
+              "permalink": "/http-protocol"
+            },
+            "nextItem": {
+              "title": "CSS Flexbox 布局最容易理解完全教程",
+              "permalink": "/css-flex-box-layout"
+            }
+          }
+        },
+        {
+          "id": "css-flex-box-layout",
+          "metadata": {
+            "permalink": "/css-flex-box-layout",
+            "source": "@site/blog/2020-04-05-css-flex-box-layout.md",
+            "title": "CSS Flexbox 布局最容易理解完全教程",
+            "description": "CSS flexbox 布局十分强大，它可以对元素进行水平和垂直方向上的对齐，也支持自由缩放，方便响应式布局的开发。这个文章就教你认识 flex-box 布局，看完之后你也能熟练的运用它！",
+            "date": "2020-04-05T00:00:00.000Z",
+            "formattedDate": "2020年4月5日",
+            "tags": [
+              {
+                "label": "前端",
+                "permalink": "/tags/前端"
+              },
+              {
+                "label": "React",
+                "permalink": "/tags/react"
+              }
+            ],
+            "readingTime": 5.865,
+            "truncated": true,
+            "prevItem": {
+              "title": "5个技巧助你成为 CSS 大神",
+              "permalink": "/5-tips-to-master-css"
+            },
+            "nextItem": {
+              "title": "CSS 选择器优先级特异性权重详解",
+              "permalink": "/css-selector-specificity"
+            }
+          }
+        },
+        {
+          "id": "css-selector-specificity",
+          "metadata": {
+            "permalink": "/css-selector-specificity",
+            "source": "@site/blog/2020-04-04-css-selector-specificity.md",
+            "title": "CSS 选择器优先级特异性权重详解",
+            "description": "在写 CSS 的时候你一定遇到过有些样式明明写对了，也选择了正确的 html 元素去应用这些样式，可是就是不生效，这是为什么呢？因为在选择同一个 HTML 元素的时候，不同的选择器有不同的优先级，优先级低的选择器的样式会被优先级高的覆盖。",
+            "date": "2020-04-04T00:00:00.000Z",
+            "formattedDate": "2020年4月4日",
+            "tags": [
+              {
+                "label": "前端",
+                "permalink": "/tags/前端"
+              },
+              {
+                "label": "CSS",
+                "permalink": "/tags/css"
+              }
+            ],
+            "readingTime": 2.725,
+            "truncated": true,
+            "prevItem": {
+              "title": "CSS Flexbox 布局最容易理解完全教程",
+              "permalink": "/css-flex-box-layout"
+            },
+            "nextItem": {
+              "title": "React State 和 Event教程 - 制作渐变背景生成器",
+              "permalink": "/learn-react-event-and-state"
+            }
+          }
+        },
+        {
+          "id": "learn-react-event-and-state",
+          "metadata": {
+            "permalink": "/learn-react-event-and-state",
+            "source": "@site/blog/2020-03-21-learn-react-event-state.md",
+            "title": "React State 和 Event教程 - 制作渐变背景生成器",
+            "description": "Hello! 今天来带你走进 React 的大门！我第一次听说 React 是我在美国读研的时候，室友选了 web programming 这节课，然后遇到了关于 react 的好多问题...",
+            "date": "2020-03-21T00:00:00.000Z",
+            "formattedDate": "2020年3月21日",
+            "tags": [
+              {
+                "label": "前端",
+                "permalink": "/tags/前端"
+              },
+              {
+                "label": "React",
+                "permalink": "/tags/react"
+              }
+            ],
+            "readingTime": 2.005,
+            "truncated": true,
+            "prevItem": {
+              "title": "CSS 选择器优先级特异性权重详解",
+              "permalink": "/css-selector-specificity"
+            },
+            "nextItem": {
+              "title": "React Props 教程 - 制作一个按钮",
+              "permalink": "/learn-react-props-buttons"
+            }
+          }
+        },
+        {
+          "id": "learn-react-props-buttons",
+          "metadata": {
+            "permalink": "/learn-react-props-buttons",
+            "source": "@site/blog/2020-03-15-learn-react-props-buttons.md",
+            "title": "React Props 教程 - 制作一个按钮",
+            "description": "Rect Props 是编写可复用组件的核心，可以利用 Prop 让组件接收不同的参数，然后根据这些参数作出不同的表现，如形状、颜色等。",
+            "date": "2020-03-15T00:00:00.000Z",
+            "formattedDate": "2020年3月15日",
+            "tags": [
+              {
+                "label": "前端",
+                "permalink": "/tags/前端"
+              },
+              {
+                "label": "React",
+                "permalink": "/tags/react"
+              }
+            ],
+            "readingTime": 2.95,
+            "truncated": true,
+            "prevItem": {
+              "title": "React State 和 Event教程 - 制作渐变背景生成器",
+              "permalink": "/learn-react-event-and-state"
+            },
+            "nextItem": {
+              "title": "什么是 React？你为什么应该学React？",
+              "permalink": "/React-intro"
+            }
+          }
+        },
+        {
+          "id": "React-intro",
+          "metadata": {
+            "permalink": "/React-intro",
+            "source": "@site/blog/2020-03-12-introduction-to-react.md",
+            "title": "什么是 React？你为什么应该学React？",
+            "description": "Hello! 今天来带你走进 React 的大门！我第一次听说 React 是我在美国读研的时候，室友选了 web programming 这节课，然后遇到了关于 react 的好多问题...",
+            "date": "2020-03-12T00:00:00.000Z",
+            "formattedDate": "2020年3月12日",
+            "tags": [
+              {
+                "label": "前端",
+                "permalink": "/tags/前端"
+              },
+              {
+                "label": "React",
+                "permalink": "/tags/react"
+              }
+            ],
+            "readingTime": 1.895,
+            "truncated": true,
+            "prevItem": {
+              "title": "React Props 教程 - 制作一个按钮",
+              "permalink": "/learn-react-props-buttons"
+            },
+            "nextItem": {
+              "title": "使用 Docusaurus 搭建个人博客教程（二）",
+              "permalink": "/deploy-a-docusaurus-site-part2"
+            }
+          }
+        },
+        {
+          "id": "deploy-a-docusaurus-site-part2",
+          "metadata": {
+            "permalink": "/deploy-a-docusaurus-site-part2",
+            "source": "@site/blog/2020-03-08-deploy-a-docusaurus-site-part2.md",
+            "title": "使用 Docusaurus 搭建个人博客教程（二）",
+            "description": "如果你看了上期视频的话，那么你应该学会了怎么在本地搭建一个 docusaurus 博客，但是你不能只在本地来看这个博客吧，得让全世界来欣赏你的杰作，所以说咱们得把这个博客部署到服务器上。部署有两种方式：",
+            "date": "2020-03-08T00:00:00.000Z",
+            "formattedDate": "2020年3月8日",
+            "tags": [
+              {
+                "label": "前端",
+                "permalink": "/tags/前端"
+              },
+              {
+                "label": "职业",
+                "permalink": "/tags/职业"
+              }
+            ],
+            "readingTime": 2.225,
+            "truncated": true,
+            "prevItem": {
+              "title": "什么是 React？你为什么应该学React？",
+              "permalink": "/React-intro"
+            },
+            "nextItem": {
+              "title": "使用 Docusaurus 搭建个人博客教程（一）",
+              "permalink": "/deploy-a-docusaurus-site"
+            }
+          }
+        },
+        {
+          "id": "deploy-a-docusaurus-site",
+          "metadata": {
+            "permalink": "/deploy-a-docusaurus-site",
+            "source": "@site/blog/2020-03-03-deploy-a-docusaurus-site.md",
+            "title": "使用 Docusaurus 搭建个人博客教程（一）",
+            "description": "我以前总也找不到一个满意的博客系统，wordpress 这个程序又大，然后配置也不方便。占用的服务器的资源也多。我就想有没有一个又简单又快速的博客平台，后来发现了一些静态的网站生成器，像 hexo 这种，但是发现上面的主题又不好看，又懒得自己去写。后来就有一阵子我就直接把博客就发布在了其他的第三方的博客平台上。现在发现了这个 docusaurus, 它的主题跟我之前看到的一个大佬 Dan Abramov，它的 overreacted.io 博客，风格是一模一样的，因为他是 react 的作者之一，估计这个他们这个样式都是互相借鉴，它这个主题可以切换暗黑和白天模式，比较好看。安装和部署也特别简单，我的博客也是用它这个搭建的。",
+            "date": "2020-03-03T00:00:00.000Z",
+            "formattedDate": "2020年3月3日",
+            "tags": [
+              {
+                "label": "前端",
+                "permalink": "/tags/前端"
+              },
+              {
+                "label": "职业",
+                "permalink": "/tags/职业"
+              }
+            ],
+            "readingTime": 1.975,
+            "truncated": true,
+            "prevItem": {
+              "title": "使用 Docusaurus 搭建个人博客教程（二）",
+              "permalink": "/deploy-a-docusaurus-site-part2"
+            },
+            "nextItem": {
+              "title": "程序员如何提升英语水平",
+              "permalink": "/learning-english-for-coders"
+            }
+          }
+        },
+        {
+          "id": "learning-english-for-coders",
+          "metadata": {
+            "permalink": "/learning-english-for-coders",
+            "source": "@site/blog/2020-03-02-learning-english-for-coders.md",
+            "title": "程序员如何提升英语水平",
+            "description": "本篇文章适合所有想提升英语尤其是阅读能力的人，因为我自己程序员，所以我来拿自己的亲身经历来帮助大家发现自己提高英语技能的方法。",
+            "date": "2020-03-02T00:00:00.000Z",
+            "formattedDate": "2020年3月2日",
+            "tags": [
+              {
+                "label": "前端",
+                "permalink": "/tags/前端"
+              },
+              {
+                "label": "职业",
+                "permalink": "/tags/职业"
+              },
+              {
+                "label": "经验",
+                "permalink": "/tags/经验"
+              }
+            ],
+            "readingTime": 0.425,
+            "truncated": true,
+            "prevItem": {
+              "title": "使用 Docusaurus 搭建个人博客教程（一）",
+              "permalink": "/deploy-a-docusaurus-site"
+            },
+            "nextItem": {
+              "title": "11个前端工程师必备的网站",
+              "permalink": "/frontend-devs-must-know-websites"
+            }
+          }
+        },
+        {
+          "id": "frontend-devs-must-know-websites",
+          "metadata": {
+            "permalink": "/frontend-devs-must-know-websites",
+            "source": "@site/blog/2020-02-29-frontend-devs-must-know-websites.md",
+            "title": "11个前端工程师必备的网站",
+            "description": "好多小伙伴有疑问，就是说有哪些值得去关注的前端网站，我知道大家可能都苦于找不到一些有价值的,还有值得信赖的网站去学一些比较货真价实的前端技术。生怕有哪些水文或者是一些乱七八糟的网站，把咱们的这个知识给误导了。这里呢我准备了几个我经常关注的一些网站，一部分是国外的，然后有一部分是国内的，因为国内的好多的都是质量参差不齐，但国外的话普遍的质量比较高（事实如此）。不过呢，咱们国内的也有一些比较好的平台，我在这里给咱们一共准备了 11 个可以关注的网站。",
+            "date": "2020-02-29T00:00:00.000Z",
+            "formattedDate": "2020年2月29日",
+            "tags": [
+              {
+                "label": "前端",
+                "permalink": "/tags/前端"
+              },
+              {
+                "label": "职业",
+                "permalink": "/tags/职业"
+              }
+            ],
+            "readingTime": 0.915,
+            "truncated": true,
+            "prevItem": {
+              "title": "程序员如何提升英语水平",
+              "permalink": "/learning-english-for-coders"
+            },
+            "nextItem": {
+              "title": "2020年最新前端工程师学习路线",
+              "permalink": "/front-end-learning-path"
+            }
+          }
+        },
+        {
+          "id": "front-end-learning-path",
+          "metadata": {
+            "permalink": "/front-end-learning-path",
+            "source": "@site/blog/2020-02-26-frontend-learning-path.md",
+            "title": "2020年最新前端工程师学习路线",
+            "description": "这段日子在 B 站上收到小伙伴最多的要求就是出一个前端学习路线，我能够充分的感受到大家抓耳挠腮加挠墙的迷茫~所以在这里给大家总结了一套前端学习路线。先从初级前端工程师所需的技能开始，然后一路升级到高级工程师该掌握的技能，层层相扣，让大家在工作中能游刃有余。最后附上我自己是如何从一个后端工程师转成了前端工程师^^。希望我的经历能对大家有帮助。",
+            "date": "2020-02-26T00:00:00.000Z",
+            "formattedDate": "2020年2月26日",
+            "tags": [
+              {
+                "label": "前端",
+                "permalink": "/tags/前端"
+              },
+              {
+                "label": "职业",
+                "permalink": "/tags/职业"
+              }
+            ],
+            "readingTime": 3.51,
+            "truncated": true,
+            "prevItem": {
+              "title": "11个前端工程师必备的网站",
+              "permalink": "/frontend-devs-must-know-websites"
+            },
+            "nextItem": {
+              "title": "第 N 个第一篇博客",
+              "permalink": "/first-blog"
+            }
+          }
+        },
+        {
+          "id": "first-blog",
+          "metadata": {
+            "permalink": "/first-blog",
+            "source": "@site/blog/2020-02-21-first-blog.md",
+            "title": "第 N 个第一篇博客",
+            "description": "每次博客一搬家，旧的就不想折腾了，然后就重新从第一篇开始写....",
+            "date": "2020-02-21T00:00:00.000Z",
+            "formattedDate": "2020年2月21日",
+            "tags": [
+              {
+                "label": "杂谈",
+                "permalink": "/tags/杂谈"
+              }
+            ],
+            "readingTime": 0.005,
+            "truncated": false,
+            "prevItem": {
+              "title": "2020年最新前端工程师学习路线",
+              "permalink": "/front-end-learning-path"
+            }
+          }
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "metadata": {
+            "permalink": "/",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 3,
+            "totalCount": 30,
+            "previousPage": null,
+            "nextPage": "/page/2",
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          },
+          "items": [
+            "how-to-learn-a-programming-language-quickly",
+            "css-is-pseudo-class-selector",
+            "interview-failed-recover",
+            "web-performance-optimization-image-lazy-loading",
+            "webrtc-avatarify-face-swap-tutorial",
+            "css-font-display-intro",
+            "javascript-collision-physics",
+            "uppervoid-jacket",
+            "wechat-stickers-effect",
+            "review-2020"
+          ]
+        },
+        {
+          "metadata": {
+            "permalink": "/page/2",
+            "page": 2,
+            "postsPerPage": 10,
+            "totalPages": 3,
+            "totalCount": 30,
+            "previousPage": "/",
+            "nextPage": "/page/3",
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          },
+          "items": [
+            "5-javascript-tricky-problems",
+            "1024-developer-health",
+            "harmonyos-js-todo",
+            "programmer-t-type-career",
+            "frontend-looking-for-jobs",
+            "typescript-intro",
+            "backend-intro",
+            "http-protocol",
+            "5-tips-to-master-css",
+            "css-flex-box-layout"
+          ]
+        },
+        {
+          "metadata": {
+            "permalink": "/page/3",
+            "page": 3,
+            "postsPerPage": 10,
+            "totalPages": 3,
+            "totalCount": 30,
+            "previousPage": "/page/2",
+            "nextPage": null,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          },
+          "items": [
+            "css-selector-specificity",
+            "learn-react-event-and-state",
+            "learn-react-props-buttons",
+            "React-intro",
+            "deploy-a-docusaurus-site-part2",
+            "deploy-a-docusaurus-site",
+            "learning-english-for-coders",
+            "frontend-devs-must-know-websites",
+            "front-end-learning-path",
+            "first-blog"
+          ]
+        }
+      ],
+      "blogTags": {
+        "职业": {
+          "name": "职业",
+          "items": [
+            "how-to-learn-a-programming-language-quickly",
+            "interview-failed-recover",
+            "programmer-t-type-career",
+            "deploy-a-docusaurus-site-part2",
+            "deploy-a-docusaurus-site",
+            "learning-english-for-coders",
+            "frontend-devs-must-know-websites",
+            "front-end-learning-path"
+          ],
+          "permalink": "/tags/职业"
+        },
+        "css": {
+          "name": "css",
+          "items": [
+            "css-is-pseudo-class-selector",
+            "css-font-display-intro",
+            "5-tips-to-master-css",
+            "css-selector-specificity"
+          ],
+          "permalink": "/tags/css"
+        },
+        "selectors": {
+          "name": "selectors",
+          "items": [
+            "css-is-pseudo-class-selector"
+          ],
+          "permalink": "/tags/selectors"
+        },
+        "is": {
+          "name": "is",
+          "items": [
+            "css-is-pseudo-class-selector"
+          ],
+          "permalink": "/tags/is"
+        },
+        "css选择器": {
+          "name": "css选择器",
+          "items": [
+            "css-is-pseudo-class-selector"
+          ],
+          "permalink": "/tags/css选择器"
+        },
+        "is选择器": {
+          "name": "is选择器",
+          "items": [
+            "css-is-pseudo-class-selector"
+          ],
+          "permalink": "/tags/is选择器"
+        },
+        "面试": {
+          "name": "面试",
+          "items": [
+            "interview-failed-recover",
+            "frontend-looking-for-jobs"
+          ],
+          "permalink": "/tags/面试"
+        },
+        "经验": {
+          "name": "经验",
+          "items": [
+            "interview-failed-recover",
+            "review-2020",
+            "programmer-t-type-career",
+            "learning-english-for-coders"
+          ],
+          "permalink": "/tags/经验"
+        },
+        "前端": {
+          "name": "前端",
+          "items": [
+            "web-performance-optimization-image-lazy-loading",
+            "webrtc-avatarify-face-swap-tutorial",
+            "css-font-display-intro",
+            "javascript-collision-physics",
+            "wechat-stickers-effect",
+            "5-javascript-tricky-problems",
+            "harmonyos-js-todo",
+            "programmer-t-type-career",
+            "frontend-looking-for-jobs",
+            "typescript-intro",
+            "backend-intro",
+            "http-protocol",
+            "5-tips-to-master-css",
+            "css-flex-box-layout",
+            "css-selector-specificity",
+            "learn-react-event-and-state",
+            "learn-react-props-buttons",
+            "React-intro",
+            "deploy-a-docusaurus-site-part2",
+            "deploy-a-docusaurus-site",
+            "learning-english-for-coders",
+            "frontend-devs-must-know-websites",
+            "front-end-learning-path"
+          ],
+          "permalink": "/tags/前端"
+        },
+        "java-script": {
+          "name": "javascript",
+          "items": [
+            "web-performance-optimization-image-lazy-loading",
+            "javascript-collision-physics",
+            "5-javascript-tricky-problems",
+            "harmonyos-js-todo"
+          ],
+          "permalink": "/tags/java-script"
+        },
+        "性能优化": {
+          "name": "性能优化",
+          "items": [
+            "web-performance-optimization-image-lazy-loading",
+            "css-font-display-intro"
+          ],
+          "permalink": "/tags/性能优化"
+        },
+        "web-rtc": {
+          "name": "webrtc",
+          "items": [
+            "webrtc-avatarify-face-swap-tutorial"
+          ],
+          "permalink": "/tags/web-rtc"
+        },
+        "avatarify": {
+          "name": "avatarify",
+          "items": [
+            "webrtc-avatarify-face-swap-tutorial"
+          ],
+          "permalink": "/tags/avatarify"
+        },
+        "游戏": {
+          "name": "游戏",
+          "items": [
+            "javascript-collision-physics"
+          ],
+          "permalink": "/tags/游戏"
+        },
+        "男装": {
+          "name": "男装",
+          "items": [
+            "uppervoid-jacket"
+          ],
+          "permalink": "/tags/男装"
+        },
+        "生活方式": {
+          "name": "生活方式",
+          "items": [
+            "uppervoid-jacket"
+          ],
+          "permalink": "/tags/生活方式"
+        },
+        "react": {
+          "name": "react",
+          "items": [
+            "wechat-stickers-effect",
+            "http-protocol",
+            "css-flex-box-layout",
+            "learn-react-event-and-state",
+            "learn-react-props-buttons",
+            "React-intro"
+          ],
+          "permalink": "/tags/react"
+        },
+        "个人": {
+          "name": "个人",
+          "items": [
+            "review-2020"
+          ],
+          "permalink": "/tags/个人"
+        },
+        "健康": {
+          "name": "健康",
+          "items": [
+            "1024-developer-health"
+          ],
+          "permalink": "/tags/健康"
+        },
+        "鸿蒙": {
+          "name": "鸿蒙",
+          "items": [
+            "harmonyos-js-todo"
+          ],
+          "permalink": "/tags/鸿蒙"
+        },
+        "type-script": {
+          "name": "typescript",
+          "items": [
+            "typescript-intro"
+          ],
+          "permalink": "/tags/type-script"
+        },
+        "后端": {
+          "name": "后端",
+          "items": [
+            "backend-intro"
+          ],
+          "permalink": "/tags/后端"
+        },
+        "杂谈": {
+          "name": "杂谈",
+          "items": [
+            "first-blog"
+          ],
+          "permalink": "/tags/杂谈"
+        }
+      },
+      "blogTagsListPath": "/tags"
+    },
+    "secret-garden": {
+      "blogPosts": [
+        {
+          "id": "deal-with-people-emotions",
+          "metadata": {
+            "permalink": "/lifestyle/deal-with-people-emotions",
+            "source": "@site/lifestyle/2021-06-27-deal-with-people-emotions.md",
+            "title": "人的情绪总是多变的，需要理智应对",
+            "description": "一个人的脾气，就跟所有周期节律的东西（例如股票、气温）一样，一会在高峰、一会在低谷，对于同样的一句话的解析有不同的意味，在心情好的时候，开个玩笑，或讨论个有争议的事情，大家都能理智接受，但是在无论什么原因影响了心情之后，玩笑就成了侮辱，讨论就成了争论，最后面红耳赤，不欢而散。",
+            "date": "2021-06-27T00:00:00.000Z",
+            "formattedDate": "2021年6月27日",
+            "tags": [
+              {
+                "label": "杂谈",
+                "permalink": "/lifestyle/tags/杂谈"
+              }
+            ],
+            "readingTime": 0.075,
+            "truncated": true,
+            "nextItem": {
+              "title": "程序员“躺平”是最正确的选择",
+              "permalink": "/lifestyle/programmer-lie-down"
+            }
+          }
+        },
+        {
+          "id": "programmer-lie-down",
+          "metadata": {
+            "permalink": "/lifestyle/programmer-lie-down",
+            "source": "@site/lifestyle/2021-06-04-programmer-choose-lie-down.md",
+            "title": "程序员“躺平”是最正确的选择",
+            "description": "在“内卷”浪潮的冲涮下，看到有不少年轻人选择躺平来应对压力，其实“内卷”和“躺平”这两个现象是一直存在的，只是最近随着互联网信息的发展，人们才注意到这些，并冠以这两个生动的名词。程序员是最先体会到内卷的群体，因为自始至终，程序员都需要保持学习的能力，才能在内卷中不被淘汰，如果感受到沉重的压力，那么躺平是正确的选择。",
+            "date": "2021-06-04T00:00:00.000Z",
+            "formattedDate": "2021年6月4日",
+            "tags": [
+              {
+                "label": "个人提升",
+                "permalink": "/lifestyle/tags/个人提升"
+              }
+            ],
+            "readingTime": 0.545,
+            "truncated": true,
+            "prevItem": {
+              "title": "人的情绪总是多变的，需要理智应对",
+              "permalink": "/lifestyle/deal-with-people-emotions"
+            },
+            "nextItem": {
+              "title": "SIT 留学租房攻略 | Stevents Institute of Technology",
+              "permalink": "/lifestyle/sit-house-rental"
+            }
+          }
+        },
+        {
+          "id": "sit-house-rental",
+          "metadata": {
+            "permalink": "/lifestyle/sit-house-rental",
+            "source": "@site/lifestyle/2021-06-03-sit-house-rental.md",
+            "title": "SIT 留学租房攻略 | Stevents Institute of Technology",
+            "description": "本篇文章给即将要去 Stevens Institute of Technoloy，SIT，史蒂文斯理工学院留学的同学，租房上的一点点建议，仅供参考。",
+            "date": "2021-06-03T00:00:00.000Z",
+            "formattedDate": "2021年6月3日",
+            "tags": [
+              {
+                "label": "留学",
+                "permalink": "/lifestyle/tags/留学"
+              },
+              {
+                "label": "sit",
+                "permalink": "/lifestyle/tags/sit"
+              },
+              {
+                "label": "租房",
+                "permalink": "/lifestyle/tags/租房"
+              }
+            ],
+            "readingTime": 0.505,
+            "truncated": true,
+            "prevItem": {
+              "title": "程序员“躺平”是最正确的选择",
+              "permalink": "/lifestyle/programmer-lie-down"
+            },
+            "nextItem": {
+              "title": "写技术博客，质量和数量该如何保证？",
+              "permalink": "/lifestyle/writing-technical-blogs"
+            }
+          }
+        },
+        {
+          "id": "writing-technical-blogs",
+          "metadata": {
+            "permalink": "/lifestyle/writing-technical-blogs",
+            "source": "@site/lifestyle/2021-06-02-writing-technical-blogs.md",
+            "title": "写技术博客，质量和数量该如何保证？",
+            "description": "自接触编程以来已经有13个年头了，在2010年参加培训的时候，受到老师的影响，在 CSDN 上开通了博客，开始了写作之旅。当时的写作好像很简单，把自己在课上学到的、以及平时遇到的问题总结一下，就有不少人看。后来因为工作原因，没有时间写就荒废了，就这么断断续续的十几年来，博客似乎越来越难写。",
+            "date": "2021-06-02T00:00:00.000Z",
+            "formattedDate": "2021年6月2日",
+            "tags": [
+              {
+                "label": "吐槽",
+                "permalink": "/lifestyle/tags/吐槽"
+              }
+            ],
+            "readingTime": 0.065,
+            "truncated": true,
+            "prevItem": {
+              "title": "SIT 留学租房攻略 | Stevents Institute of Technology",
+              "permalink": "/lifestyle/sit-house-rental"
+            },
+            "nextItem": {
+              "title": "如果没有灵感，就尽情放松吧",
+              "permalink": "/lifestyle/out-of-ideas"
+            }
+          }
+        },
+        {
+          "id": "out-of-ideas",
+          "metadata": {
+            "permalink": "/lifestyle/out-of-ideas",
+            "source": "@site/lifestyle/2021-05-30-out-of-ideas.md",
+            "title": "如果没有灵感，就尽情放松吧",
+            "description": "灵感真是个神奇的东西，在夜深人静的时候，能无穷无尽的迸发，在日间繁忙的事务中却又消失的无影无踪，或者在某段日子里，灵感都是持续出现的，而在其它日子里，却好像死灰一样，没有任何创意的火花。",
+            "date": "2021-05-30T00:00:00.000Z",
+            "formattedDate": "2021年5月30日",
+            "tags": [
+              {
+                "label": "日记",
+                "permalink": "/lifestyle/tags/日记"
+              }
+            ],
+            "readingTime": 0.02,
+            "truncated": false,
+            "prevItem": {
+              "title": "写技术博客，质量和数量该如何保证？",
+              "permalink": "/lifestyle/writing-technical-blogs"
+            },
+            "nextItem": {
+              "title": "入手DIY森某IE800s耳机，性价比不错",
+              "permalink": "/lifestyle/diy-earbuds"
+            }
+          }
+        },
+        {
+          "id": "diy-earbuds",
+          "metadata": {
+            "permalink": "/lifestyle/diy-earbuds",
+            "source": "@site/lifestyle/2021-05-27-diy-earbuds.md",
+            "title": "入手DIY森某IE800s耳机，性价比不错",
+            "description": "手里的 Bose Sports 耳机已经跟随了我有六七年的历史了，纯白的耳机和线已经成了黢黑的，洗都洗不掉，一千多大洋买的，真舍不得换。后来想看看万能的某宝有没有高质低价的耳机，然后发现了这个四百多价位的，diy 的耳机。",
+            "date": "2021-05-27T00:00:00.000Z",
+            "formattedDate": "2021年5月27日",
+            "tags": [
+              {
+                "label": "评测",
+                "permalink": "/lifestyle/tags/评测"
+              },
+              {
+                "label": "耳机",
+                "permalink": "/lifestyle/tags/耳机"
+              }
+            ],
+            "readingTime": 0.2,
+            "truncated": true,
+            "prevItem": {
+              "title": "如果没有灵感，就尽情放松吧",
+              "permalink": "/lifestyle/out-of-ideas"
+            },
+            "nextItem": {
+              "title": "第31个年头的生日，年龄真的是能力的枷锁吗？",
+              "permalink": "/lifestyle/happy-birthday"
+            }
+          }
+        },
+        {
+          "id": "happy-birthday",
+          "metadata": {
+            "permalink": "/lifestyle/happy-birthday",
+            "source": "@site/lifestyle/2021-05-26-happy-birthday.md",
+            "title": "第31个年头的生日，年龄真的是能力的枷锁吗？",
+            "description": "来到这世上第 31 个年头了，在这个贩卖年龄焦虑的时代，本来不太想过生日，但是我自己觉得年龄才不是限制自身的因素，所以高高兴兴的和家人、朋友度过了愉快的一天。今天的天气出奇的好，晚上聚餐完了出来还看到了超级月亮和月食，让我不禁心里偷偷的乐着，大自然陪我过了一次不一样的生日。",
+            "date": "2021-05-26T00:00:00.000Z",
+            "formattedDate": "2021年5月26日",
+            "tags": [
+              {
+                "label": "日记",
+                "permalink": "/lifestyle/tags/日记"
+              }
+            ],
+            "readingTime": 0.1,
+            "truncated": true,
+            "prevItem": {
+              "title": "入手DIY森某IE800s耳机，性价比不错",
+              "permalink": "/lifestyle/diy-earbuds"
+            },
+            "nextItem": {
+              "title": "前端 UP 主背后的生活是什么样的？这是一段孤独的旅程",
+              "permalink": "/lifestyle/a-lonely-jorney"
+            }
+          }
+        },
+        {
+          "id": "a-lonely-jorney",
+          "metadata": {
+            "permalink": "/lifestyle/a-lonely-jorney",
+            "source": "@site/lifestyle/2021-05-19-a-lonely-journey.md",
+            "title": "前端 UP 主背后的生活是什么样的？这是一段孤独的旅程",
+            "description": "今天是成为 Bilibili Up 主的第 513天，也是这个网站上线”随笔“栏目的第一天，为什么不专心于技术而写这些乱七八糟的呢？原因是，做技术类视频或写技术类文章，需要搜集资料，整理，消化，吸收，撰写文章或视频文案，做视频的话，后面还要做 PPT，录声音，录屏幕，找素材，剪辑，发布，都是耗费巨大精力和时间的事情，而随笔写作可以吐槽一些不满、压力，想写什么就写什么，是一个放松的过程，还可以把我的想法说给你听，了解我做 UP 主的背后，都经历了什么。",
+            "date": "2021-05-19T00:00:00.000Z",
+            "formattedDate": "2021年5月19日",
+            "tags": [
+              {
+                "label": "感悟",
+                "permalink": "/lifestyle/tags/感悟"
+              }
+            ],
+            "readingTime": 0.21,
+            "truncated": true,
+            "prevItem": {
+              "title": "第31个年头的生日，年龄真的是能力的枷锁吗？",
+              "permalink": "/lifestyle/happy-birthday"
+            }
+          }
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "metadata": {
+            "permalink": "/lifestyle",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 8,
+            "previousPage": null,
+            "nextPage": null,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          },
+          "items": [
+            "deal-with-people-emotions",
+            "programmer-lie-down",
+            "sit-house-rental",
+            "writing-technical-blogs",
+            "out-of-ideas",
+            "diy-earbuds",
+            "happy-birthday",
+            "a-lonely-jorney"
+          ]
+        }
+      ],
+      "blogTags": {
+        "杂谈": {
+          "name": "杂谈",
+          "items": [
+            "deal-with-people-emotions"
+          ],
+          "permalink": "/lifestyle/tags/杂谈"
+        },
+        "个人提升": {
+          "name": "个人提升",
+          "items": [
+            "programmer-lie-down"
+          ],
+          "permalink": "/lifestyle/tags/个人提升"
+        },
+        "留学": {
+          "name": "留学",
+          "items": [
+            "sit-house-rental"
+          ],
+          "permalink": "/lifestyle/tags/留学"
+        },
+        "sit": {
+          "name": "sit",
+          "items": [
+            "sit-house-rental"
+          ],
+          "permalink": "/lifestyle/tags/sit"
+        },
+        "租房": {
+          "name": "租房",
+          "items": [
+            "sit-house-rental"
+          ],
+          "permalink": "/lifestyle/tags/租房"
+        },
+        "吐槽": {
+          "name": "吐槽",
+          "items": [
+            "writing-technical-blogs"
+          ],
+          "permalink": "/lifestyle/tags/吐槽"
+        },
+        "日记": {
+          "name": "日记",
+          "items": [
+            "out-of-ideas",
+            "happy-birthday"
+          ],
+          "permalink": "/lifestyle/tags/日记"
+        },
+        "评测": {
+          "name": "评测",
+          "items": [
+            "diy-earbuds"
+          ],
+          "permalink": "/lifestyle/tags/评测"
+        },
+        "耳机": {
+          "name": "耳机",
+          "items": [
+            "diy-earbuds"
+          ],
+          "permalink": "/lifestyle/tags/耳机"
+        },
+        "感悟": {
+          "name": "感悟",
+          "items": [
+            "a-lonely-jorney"
+          ],
+          "permalink": "/lifestyle/tags/感悟"
+        }
+      },
+      "blogTagsListPath": "/lifestyle/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": []
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  },
+  "docusaurus-theme-search-algolia": {
+    "default": null
+  },
+  "docusaurus-baidu-analytics-plugin": {
+    "default": null
+  },
+  "docusaurus-baidu-push-plugin": {
+    "default": null
+  },
+  "docusaurus-google-adsense-plugin": {
+    "default": null
+  },
+  "plugin-onesignal-push": {
+    "default": null
+  },
+  "docusaurus-latest-docs-plugin": {
+    "default": 9
+  },
+  "docusaurus2-dotenv": {
+    "default": null
+  }
+}

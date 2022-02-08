@@ -1,0 +1,38 @@
+{
+  "unversionedId": "videos/css/css-grid-place-items/css-grid-place-items",
+  "id": "videos/css/css-grid-place-items/css-grid-place-items",
+  "isDocsHomePage": false,
+  "title": "使用 2 行 CSS 代码居中元素",
+  "description": "在 CSS 中，最方便的居中方式就是使用 flex 布局或 grid 布局，利用 align 和 justify 分别设置垂直和水平方向上居中对齐，这样需要 3 行代码才能实现。有没有办法使用 2 行代码就实现呢？答案是有的。",
+  "source": "@site/docs/videos/css/07-css-grid-place-items/index.md",
+  "sourceDirName": "videos/css/07-css-grid-place-items",
+  "slug": "/videos/css/css-grid-place-items",
+  "permalink": "/docs/videos/css/css-grid-place-items",
+  "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/css/07-css-grid-place-items/index.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {
+    "id": "css-grid-place-items",
+    "title": "使用 2 行 CSS 代码居中元素",
+    "description": "在 CSS 中，最方便的居中方式就是使用 flex 布局或 grid 布局，利用 align 和 justify 分别设置垂直和水平方向上居中对齐，这样需要 3 行代码才能实现。有没有办法使用 2 行代码就实现呢？答案是有的。",
+    "slug": "../css-grid-place-items",
+    "keywords": [
+      "css",
+      "color",
+      "grid",
+      "place-items",
+      "前端",
+      "frontend"
+    ]
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "CSS HSL：更直观、可复用的 CSS 颜色表示法，不再盲猜颜色",
+    "permalink": "/docs/videos/css/css-hsl-color"
+  },
+  "next": {
+    "title": "使用 CSS 实现 word 中的图片文字环绕效果",
+    "permalink": "/docs/videos/css/css-text-image-wrap"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "videos/browser/web-components-get-started/web-components-get-started",
+  "id": "videos/browser/web-components-get-started/web-components-get-started",
+  "isDocsHomePage": false,
+  "title": "Web Components 前端开发入门教程",
+  "description": "Web components 是原生的组件化开发技术，它可以让我们创建自定义的 HTML 元素，并且功能和样式都会封装在组件内部，不影响其它的元素。Web Components 与现有的 React 和 Vue 等库不冲突，而是相辅相成的。",
+  "source": "@site/docs/videos/browser/04-web-components-get-started/index.md",
+  "sourceDirName": "videos/browser/04-web-components-get-started",
+  "slug": "/videos/browser/web-components-get-started",
+  "permalink": "/docs/videos/browser/web-components-get-started",
+  "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/browser/04-web-components-get-started/index.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {
+    "id": "web-components-get-started",
+    "title": "Web Components 前端开发入门教程",
+    "description": "Web components 是原生的组件化开发技术，它可以让我们创建自定义的 HTML 元素，并且功能和样式都会封装在组件内部，不影响其它的元素。Web Components 与现有的 React 和 Vue 等库不冲突，而是相辅相成的。",
+    "slug": "../web-components-get-started",
+    "keywords": [
+      "web components",
+      "dom",
+      "browser",
+      "组件化",
+      "前端",
+      "frontend"
+    ]
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "使用原生 JS Drag & Drop API 实现元素拖拽和文件拖放",
+    "permalink": "/docs/videos/browser/native-drag-drop"
+  },
+  "next": {
+    "title": "JS 原生高性能的动画实现：Web Animations API",
+    "permalink": "/docs/videos/browser/js-web-animations-api"
+  }
+}

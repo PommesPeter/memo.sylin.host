@@ -1,0 +1,40 @@
+{
+  "unversionedId": "videos/vue/vue-watch-api-tips/vue-watch-api-tips",
+  "id": "videos/vue/vue-watch-api-tips/vue-watch-api-tips",
+  "isDocsHomePage": false,
+  "title": "Vue 3 Watch API 的使用注意事项",
+  "description": "Vue 的 composition api 虽然简化了 vue 组件的代码，但是在实际使用过程中仍然需要注意一些问题。这里我把我在体验 vue 3 composition api 的过程中遇到的比较重要的问题整理了一下，尤其是对于有 React 开发经验的人来学习 Vue，会更有帮助。",
+  "source": "@site/docs/videos/vue/03-vue-watch-api-tips/index.md",
+  "sourceDirName": "videos/vue/03-vue-watch-api-tips",
+  "slug": "/videos/vue/vue-watch-api-tips",
+  "permalink": "/docs/videos/vue/vue-watch-api-tips",
+  "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/vue/03-vue-watch-api-tips/index.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {
+    "id": "vue-watch-api-tips",
+    "title": "Vue 3 Watch API 的使用注意事项",
+    "slug": "../vue-watch-api-tips",
+    "description": "Vue 的 composition api 虽然简化了 vue 组件的代码，但是在实际使用过程中仍然需要注意一些问题。这里我把我在体验 vue 3 composition api 的过程中遇到的比较重要的问题整理了一下，尤其是对于有 React 开发经验的人来学习 Vue，会更有帮助。",
+    "keywords": [
+      "vue",
+      "watch",
+      "watch api",
+      "setup",
+      "vue 3",
+      "composition api",
+      "前端",
+      "frontend"
+    ]
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "Vite 2.0 极速体验，全框架支持 Vue/React/Svelte 的开发环境",
+    "permalink": "/docs/videos/vue/vite-get-started"
+  },
+  "next": {
+    "title": "封装 Echarts 为 Vue.js 组件教程",
+    "permalink": "/docs/videos/vue/vue-echarts-integration"
+  }
+}

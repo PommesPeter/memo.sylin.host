@@ -1,0 +1,20 @@
+{
+  "permalink": "/how-to-learn-a-programming-language-quickly",
+  "source": "@site/blog/2021-06-27-how-to-learn-a-programming-language-quickly.md",
+  "title": "如何快速学会一门编程语言",
+  "description": "面对越来越激烈的内卷，程序员需要掌握的技能越来越多，并且对于快速掌握一门编程语言的能力也日趋重要，因为现在的开发基本都是多端、各种语言都会使用，能快速的转换，才能在编程界里立足。",
+  "date": "2021-06-27T00:00:00.000Z",
+  "formattedDate": "2021年6月27日",
+  "tags": [
+    {
+      "label": "职业",
+      "permalink": "/tags/职业"
+    }
+  ],
+  "readingTime": 0.145,
+  "truncated": false,
+  "nextItem": {
+    "title": "CSS :is() 伪类选择器使用指南",
+    "permalink": "/css-is-pseudo-class-selector"
+  }
+}

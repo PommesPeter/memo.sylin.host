@@ -1,0 +1,538 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": "none",
+  "isLast": true,
+  "docsSidebars": {
+    "css_tutorials": [
+      {
+        "type": "link",
+        "label": "CSS 完全指南简介",
+        "href": "/docs/css/css-tutorial-intro"
+      },
+      {
+        "type": "category",
+        "label": "CSS 基础",
+        "items": [
+          {
+            "type": "link",
+            "label": "CSS 简介",
+            "href": "/docs/css/basic/css-intro"
+          },
+          {
+            "type": "link",
+            "label": "引入 CSS",
+            "href": "/docs/css/basic/import-css-to-html"
+          }
+        ],
+        "collapsed": true
+      },
+      {
+        "type": "category",
+        "label": "CSS 进阶",
+        "items": [
+          {
+            "type": "link",
+            "label": "CSS 盒子模型",
+            "href": "/docs/css/advanced/box-model"
+          }
+        ],
+        "collapsed": true
+      }
+    ],
+    "videos": [
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "简介",
+        "items": [
+          {
+            "type": "link",
+            "label": "技术视频栏目简介",
+            "href": "/docs/videos"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "JavaScript",
+        "items": [
+          {
+            "type": "link",
+            "label": "最直观的 JavaScript Event Loop 动画演示",
+            "href": "/docs/videos/js/javascript-eventloop"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "CSS",
+        "items": [
+          {
+            "type": "link",
+            "label": "5个 CSS 特效实现和发现灵感网站推荐",
+            "href": "/docs/videos/css/5-tips-master-css"
+          },
+          {
+            "type": "link",
+            "label": "CSS Grid 布局入门教程",
+            "href": "/docs/videos/css/css-grid-layout"
+          },
+          {
+            "type": "link",
+            "label": "CSS flex 布局入门教程",
+            "href": "/docs/videos/css/css-flex-layout"
+          },
+          {
+            "type": "link",
+            "label": "JS DOM 和 CSS 选择器入门教程",
+            "href": "/docs/videos/css/css-selectors"
+          },
+          {
+            "type": "link",
+            "label": "CSS 5 大定位属性 Static, Relative, Absolute, Fixed, Sticky 使用教程",
+            "href": "/docs/videos/css/css-position"
+          },
+          {
+            "type": "link",
+            "label": "CSS HSL：更直观、可复用的 CSS 颜色表示法，不再盲猜颜色",
+            "href": "/docs/videos/css/css-hsl-color"
+          },
+          {
+            "type": "link",
+            "label": "使用 2 行 CSS 代码居中元素",
+            "href": "/docs/videos/css/css-grid-place-items"
+          },
+          {
+            "type": "link",
+            "label": "使用 CSS 实现 word 中的图片文字环绕效果",
+            "href": "/docs/videos/css/css-text-image-wrap"
+          },
+          {
+            "type": "link",
+            "label": "使用 Gap 属性给 CSS Flex 布局设置间距",
+            "href": "/docs/videos/css/css-flex-gap-tutorial"
+          },
+          {
+            "type": "link",
+            "label": "利用 CSS Counter 计数器添加章节序号",
+            "href": "/docs/videos/css/css-counter-state-management"
+          },
+          {
+            "type": "link",
+            "label": "利用 CSS conic-gradient 制作饼图和色盘",
+            "href": "/docs/videos/css/css-conic-gradient-tutorial"
+          },
+          {
+            "type": "link",
+            "label": "CSS最新特性 Container Queries 介绍",
+            "href": "/docs/videos/css/css-container-queries-intro"
+          },
+          {
+            "type": "link",
+            "label": "CSS 常用样式属性",
+            "href": "/docs/videos/css/css-common-properties"
+          },
+          {
+            "type": "link",
+            "label": "CSS 过渡和动画属性",
+            "href": "/docs/videos/css/css-transition-keyframes-intro"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "HTML",
+        "items": [
+          {
+            "type": "link",
+            "label": "HTML 网页制作基础入门教程",
+            "href": "/docs/videos/html/html-get-started"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "实战项目",
+        "items": [
+          {
+            "type": "link",
+            "label": "创建一个工业风的网站 | HTML & CSS 入门教程",
+            "href": "/docs/videos/projects/html-css-full-website-idustrial"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "特效",
+        "items": [
+          {
+            "type": "link",
+            "label": "教你使用 2 行代码实现毛玻璃特效 Glassmorphism，附代码生成工具",
+            "href": "/docs/videos/effects/css-glassmorphism"
+          },
+          {
+            "type": "link",
+            "label": "使用 CSS 实现赛博朋克 2077 官网按钮色差故障",
+            "href": "/docs/videos/effects/effects-glitch"
+          },
+          {
+            "type": "link",
+            "label": "使用 2 行 CSS 代码实现可缩放的 HTML 元素",
+            "href": "/docs/videos/effects/effects-resizable"
+          },
+          {
+            "type": "link",
+            "label": "使用 CSS 实现渐变背景色过渡动画",
+            "href": "/docs/videos/effects/css-gradient-animation"
+          },
+          {
+            "type": "link",
+            "label": "JS 实现鼠标滚轮横向滚动特效",
+            "href": "/docs/videos/effects/js-horizontal-scroll-effect"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "浏览器",
+        "items": [
+          {
+            "type": "link",
+            "label": "HTML DOM 入门简介",
+            "href": "/docs/videos/browser/what-is-dom"
+          },
+          {
+            "type": "link",
+            "label": "什么是 BOM？与 HTML DOM 有什么区别？",
+            "href": "/docs/videos/browser/what-is-bom"
+          },
+          {
+            "type": "link",
+            "label": "JS HTML DOM 操作入门教程",
+            "href": "/docs/videos/browser/js-dom-manipulate"
+          },
+          {
+            "type": "link",
+            "label": "使用原生 JS Drag & Drop API 实现元素拖拽和文件拖放",
+            "href": "/docs/videos/browser/native-drag-drop"
+          },
+          {
+            "type": "link",
+            "label": "Web Components 前端开发入门教程",
+            "href": "/docs/videos/browser/web-components-get-started"
+          },
+          {
+            "type": "link",
+            "label": "JS 原生高性能的动画实现：Web Animations API",
+            "href": "/docs/videos/browser/js-web-animations-api"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "Web",
+        "items": []
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "网络",
+        "items": [
+          {
+            "type": "link",
+            "label": "HTTP 协议基础入门教程",
+            "href": "/docs/videos/network/http-basics"
+          },
+          {
+            "type": "link",
+            "label": "HTTPS 原理和 TLS 握手机制",
+            "href": "/docs/videos/network/https-basics"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "React",
+        "items": [
+          {
+            "type": "link",
+            "label": "React Props 属性介绍，制作一个漂亮的按钮",
+            "href": "/docs/videos/react/react-props-example"
+          },
+          {
+            "type": "link",
+            "label": "React 状态和事件处理，制作渐变背景生成器",
+            "href": "/docs/videos/react/react-state-event-exmaple"
+          },
+          {
+            "type": "link",
+            "label": "精选 5 个 React Spring 前端动画",
+            "href": "/docs/videos/react/5-react-spring-examples"
+          },
+          {
+            "type": "link",
+            "label": "React + Docusaurus 博客列表视图实现",
+            "href": "/docs/videos/react/react-docusaurus-blog-list-view"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "Vue",
+        "items": [
+          {
+            "type": "link",
+            "label": "Vue 3.0 实战，开发基于 Composition API 的 Todo Web App",
+            "href": "/docs/videos/vue/develop-a-todo-app-using-vue3"
+          },
+          {
+            "type": "link",
+            "label": "Vite 2.0 极速体验，全框架支持 Vue/React/Svelte 的开发环境",
+            "href": "/docs/videos/vue/vite-get-started"
+          },
+          {
+            "type": "link",
+            "label": "Vue 3 Watch API 的使用注意事项",
+            "href": "/docs/videos/vue/vue-watch-api-tips"
+          },
+          {
+            "type": "link",
+            "label": "封装 Echarts 为 Vue.js 组件教程",
+            "href": "/docs/videos/vue/vue-echarts-integration"
+          },
+          {
+            "type": "link",
+            "label": "Vue 3.0 + Echarts 电影票房数据可视化柱状图展示",
+            "href": "/docs/videos/vue/vue-echarts-bar-chart"
+          },
+          {
+            "type": "link",
+            "label": "Vue 3.0 + ECharts 实现电影票房自定义环形图教程",
+            "href": "/docs/videos/vue/vue-echarts-doughnut-chart"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "TypeScript",
+        "items": [
+          {
+            "type": "link",
+            "label": "TypeScript 入门教程",
+            "href": "/docs/videos/ts/typscript-intro"
+          },
+          {
+            "type": "link",
+            "label": "TypeScript：面向对象编程基础",
+            "href": "/docs/videos/ts/typescript-oo-basics"
+          },
+          {
+            "type": "link",
+            "label": "TypeScript：面向对象特性之封装与抽象",
+            "href": "/docs/videos/ts/typescript-oop-abstraction"
+          },
+          {
+            "type": "link",
+            "label": "TypeScript：面向对象特性之继承",
+            "href": "/docs/videos/ts/typescript-oop-inheritance"
+          },
+          {
+            "type": "link",
+            "label": "TypeScript：面向对象特性之多态",
+            "href": "/docs/videos/ts/typescript-oop-polymorphism"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "Express",
+        "items": [
+          {
+            "type": "link",
+            "label": "Express.js 快速入门指南",
+            "href": "/docs/videos/express/express-get-started"
+          },
+          {
+            "type": "link",
+            "label": "Express + MongoDB 实现 Restful API 教程",
+            "href": "/docs/videos/express/express-mongo-crud"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "Mongo DB",
+        "items": [
+          {
+            "type": "link",
+            "label": "2020最新 MongoDB 4.2 快速入门教程",
+            "href": "/docs/videos/mongo/mongodb-get-started"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "工具",
+        "items": [
+          {
+            "type": "link",
+            "label": "开发工具：CodeSandBox 和 VS Code",
+            "href": "/docs/videos/tools/tools-vs-code-codesandbox"
+          }
+        ]
+      }
+    ],
+    "resources": [
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "简介",
+        "items": [
+          {
+            "type": "link",
+            "label": "资源导航",
+            "href": "/docs/resources"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "前端开发",
+        "items": [
+          {
+            "type": "link",
+            "label": "CSS 框架",
+            "href": "/docs/resources/css-frameworks"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "开发工具",
+        "items": [
+          {
+            "type": "link",
+            "label": "自用的 5 款 VS Code 主题推荐",
+            "href": "/docs/resources/vs-code-themes"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "效率工具",
+        "items": []
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "UI 设计",
+        "items": []
+      }
+    ],
+    "tools": [
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "简介",
+        "items": [
+          {
+            "type": "link",
+            "label": "小工具介绍",
+            "href": "/docs/tools"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "CSS 工具",
+        "items": [
+          {
+            "type": "link",
+            "label": "Glassmorphism 玻璃特效生成器",
+            "href": "/docs/tools/glassmorphism-generator"
+          }
+        ]
+      }
+    ]
+  },
+  "permalinkToSidebar": {
+    "/docs/css/advanced/box-model": "css_tutorials",
+    "/docs/css/basic/css-intro": "css_tutorials",
+    "/docs/css/basic/import-css-to-html": "css_tutorials",
+    "/docs/css/css-tutorial-intro": "css_tutorials",
+    "/docs/resources": "resources",
+    "/docs/resources/vs-code-themes": "resources",
+    "/docs/resources/css-frameworks": "resources",
+    "/docs/tools/glassmorphism-generator": "tools",
+    "/docs/tools": "tools",
+    "/docs/videos/browser/what-is-bom": "videos",
+    "/docs/videos/browser/what-is-dom": "videos",
+    "/docs/videos/browser/js-dom-manipulate": "videos",
+    "/docs/videos/browser/js-web-animations-api": "videos",
+    "/docs/videos/browser/native-drag-drop": "videos",
+    "/docs/videos/browser/web-components-get-started": "videos",
+    "/docs/videos/css/5-tips-master-css": "videos",
+    "/docs/videos/css/css-common-properties": "videos",
+    "/docs/videos/css/css-conic-gradient-tutorial": "videos",
+    "/docs/videos/css/css-container-queries-intro": "videos",
+    "/docs/videos/css/css-counter-state-management": "videos",
+    "/docs/videos/css/css-flex-gap-tutorial": "videos",
+    "/docs/videos/css/css-grid-place-items": "videos",
+    "/docs/videos/css/css-hsl-color": "videos",
+    "/docs/videos/css/css-text-image-wrap": "videos",
+    "/docs/videos/css/css-transition-keyframes-intro": "videos",
+    "/docs/videos/css/css-flex-layout": "videos",
+    "/docs/videos/css/css-grid-layout": "videos",
+    "/docs/videos/css/css-position": "videos",
+    "/docs/videos/css/css-selectors": "videos",
+    "/docs/videos/effects/effects-glitch": "videos",
+    "/docs/videos/effects/css-glassmorphism": "videos",
+    "/docs/videos/effects/css-gradient-animation": "videos",
+    "/docs/videos/effects/js-horizontal-scroll-effect": "videos",
+    "/docs/videos/effects/effects-resizable": "videos",
+    "/docs/videos/express/express-get-started": "videos",
+    "/docs/videos/express/express-mongo-crud": "videos",
+    "/docs/videos/html/html-get-started": "videos",
+    "/docs/videos/js/javascript-eventloop": "videos",
+    "/docs/videos/mongo/mongodb-get-started": "videos",
+    "/docs/videos/network/http-basics": "videos",
+    "/docs/videos/network/https-basics": "videos",
+    "/docs/videos/projects/html-css-full-website-idustrial": "videos",
+    "/docs/videos/react/5-react-spring-examples": "videos",
+    "/docs/videos/react/react-state-event-exmaple": "videos",
+    "/docs/videos/react/react-docusaurus-blog-list-view": "videos",
+    "/docs/videos/react/react-props-example": "videos",
+    "/docs/videos/tools/tools-vs-code-codesandbox": "videos",
+    "/docs/videos/ts/typscript-intro": "videos",
+    "/docs/videos/ts/typescript-oo-basics": "videos",
+    "/docs/videos/ts/typescript-oop-abstraction": "videos",
+    "/docs/videos/ts/typescript-oop-inheritance": "videos",
+    "/docs/videos/ts/typescript-oop-polymorphism": "videos",
+    "/docs/videos": "videos",
+    "/docs/videos/vue/vite-get-started": "videos",
+    "/docs/videos/vue/vue-echarts-bar-chart": "videos",
+    "/docs/videos/vue/vue-echarts-doughnut-chart": "videos",
+    "/docs/videos/vue/vue-echarts-integration": "videos",
+    "/docs/videos/vue/develop-a-todo-app-using-vue3": "videos",
+    "/docs/videos/vue/vue-watch-api-tips": "videos"
+  }
+}

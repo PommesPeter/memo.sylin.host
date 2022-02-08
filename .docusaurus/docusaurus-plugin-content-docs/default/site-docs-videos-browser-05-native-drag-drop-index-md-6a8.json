@@ -1,0 +1,38 @@
+{
+  "unversionedId": "videos/browser/native-drag-drop/native-drag-drop",
+  "id": "videos/browser/native-drag-drop/native-drag-drop",
+  "isDocsHomePage": false,
+  "title": "使用原生 JS Drag & Drop API 实现元素拖拽和文件拖放",
+  "description": "有时候经常会好奇那些可视化拖拽的工具，还有拖放文件上传是怎么实现的，是不是得监听鼠标点击，移动和释放事件，然后同时计算新位置的坐标？其实不用那么麻烦，浏览器提供了内置的 Drag & Drop API，能很方便的实现拖拽功能。",
+  "source": "@site/docs/videos/browser/05-native-drag-drop/index.md",
+  "sourceDirName": "videos/browser/05-native-drag-drop",
+  "slug": "/videos/browser/native-drag-drop",
+  "permalink": "/docs/videos/browser/native-drag-drop",
+  "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/browser/05-native-drag-drop/index.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {
+    "id": "native-drag-drop",
+    "title": "使用原生 JS Drag & Drop API 实现元素拖拽和文件拖放",
+    "slug": "../native-drag-drop",
+    "description": "有时候经常会好奇那些可视化拖拽的工具，还有拖放文件上传是怎么实现的，是不是得监听鼠标点击，移动和释放事件，然后同时计算新位置的坐标？其实不用那么麻烦，浏览器提供了内置的 Drag & Drop API，能很方便的实现拖拽功能。",
+    "keywords": [
+      "dom",
+      "bom",
+      "drag",
+      "drop",
+      "前端",
+      "frontend"
+    ]
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "JS HTML DOM 操作入门教程",
+    "permalink": "/docs/videos/browser/js-dom-manipulate"
+  },
+  "next": {
+    "title": "Web Components 前端开发入门教程",
+    "permalink": "/docs/videos/browser/web-components-get-started"
+  }
+}

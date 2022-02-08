@@ -1,0 +1,39 @@
+{
+  "unversionedId": "videos/react/react-docusaurus-blog-list-view/react-docusaurus-blog-list-view",
+  "id": "videos/react/react-docusaurus-blog-list-view/react-docusaurus-blog-list-view",
+  "isDocsHomePage": false,
+  "title": "React + Docusaurus 博客列表视图实现",
+  "description": "网站之前加上了列表视图，方便快速查找文章，这个视频整理了制作过程，网站代码是开源的，可以结合视频理解（非常非常简单！）。",
+  "source": "@site/docs/videos/react/04-react-docusaurus-blog-list-view/index.md",
+  "sourceDirName": "videos/react/04-react-docusaurus-blog-list-view",
+  "slug": "/videos/react/react-docusaurus-blog-list-view",
+  "permalink": "/docs/videos/react/react-docusaurus-blog-list-view",
+  "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/react/04-react-docusaurus-blog-list-view/index.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {
+    "id": "react-docusaurus-blog-list-view",
+    "title": "React + Docusaurus 博客列表视图实现",
+    "slug": "../react-docusaurus-blog-list-view",
+    "description": "网站之前加上了列表视图，方便快速查找文章，这个视频整理了制作过程，网站代码是开源的，可以结合视频理解（非常非常简单！）。",
+    "keywords": [
+      "react",
+      "docusaurus",
+      "blog",
+      "hooks",
+      "list",
+      "前端",
+      "frontend"
+    ]
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "精选 5 个 React Spring 前端动画",
+    "permalink": "/docs/videos/react/5-react-spring-examples"
+  },
+  "next": {
+    "title": "Vue 3.0 实战，开发基于 Composition API 的 Todo Web App",
+    "permalink": "/docs/videos/vue/develop-a-todo-app-using-vue3"
+  }
+}

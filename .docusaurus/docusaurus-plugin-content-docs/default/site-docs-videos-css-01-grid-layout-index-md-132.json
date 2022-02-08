@@ -1,0 +1,36 @@
+{
+  "unversionedId": "videos/css/grid-layout/grid-layout",
+  "id": "videos/css/grid-layout/grid-layout",
+  "isDocsHomePage": false,
+  "title": "CSS Grid 布局入门教程",
+  "description": "CSS Grid 布局 2分钟动画快速掌握。",
+  "source": "@site/docs/videos/css/01-grid-layout/index.md",
+  "sourceDirName": "videos/css/01-grid-layout",
+  "slug": "/videos/css/css-grid-layout",
+  "permalink": "/docs/videos/css/css-grid-layout",
+  "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master/docs/videos/css/01-grid-layout/index.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {
+    "id": "grid-layout",
+    "title": "CSS Grid 布局入门教程",
+    "description": "CSS Grid 布局 2分钟动画快速掌握。",
+    "slug": "../css-grid-layout",
+    "keywords": [
+      "css",
+      "flex",
+      "grid",
+      "frontend"
+    ]
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "5个 CSS 特效实现和发现灵感网站推荐",
+    "permalink": "/docs/videos/css/5-tips-master-css"
+  },
+  "next": {
+    "title": "CSS flex 布局入门教程",
+    "permalink": "/docs/videos/css/css-flex-layout"
+  }
+}

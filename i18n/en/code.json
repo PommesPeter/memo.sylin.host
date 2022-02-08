@@ -3,12 +3,12 @@
     "message": "Hello! I'm ",
     "description": "hero greet"
   },
-  "峰华": {
-    "message": "Xuqian",
+  "PommesPeter": {
+    "message": "PommesPeter",
     "description": "my name"
   },
-  "去B站关注": {
-    "message": "Follow Me on Twitter",
+  "自我介绍": {
+    "message": "About me",
     "description": "follow me btn text"
   },
   "homepage.followers": {
@@ -256,27 +256,23 @@
     "description": "The ARIA label and placeholder for search button"
   },
   "homepage.hero.text": {
-    "message": "I'm a front-end developer. Here you can find the corresponding {bilibiliText}You can also find {courses}{blogs}{links}as well as {ideas}. I will help you learn front-end development in the most intuitive and fastest way. Hope my experience will inspire you.",
+    "message": "Here is my personal blog. I will share some useful little knowledge, records and notes in daily life from time to time, so as to facilitate my review and share with those in need. Including but not limited to {dpcv}{courses}{blogs}{links}. Hope to inspire you. ",
     "description": "hero text"
   },
   "hompage.hero.text.bilibili": {
-    "message": "scripts for my videos on Bilibili. ",
+    "message": "DeepLearning, ",
     "description": "Bilibili docs link label"
   },
   "hompage.hero.text.course": {
-    "message": "courses, ",
+    "message": "courses notes, ",
     "description": "Course link label"
   },
   "hompage.hero.text.blog": {
-    "message": "blogs, ",
+    "message": "personal blogs, ",
     "description": "Blog link label"
   },
   "hompage.hero.text.link": {
-    "message": "resources, ",
+    "message": "my friends",
     "description": "Link link label"
-  },
-  "hompage.hero.text.idea": {
-    "message": "my thoughts and life hacks",
-    "description": "Idea link label"
   }
 }

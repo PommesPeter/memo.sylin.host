@@ -1,0 +1,28 @@
+{
+  "permalink": "/css-flex-box-layout",
+  "source": "@site/blog/2020-04-05-css-flex-box-layout.md",
+  "title": "CSS Flexbox 布局最容易理解完全教程",
+  "description": "CSS flexbox 布局十分强大，它可以对元素进行水平和垂直方向上的对齐，也支持自由缩放，方便响应式布局的开发。这个文章就教你认识 flex-box 布局，看完之后你也能熟练的运用它！",
+  "date": "2020-04-05T00:00:00.000Z",
+  "formattedDate": "2020年4月5日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "React",
+      "permalink": "/tags/react"
+    }
+  ],
+  "readingTime": 5.865,
+  "truncated": true,
+  "prevItem": {
+    "title": "5个技巧助你成为 CSS 大神",
+    "permalink": "/5-tips-to-master-css"
+  },
+  "nextItem": {
+    "title": "CSS 选择器优先级特异性权重详解",
+    "permalink": "/css-selector-specificity"
+  }
+}
