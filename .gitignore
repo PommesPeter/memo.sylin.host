@@ -6,6 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 .docusaurus
+.vscode
 build
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
