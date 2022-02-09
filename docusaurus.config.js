@@ -129,8 +129,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Courses Notes',
+                to: '/docs/Courses',
               },
             ],
           },
@@ -138,16 +138,20 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: "Neet CV",
+                href: "https://github.com/neet-cv",
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: "GUET CS Technical Association",
+                href: "https://github.com/PommesPeter",
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: "CSDN Blog",
+                href: "https://blog.csdn.net/weixin_45709330",
+              },
+              {
+                label: "Email",
+                href: "matilto://me@pommespeter.space",
               },
             ],
           },
@@ -155,12 +159,16 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'DeepLearning NoteBook',
+                to: 'https://ml.akasaki.space/',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Blog Repo',
+                href: 'https://github.com/PommesPeter',
+              },
+              {
+                label: "About me",
+                to: "/about",
               },
             ],
           },
