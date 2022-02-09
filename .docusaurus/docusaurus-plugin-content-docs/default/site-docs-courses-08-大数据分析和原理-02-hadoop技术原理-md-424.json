@@ -1,0 +1,45 @@
+{
+  "unversionedId": "Courses/大数据分析和原理/Hadoop技术原理",
+  "id": "Courses/大数据分析和原理/Hadoop技术原理",
+  "title": "Hadoop技术原理",
+  "description": "什么是 Hadoop？",
+  "source": "@site/docs\\Courses\\08.大数据分析和原理\\02.Hadoop技术原理.md",
+  "sourceDirName": "Courses/08.大数据分析和原理",
+  "slug": "/Courses/大数据分析和原理/Hadoop技术原理",
+  "permalink": "/docs/Courses/大数据分析和原理/Hadoop技术原理",
+  "editUrl": "https://github.com/PommesPeter/memo.pommespeter.space/docs/Courses/08.大数据分析和原理/02.Hadoop技术原理.md",
+  "tags": [
+    {
+      "label": "BigData",
+      "permalink": "/docs/tags/big-data"
+    },
+    {
+      "label": "Hadoop",
+      "permalink": "/docs/tags/hadoop"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Hadoop技术原理",
+    "permalink": "/courses/bigdata/hadoop",
+    "categories": [
+      "课程学习",
+      "大数据"
+    ],
+    "tags": [
+      "BigData",
+      "Hadoop"
+    ],
+    "date": "2021-10-03T20:53:16.000Z"
+  },
+  "sidebar": "Courses",
+  "previous": {
+    "title": "大数据概述",
+    "permalink": "/docs/Courses/大数据分析和原理/大数据概述"
+  },
+  "next": {
+    "title": "HDFS技术原理",
+    "permalink": "/docs/Courses/大数据分析和原理/HDFS技术原理"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "unversionedId": "Courses/算法设计与分析/动态规划",
+  "id": "Courses/算法设计与分析/动态规划",
+  "title": "动态规划",
+  "description": "基础概念",
+  "source": "@site/docs\\Courses\\04.算法设计与分析\\03.动态规划.md",
+  "sourceDirName": "Courses/04.算法设计与分析",
+  "slug": "/Courses/算法设计与分析/动态规划",
+  "permalink": "/docs/Courses/算法设计与分析/动态规划",
+  "editUrl": "https://github.com/PommesPeter/memo.pommespeter.space/docs/Courses/04.算法设计与分析/03.动态规划.md",
+  "tags": [
+    {
+      "label": "Algorithm",
+      "permalink": "/docs/tags/algorithm"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "动态规划",
+    "tags": [
+      "Algorithm"
+    ]
+  },
+  "sidebar": "Courses",
+  "previous": {
+    "title": "分治算法",
+    "permalink": "/docs/Courses/算法设计与分析/分治算法"
+  },
+  "next": {
+    "title": "贪心算法",
+    "permalink": "/docs/Courses/算法设计与分析/贪心算法"
+  }
+}

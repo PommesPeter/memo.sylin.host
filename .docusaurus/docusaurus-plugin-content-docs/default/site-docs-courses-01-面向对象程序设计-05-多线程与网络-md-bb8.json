@@ -1,0 +1,43 @@
+{
+  "unversionedId": "Courses/面向对象程序设计/多线程与网络",
+  "id": "Courses/面向对象程序设计/多线程与网络",
+  "title": "Java 多线程与网络",
+  "description": "多线程",
+  "source": "@site/docs\\Courses\\01.面向对象程序设计\\05.多线程与网络.md",
+  "sourceDirName": "Courses/01.面向对象程序设计",
+  "slug": "/Courses/面向对象程序设计/多线程与网络",
+  "permalink": "/docs/Courses/面向对象程序设计/多线程与网络",
+  "editUrl": "https://github.com/PommesPeter/memo.pommespeter.space/docs/Courses/01.面向对象程序设计/05.多线程与网络.md",
+  "tags": [
+    {
+      "label": "OOP",
+      "permalink": "/docs/tags/oop"
+    },
+    {
+      "label": "JAVA",
+      "permalink": "/docs/tags/java"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Java 多线程与网络",
+    "categories": [
+      "课程学习",
+      "面向对象编程"
+    ],
+    "tags": [
+      "OOP",
+      "JAVA"
+    ]
+  },
+  "sidebar": "Courses",
+  "previous": {
+    "title": "Java 实用类大全",
+    "permalink": "/docs/Courses/面向对象程序设计/实用类大全"
+  },
+  "next": {
+    "title": "线性规划算法",
+    "permalink": "/docs/Courses/数学建模/线性规划"
+  }
+}

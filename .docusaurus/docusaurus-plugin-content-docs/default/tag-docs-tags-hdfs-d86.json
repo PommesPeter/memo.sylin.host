@@ -1,0 +1,19 @@
+{
+  "name": "HDFS",
+  "permalink": "/docs/tags/hdfs",
+  "docs": [
+    {
+      "id": "Courses/大数据分析和原理/HBase技术原理",
+      "title": "HBase技术原理",
+      "description": "HBase 数据模型",
+      "permalink": "/docs/Courses/大数据分析和原理/HBase技术原理"
+    },
+    {
+      "id": "Courses/大数据分析和原理/HDFS技术原理",
+      "title": "HDFS技术原理",
+      "description": "什么是 HDFS？",
+      "permalink": "/docs/Courses/大数据分析和原理/HDFS技术原理"
+    }
+  ],
+  "allTagsPath": "/docs/tags"
+}

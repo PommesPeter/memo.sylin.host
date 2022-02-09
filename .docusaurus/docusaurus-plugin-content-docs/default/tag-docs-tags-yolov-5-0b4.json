@@ -1,0 +1,13 @@
+{
+  "name": "Yolov5",
+  "permalink": "/docs/tags/yolov-5",
+  "docs": [
+    {
+      "id": "DeepLearning/目标检测/yolov5介绍",
+      "title": "yolov5",
+      "description": "yolov5拥有强大的效果，但是在其实现强大效果的同时，其完备的封装及复杂的参数使得我们难以对其结构进行深入分析",
+      "permalink": "/docs/DeepLearning/目标检测/yolov5介绍"
+    }
+  ],
+  "allTagsPath": "/docs/tags"
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/test/create-a-document",
+  "id": "tutorial-basics/test/create-a-document",
+  "title": "Create a Document",
+  "description": "Documents are groups of pages connected through:",
+  "source": "@site/docs/tutorial-basics/test/create-a-document.md",
+  "sourceDirName": "tutorial-basics/test",
+  "slug": "/tutorial-basics/test/create-a-document",
+  "permalink": "/docs/tutorial-basics/test/create-a-document",
+  "editUrl": "https://github.com/PommesPeter/memo.pommespeter.space/docs/tutorial-basics/test/create-a-document.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Congratulations!",
+    "permalink": "/docs/tutorial-basics/congratulations"
+  },
+  "next": {
+    "title": "Manage Docs Versions",
+    "permalink": "/docs/tutorial-extras/manage-docs-versions"
+  }
+}

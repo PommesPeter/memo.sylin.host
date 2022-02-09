@@ -1,0 +1,40 @@
+{
+  "unversionedId": "Index/Algorithm",
+  "id": "Index/Algorithm",
+  "title": "安装汇总",
+  "description": "装不上咋办？烦恼的时候，不骂天、不骂娘，骂冯诺依曼",
+  "source": "@site/docs/Index/02.Algorithm.md",
+  "sourceDirName": "Index",
+  "slug": "/Index/Algorithm",
+  "permalink": "/docs/Index/Algorithm",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Index/02.Algorithm.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "pageComponent": {
+      "name": "Catalogue",
+      "data": {
+        "key": "Algorithm",
+        "imgUrl": "/imgs/Operations.png",
+        "description": "各种算法笔记，算法学习之旅"
+      }
+    },
+    "title": "安装汇总",
+    "date": "2020-03-11T21:50:54.000Z",
+    "permalink": "/algorithm",
+    "sidebar": false,
+    "article": false,
+    "comment": false,
+    "editLink": false
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "运维相关",
+    "permalink": "/docs/Index/DeepLearning"
+  },
+  "next": {
+    "title": "各种开发技术学习记录",
+    "permalink": "/docs/Index/Development"
+  }
+}

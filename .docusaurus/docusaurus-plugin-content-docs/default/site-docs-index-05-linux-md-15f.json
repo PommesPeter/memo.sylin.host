@@ -1,0 +1,40 @@
+{
+  "unversionedId": "Index/Linux",
+  "id": "Index/Linux",
+  "title": "Linux使用日记",
+  "description": "程序员之所以犯错误，不是因为他们不懂，而是因为他们自以为什么都懂。",
+  "source": "@site/docs/Index/05.Linux.md",
+  "sourceDirName": "Index",
+  "slug": "/Index/Linux",
+  "permalink": "/docs/Index/Linux",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Index/05.Linux.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "pageComponent": {
+      "name": "Catalogue",
+      "data": {
+        "key": "Linux",
+        "imgUrl": "/imgs/other.png",
+        "description": "Linux永远滴神，Linux使用日常日志"
+      }
+    },
+    "title": "Linux使用日记",
+    "date": "2020-03-11T21:50:55.000Z",
+    "permalink": "/linux",
+    "sidebar": false,
+    "article": false,
+    "comment": false,
+    "editLink": false
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "少年不知勤学早,白首方悔读书迟",
+    "permalink": "/docs/Index/Courses"
+  },
+  "next": {
+    "title": "java-类",
+    "permalink": "/docs/Courses/面向对象程序设计/类-继承-多态"
+  }
+}

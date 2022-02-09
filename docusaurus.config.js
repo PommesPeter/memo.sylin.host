@@ -3,18 +3,20 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const math = require('remark-math');
+const katex = require('rehype-katex');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: "PommesPeter's Memo",
   tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://memo.pommespeter.space',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'PommesPeter', // Usually your GitHub org/user name.
+  projectName: 'memo.pommespeter.space', // Usually your repo name.
 
   presets: [
     [
@@ -24,13 +26,15 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/PommesPeter/memo.pommespeter.space',
+          remarkPlugins: [math],
+          rehypePlugins: [katex]
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/PommesPeter/memo.pommespeter.space',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -38,29 +42,73 @@ const config = {
       }),
     ],
   ],
+  stylesheets: [
+    {
+      href: 'https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css',
+      type: 'text/css',
+      integrity:
+        'sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM',
+      crossorigin: 'anonymous',
+    },
+  ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+
       navbar: {
-        title: 'My Site',
+        title: "PommesPeter's Memo",
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
         },
         items: [
           {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
+            to: '/blog',
+            label: 'Blog',
+            position: 'left'
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
+            to: '/docs/intro',
+            position: 'left',
+            label: 'Docs',
           },
+          {
+            to: '/docs/DeepLearning/科研方法/如何读论文',
+            activeBasePath: '/docs/DeepLearning',
+            label: 'DeepLearning',
+            position: 'left'
+          },
+          {
+            to: '/docs/Courses/面向对象程序设计/类-继承-多态',
+            activeBasePath: '/docs/Courses',
+            label: 'Courses',
+            position: 'left'
+          },
+          {
+            to: '/docs/Algorithm',
+            activeBasePath: '/docs/Algorithm',
+            label: 'Algorithm',
+            position: 'left'
+          },
+          {
+            label: 'About',
+            position: 'right',
+            items: [
+              {
+                label: 'Archive',
+                to: '/blog/archive',
+              },
+              {
+                label: 'Links',
+                to: '/blog/links',
+              },
+              {
+                href: 'https://github.com/PommesPeter',
+                label: 'GitHub',
+              }
+            ]
+          }
         ],
       },
       footer: {
@@ -106,12 +154,19 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © 2022-${new Date().getFullYear()} Pommespeter. Built with <a href='https://github.com/facebook/Docusaurus'>Docusaurus</a>.`,
       },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      algolia: {
+        // The application ID provided by Algolia
+        appId: 'AJZBN8BFEV',
+        // Public API key: it is safe to commit it
+        apiKey: 'fb888f5f56d5285cd5121df9393ab3c7',
+        indexName: 'pommespeter',
+      }
     }),
 };
 

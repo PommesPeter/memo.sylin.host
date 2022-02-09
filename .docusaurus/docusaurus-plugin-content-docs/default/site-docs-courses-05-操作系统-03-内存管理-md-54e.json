@@ -1,0 +1,40 @@
+{
+  "unversionedId": "Courses/操作系统/内存管理",
+  "id": "Courses/操作系统/内存管理",
+  "title": "内存管理",
+  "description": "",
+  "source": "@site/docs\\Courses\\05.操作系统\\03.内存管理.md",
+  "sourceDirName": "Courses/05.操作系统",
+  "slug": "/Courses/操作系统/内存管理",
+  "permalink": "/docs/Courses/操作系统/内存管理",
+  "editUrl": "https://github.com/PommesPeter/memo.pommespeter.space/docs/Courses/05.操作系统/03.内存管理.md",
+  "tags": [
+    {
+      "label": "Operating System",
+      "permalink": "/docs/tags/operating-system"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "内存管理",
+    "permalink": "/courses/operatingsystem/memory",
+    "categories": [
+      "课程学习",
+      "操作系统"
+    ],
+    "tags": [
+      "Operating System"
+    ],
+    "date": "2021-11-01T17:21:06.000Z"
+  },
+  "sidebar": "Courses",
+  "previous": {
+    "title": "进程与线程",
+    "permalink": "/docs/Courses/操作系统/进程与线程"
+  },
+  "next": {
+    "title": "文件系统",
+    "permalink": "/docs/Courses/操作系统/文件系统"
+  }
+}

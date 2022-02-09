@@ -4,26 +4,32 @@ Your edits in this file will be overwritten in the next build!
 Modify the docusaurus.config.js file at your site's root instead.
 */
 export default {
-  "title": "My Site",
+  "title": "PommesPeter's Memo",
   "tagline": "Dinosaurs are cool",
-  "url": "https://your-docusaurus-test-site.com",
+  "url": "https://memo.pommespeter.space",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "PommesPeter",
+  "projectName": "memo.pommespeter.space",
   "presets": [
     [
       "classic",
       {
         "docs": {
           "sidebarPath": "E:\\workspace\\MemoLibrary\\memo.pommespeter.space\\sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/PommesPeter/memo.pommespeter.space",
+          "remarkPlugins": [
+            null
+          ],
+          "rehypePlugins": [
+            null
+          ]
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/PommesPeter/memo.pommespeter.space"
         },
         "theme": {
           "customCss": "E:\\workspace\\MemoLibrary\\memo.pommespeter.space\\src\\css\\custom.css"
@@ -31,29 +37,67 @@ export default {
       }
     ]
   ],
+  "stylesheets": [
+    {
+      "href": "https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css",
+      "type": "text/css",
+      "integrity": "sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM",
+      "crossorigin": "anonymous"
+    }
+  ],
   "themeConfig": {
     "navbar": {
-      "title": "My Site",
+      "title": "PommesPeter's Memo",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo.svg"
       },
       "items": [
         {
-          "type": "doc",
-          "docId": "intro",
-          "position": "left",
-          "label": "Tutorial"
-        },
-        {
           "to": "/blog",
           "label": "Blog",
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
-          "label": "GitHub",
-          "position": "right"
+          "to": "/docs/intro",
+          "position": "left",
+          "label": "Docs"
+        },
+        {
+          "to": "/docs/DeepLearning/科研方法/如何读论文",
+          "activeBasePath": "/docs/DeepLearning",
+          "label": "DeepLearning",
+          "position": "left"
+        },
+        {
+          "to": "/docs/Courses/面向对象程序设计/类-继承-多态",
+          "activeBasePath": "/docs/Courses",
+          "label": "Courses",
+          "position": "left"
+        },
+        {
+          "to": "/docs/Algorithm",
+          "activeBasePath": "/docs/Algorithm",
+          "label": "Algorithm",
+          "position": "left"
+        },
+        {
+          "label": "About",
+          "position": "right",
+          "items": [
+            {
+              "label": "Archive",
+              "to": "/blog/archive"
+            },
+            {
+              "label": "Links",
+              "to": "/blog/links"
+            },
+            {
+              "href": "https://github.com/PommesPeter",
+              "label": "GitHub"
+            }
+          ]
         }
       ],
       "hideOnScroll": false
@@ -101,7 +145,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2022 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2022-2022 Pommespeter. Built with <a href='https://github.com/facebook/Docusaurus'>Docusaurus</a>."
     },
     "prism": {
       "theme": {
@@ -296,6 +340,13 @@ export default {
         ]
       },
       "additionalLanguages": []
+    },
+    "algolia": {
+      "appId": "AJZBN8BFEV",
+      "apiKey": "fb888f5f56d5285cd5121df9393ab3c7",
+      "indexName": "pommespeter",
+      "contextualSearch": true,
+      "searchParameters": {}
     },
     "colorMode": {
       "defaultMode": "light",

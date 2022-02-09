@@ -1,0 +1,49 @@
+{
+  "unversionedId": "DeepLearning/神经网络杂项/反卷积与棋盘效应",
+  "id": "DeepLearning/神经网络杂项/反卷积与棋盘效应",
+  "title": "反卷积与棋盘效应",
+  "description": "Augustus Odena，Vincent Dumoulin，Chris Olah",
+  "source": "@site/docs\\DeepLearning\\04.神经网络杂项\\01.反卷积与棋盘效应.md",
+  "sourceDirName": "DeepLearning/04.神经网络杂项",
+  "slug": "/DeepLearning/神经网络杂项/反卷积与棋盘效应",
+  "permalink": "/docs/DeepLearning/神经网络杂项/反卷积与棋盘效应",
+  "editUrl": "https://github.com/PommesPeter/memo.pommespeter.space/docs/DeepLearning/04.神经网络杂项/01.反卷积与棋盘效应.md",
+  "tags": [
+    {
+      "label": "Deconvolution",
+      "permalink": "/docs/tags/deconvolution"
+    },
+    {
+      "label": "Paper",
+      "permalink": "/docs/tags/paper"
+    },
+    {
+      "label": "DeepLearning",
+      "permalink": "/docs/tags/deep-learning"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "反卷积与棋盘效应",
+    "permalink": "/deeplearning/other/deconvandcheckerboard",
+    "categories": [
+      "DeepLearning"
+    ],
+    "tags": [
+      "Deconvolution",
+      "Paper",
+      "DeepLearning"
+    ],
+    "date": "2021-10-03T20:53:16.000Z"
+  },
+  "sidebar": "DeepLearning",
+  "previous": {
+    "title": "How to build a model with config file by yourself",
+    "permalink": "/docs/DeepLearning/深度学习框架/mmdetection/How to builld a model with configs by yourself"
+  },
+  "next": {
+    "title": "yaml改进",
+    "permalink": "/docs/DeepLearning/目标检测/yaml改进"
+  }
+}

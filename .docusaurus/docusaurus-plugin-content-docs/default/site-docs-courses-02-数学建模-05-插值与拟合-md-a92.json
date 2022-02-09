@@ -1,0 +1,40 @@
+{
+  "unversionedId": "Courses/数学建模/插值与拟合",
+  "id": "Courses/数学建模/插值与拟合",
+  "title": "插值与拟合",
+  "description": "插值",
+  "source": "@site/docs\\Courses\\02.数学建模\\05.插值与拟合.md",
+  "sourceDirName": "Courses/02.数学建模",
+  "slug": "/Courses/数学建模/插值与拟合",
+  "permalink": "/docs/Courses/数学建模/插值与拟合",
+  "editUrl": "https://github.com/PommesPeter/memo.pommespeter.space/docs/Courses/02.数学建模/05.插值与拟合.md",
+  "tags": [
+    {
+      "label": "Math",
+      "permalink": "/docs/tags/math"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "插值与拟合",
+    "date": "2021-05-06T21:13:02.000Z",
+    "permalink": "/courses/mathmodeling/interpre",
+    "categories": [
+      "课程学习",
+      "数学建模"
+    ],
+    "tags": [
+      "Math"
+    ]
+  },
+  "sidebar": "Courses",
+  "previous": {
+    "title": "微分与差分方程",
+    "permalink": "/docs/Courses/数学建模/微分与差分"
+  },
+  "next": {
+    "title": "数据库基本概念",
+    "permalink": "/docs/Courses/数据库原理/基本概念"
+  }
+}

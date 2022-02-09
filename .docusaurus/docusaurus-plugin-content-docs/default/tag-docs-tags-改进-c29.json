@@ -1,0 +1,13 @@
+{
+  "name": "改进",
+  "permalink": "/docs/tags/改进",
+  "docs": [
+    {
+      "id": "DeepLearning/目标检测/yaml改进",
+      "title": "yaml改进",
+      "description": "添加了GhostBottleneck的网络结构",
+      "permalink": "/docs/DeepLearning/目标检测/yaml改进"
+    }
+  ],
+  "allTagsPath": "/docs/tags"
+}

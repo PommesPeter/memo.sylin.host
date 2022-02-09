@@ -1,0 +1,19 @@
+{
+  "name": "Paper",
+  "permalink": "/docs/tags/paper",
+  "docs": [
+    {
+      "id": "DeepLearning/神经网络杂项/反卷积与棋盘效应",
+      "title": "反卷积与棋盘效应",
+      "description": "Augustus Odena，Vincent Dumoulin，Chris Olah",
+      "permalink": "/docs/DeepLearning/神经网络杂项/反卷积与棋盘效应"
+    },
+    {
+      "id": "DeepLearning/科研方法/如何读论文",
+      "title": "如何读一篇论文",
+      "description": "当你阅读一篇研究论文时，你的目标是了解作者的科学贡献。这不是一项容易的任务。这可能需要把这篇论文看好几遍。准备花几个小时读一篇论文。",
+      "permalink": "/docs/DeepLearning/科研方法/如何读论文"
+    }
+  ],
+  "allTagsPath": "/docs/tags"
+}

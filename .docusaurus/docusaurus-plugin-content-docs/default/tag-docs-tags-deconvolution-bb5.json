@@ -1,0 +1,13 @@
+{
+  "name": "Deconvolution",
+  "permalink": "/docs/tags/deconvolution",
+  "docs": [
+    {
+      "id": "DeepLearning/神经网络杂项/反卷积与棋盘效应",
+      "title": "反卷积与棋盘效应",
+      "description": "Augustus Odena，Vincent Dumoulin，Chris Olah",
+      "permalink": "/docs/DeepLearning/神经网络杂项/反卷积与棋盘效应"
+    }
+  ],
+  "allTagsPath": "/docs/tags"
+}

@@ -7,12 +7,13 @@
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/congratulations",
   "permalink": "/docs/tutorial-basics/congratulations",
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/congratulations.md",
+  "editUrl": "https://github.com/PommesPeter/memo.pommespeter.space/docs/tutorial-basics/congratulations.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 6,
   "frontMatter": {
-    "sidebar_position": 6
+    "sidebar_position": 6,
+    "authors": "pommespeter"
   },
   "sidebar": "tutorialSidebar",
   "previous": {

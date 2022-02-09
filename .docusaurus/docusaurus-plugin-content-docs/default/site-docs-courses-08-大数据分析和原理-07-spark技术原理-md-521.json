@@ -1,0 +1,40 @@
+{
+  "unversionedId": "Courses/大数据分析和原理/Spark技术原理",
+  "id": "Courses/大数据分析和原理/Spark技术原理",
+  "title": "NoSQL相关概念",
+  "description": "基本概念",
+  "source": "@site/docs\\Courses\\08.大数据分析和原理\\07.Spark技术原理.md",
+  "sourceDirName": "Courses/08.大数据分析和原理",
+  "slug": "/Courses/大数据分析和原理/Spark技术原理",
+  "permalink": "/docs/Courses/大数据分析和原理/Spark技术原理",
+  "editUrl": "https://github.com/PommesPeter/memo.pommespeter.space/docs/Courses/08.大数据分析和原理/07.Spark技术原理.md",
+  "tags": [
+    {
+      "label": "BigData",
+      "permalink": "/docs/tags/big-data"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "NoSQL相关概念",
+    "permalink": "/courses/bigdata/spark",
+    "categories": [
+      "课程学习",
+      "大数据"
+    ],
+    "tags": [
+      "BigData"
+    ],
+    "date": "2021-11-08T21:00:28.000Z"
+  },
+  "sidebar": "Courses",
+  "previous": {
+    "title": "NoSQL相关概念",
+    "permalink": "/docs/Courses/大数据分析和原理/MapReduce技术原理"
+  },
+  "next": {
+    "title": "NoSQL相关概念",
+    "permalink": "/docs/Courses/大数据分析和原理/Storm技术原理"
+  }
+}

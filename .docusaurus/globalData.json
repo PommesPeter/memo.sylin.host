@@ -11,6 +11,231 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "Algorithm/蓝桥杯历年真题/第十二届蓝桥杯省赛第二场_2021_5_9/第十二届蓝桥杯省赛第二场(2021.5.9)",
+              "path": "/docs/Algorithm/蓝桥杯历年真题/第十二届蓝桥杯省赛第二场_2021_5_9/第十二届蓝桥杯省赛第二场(2021.5.9)",
+              "sidebar": "Algorithm"
+            },
+            {
+              "id": "Courses/大数据分析和原理/Hadoop技术原理",
+              "path": "/docs/Courses/大数据分析和原理/Hadoop技术原理",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "Courses/大数据分析和原理/HBase技术原理",
+              "path": "/docs/Courses/大数据分析和原理/HBase技术原理",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "Courses/大数据分析和原理/HDFS技术原理",
+              "path": "/docs/Courses/大数据分析和原理/HDFS技术原理",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "Courses/大数据分析和原理/MapReduce技术原理",
+              "path": "/docs/Courses/大数据分析和原理/MapReduce技术原理",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "Courses/大数据分析和原理/NoSQL概念",
+              "path": "/docs/Courses/大数据分析和原理/NoSQL概念",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "Courses/大数据分析和原理/Spark技术原理",
+              "path": "/docs/Courses/大数据分析和原理/Spark技术原理",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "Courses/大数据分析和原理/Storm技术原理",
+              "path": "/docs/Courses/大数据分析和原理/Storm技术原理",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "Courses/大数据分析和原理/大数据概述",
+              "path": "/docs/Courses/大数据分析和原理/大数据概述",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "Courses/操作系统/IO设备管理",
+              "path": "/docs/Courses/操作系统/IO设备管理",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "Courses/操作系统/内存管理",
+              "path": "/docs/Courses/操作系统/内存管理",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "Courses/操作系统/并行程序设计",
+              "path": "/docs/Courses/操作系统/并行程序设计",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "Courses/操作系统/操作系统基础概念",
+              "path": "/docs/Courses/操作系统/操作系统基础概念",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "Courses/操作系统/文件系统",
+              "path": "/docs/Courses/操作系统/文件系统",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "Courses/操作系统/进程与线程",
+              "path": "/docs/Courses/操作系统/进程与线程",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "Courses/数学建模/图优化",
+              "path": "/docs/Courses/数学建模/图优化",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "Courses/数学建模/微分与差分",
+              "path": "/docs/Courses/数学建模/微分与差分",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "Courses/数学建模/插值与拟合",
+              "path": "/docs/Courses/数学建模/插值与拟合",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "Courses/数学建模/线性规划",
+              "path": "/docs/Courses/数学建模/线性规划",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "Courses/数学建模/非线性规划",
+              "path": "/docs/Courses/数学建模/非线性规划",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "Courses/数据库原理/关系代数与SQL",
+              "path": "/docs/Courses/数据库原理/关系代数与SQL",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "Courses/数据库原理/基本概念",
+              "path": "/docs/Courses/数据库原理/基本概念",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "Courses/数据库原理/数据库安全",
+              "path": "/docs/Courses/数据库原理/数据库安全",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "Courses/数据库原理/数据库并发",
+              "path": "/docs/Courses/数据库原理/数据库并发",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "Courses/数据库原理/数据库恢复",
+              "path": "/docs/Courses/数据库原理/数据库恢复",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "Courses/数据库原理/数据库规范性理论",
+              "path": "/docs/Courses/数据库原理/数据库规范性理论",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "Courses/数据库原理/数据库设计",
+              "path": "/docs/Courses/数据库原理/数据库设计",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "Courses/算法设计与分析/分治算法",
+              "path": "/docs/Courses/算法设计与分析/分治算法",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "Courses/算法设计与分析/动态规划",
+              "path": "/docs/Courses/算法设计与分析/动态规划",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "Courses/算法设计与分析/回溯算法",
+              "path": "/docs/Courses/算法设计与分析/回溯算法",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "Courses/算法设计与分析/基本概念",
+              "path": "/docs/Courses/算法设计与分析/基本概念",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "Courses/算法设计与分析/贪心算法",
+              "path": "/docs/Courses/算法设计与分析/贪心算法",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "Courses/面向对象程序设计/Java-Gui编程",
+              "path": "/docs/Courses/面向对象程序设计/Java-Gui编程",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "Courses/面向对象程序设计/基础概念",
+              "path": "/docs/Courses/面向对象程序设计/基础概念",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "Courses/面向对象程序设计/多线程与网络",
+              "path": "/docs/Courses/面向对象程序设计/多线程与网络",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "Courses/面向对象程序设计/实用类大全",
+              "path": "/docs/Courses/面向对象程序设计/实用类大全",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "Courses/面向对象程序设计/类-继承-多态",
+              "path": "/docs/Courses/面向对象程序设计/类-继承-多态",
+              "sidebar": "Courses"
+            },
+            {
+              "id": "DeepLearning/深度学习导论/神经网络算法解析",
+              "path": "/docs/DeepLearning/深度学习导论/神经网络算法解析",
+              "sidebar": "DeepLearning"
+            },
+            {
+              "id": "DeepLearning/深度学习框架/mmdetection/How to builld a model with configs by yourself",
+              "path": "/docs/DeepLearning/深度学习框架/mmdetection/How to builld a model with configs by yourself",
+              "sidebar": "DeepLearning"
+            },
+            {
+              "id": "DeepLearning/深度学习框架/mmdetection/Installation Tutorial",
+              "path": "/docs/DeepLearning/深度学习框架/mmdetection/Installation Tutorial",
+              "sidebar": "DeepLearning"
+            },
+            {
+              "id": "DeepLearning/深度学习框架/mmdetection/Instruction",
+              "path": "/docs/DeepLearning/深度学习框架/mmdetection/Instruction",
+              "sidebar": "DeepLearning"
+            },
+            {
+              "id": "DeepLearning/目标检测/yaml改进",
+              "path": "/docs/DeepLearning/目标检测/yaml改进",
+              "sidebar": "DeepLearning"
+            },
+            {
+              "id": "DeepLearning/目标检测/yolov5介绍",
+              "path": "/docs/DeepLearning/目标检测/yolov5介绍",
+              "sidebar": "DeepLearning"
+            },
+            {
+              "id": "DeepLearning/神经网络杂项/反卷积与棋盘效应",
+              "path": "/docs/DeepLearning/神经网络杂项/反卷积与棋盘效应",
+              "sidebar": "DeepLearning"
+            },
+            {
+              "id": "DeepLearning/科研方法/如何读论文",
+              "path": "/docs/DeepLearning/科研方法/如何读论文",
+              "sidebar": "DeepLearning"
+            },
+            {
               "id": "intro",
               "path": "/docs/intro",
               "sidebar": "tutorialSidebar"
@@ -61,6 +286,24 @@
               "link": {
                 "path": "/docs/intro",
                 "label": "intro"
+              }
+            },
+            "Courses": {
+              "link": {
+                "path": "/docs/Courses/面向对象程序设计/类-继承-多态",
+                "label": "Courses/面向对象程序设计/类-继承-多态"
+              }
+            },
+            "DeepLearning": {
+              "link": {
+                "path": "/docs/DeepLearning/科研方法/如何读论文",
+                "label": "DeepLearning/科研方法/如何读论文"
+              }
+            },
+            "Algorithm": {
+              "link": {
+                "path": "/docs/Algorithm/蓝桥杯历年真题/第十二届蓝桥杯省赛第二场_2021_5_9/第十二届蓝桥杯省赛第二场(2021.5.9)",
+                "label": "Algorithm/蓝桥杯历年真题/第十二届蓝桥杯省赛第二场_2021_5_9/第十二届蓝桥杯省赛第二场(2021.5.9)"
               }
             }
           }

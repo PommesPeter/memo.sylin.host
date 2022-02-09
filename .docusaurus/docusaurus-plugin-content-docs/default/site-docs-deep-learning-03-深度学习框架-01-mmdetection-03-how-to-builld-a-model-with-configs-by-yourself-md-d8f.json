@@ -1,0 +1,44 @@
+{
+  "unversionedId": "DeepLearning/深度学习框架/mmdetection/How to builld a model with configs by yourself",
+  "id": "DeepLearning/深度学习框架/mmdetection/How to builld a model with configs by yourself",
+  "title": "How to build a model with config file by yourself",
+  "description": "Learn about Configs",
+  "source": "@site/docs\\DeepLearning\\03.深度学习框架\\01.mmdetection\\03.How to builld a model with configs by yourself.md",
+  "sourceDirName": "DeepLearning/03.深度学习框架/01.mmdetection",
+  "slug": "/DeepLearning/深度学习框架/mmdetection/How to builld a model with configs by yourself",
+  "permalink": "/docs/DeepLearning/深度学习框架/mmdetection/How to builld a model with configs by yourself",
+  "editUrl": "https://github.com/PommesPeter/memo.pommespeter.space/docs/DeepLearning/03.深度学习框架/01.mmdetection/03.How to builld a model with configs by yourself.md",
+  "tags": [
+    {
+      "label": "Framework",
+      "permalink": "/docs/tags/framework"
+    },
+    {
+      "label": "DeepLearning",
+      "permalink": "/docs/tags/deep-learning"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "How to build a model with config file by yourself",
+    "permalink": "/deeplearning/framework/buildmmodel",
+    "categories": [
+      "DeepLearning"
+    ],
+    "tags": [
+      "Framework",
+      "DeepLearning"
+    ],
+    "date": "2021-10-03T20:53:16.000Z"
+  },
+  "sidebar": "DeepLearning",
+  "previous": {
+    "title": "MMDetection Installation",
+    "permalink": "/docs/DeepLearning/深度学习框架/mmdetection/Installation Tutorial"
+  },
+  "next": {
+    "title": "反卷积与棋盘效应",
+    "permalink": "/docs/DeepLearning/神经网络杂项/反卷积与棋盘效应"
+  }
+}

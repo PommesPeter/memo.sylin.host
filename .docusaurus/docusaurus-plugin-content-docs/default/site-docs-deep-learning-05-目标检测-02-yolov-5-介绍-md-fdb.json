@@ -1,0 +1,36 @@
+{
+  "unversionedId": "DeepLearning/目标检测/yolov5介绍",
+  "id": "DeepLearning/目标检测/yolov5介绍",
+  "title": "yolov5",
+  "description": "yolov5拥有强大的效果，但是在其实现强大效果的同时，其完备的封装及复杂的参数使得我们难以对其结构进行深入分析",
+  "source": "@site/docs\\DeepLearning\\05.目标检测\\02.yolov5介绍.md",
+  "sourceDirName": "DeepLearning/05.目标检测",
+  "slug": "/DeepLearning/目标检测/yolov5介绍",
+  "permalink": "/docs/DeepLearning/目标检测/yolov5介绍",
+  "editUrl": "https://github.com/PommesPeter/memo.pommespeter.space/docs/DeepLearning/05.目标检测/02.yolov5介绍.md",
+  "tags": [
+    {
+      "label": "Yolov5",
+      "permalink": "/docs/tags/yolov-5"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "yolov5",
+    "date": "2021-05-10T09:45:29.000Z",
+    "permalink": "/deeplearning/objectdetection/yolov5",
+    "categories": [
+      "DeepLearning",
+      "YOLOv5"
+    ],
+    "tags": [
+      "Yolov5"
+    ]
+  },
+  "sidebar": "DeepLearning",
+  "previous": {
+    "title": "yaml改进",
+    "permalink": "/docs/DeepLearning/目标检测/yaml改进"
+  }
+}

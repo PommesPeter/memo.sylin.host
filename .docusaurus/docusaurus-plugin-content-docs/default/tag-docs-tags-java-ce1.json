@@ -1,0 +1,37 @@
+{
+  "name": "JAVA",
+  "permalink": "/docs/tags/java",
+  "docs": [
+    {
+      "id": "Courses/面向对象程序设计/Java-Gui编程",
+      "title": "Java GUI编程",
+      "description": "常用类",
+      "permalink": "/docs/Courses/面向对象程序设计/Java-Gui编程"
+    },
+    {
+      "id": "Courses/面向对象程序设计/基础概念",
+      "title": "Java 基本概念",
+      "description": "基本输入",
+      "permalink": "/docs/Courses/面向对象程序设计/基础概念"
+    },
+    {
+      "id": "Courses/面向对象程序设计/多线程与网络",
+      "title": "Java 多线程与网络",
+      "description": "多线程",
+      "permalink": "/docs/Courses/面向对象程序设计/多线程与网络"
+    },
+    {
+      "id": "Courses/面向对象程序设计/实用类大全",
+      "title": "Java 实用类大全",
+      "description": "内部类",
+      "permalink": "/docs/Courses/面向对象程序设计/实用类大全"
+    },
+    {
+      "id": "Courses/面向对象程序设计/类-继承-多态",
+      "title": "Java 类",
+      "description": "类",
+      "permalink": "/docs/Courses/面向对象程序设计/类-继承-多态"
+    }
+  ],
+  "allTagsPath": "/docs/tags"
+}

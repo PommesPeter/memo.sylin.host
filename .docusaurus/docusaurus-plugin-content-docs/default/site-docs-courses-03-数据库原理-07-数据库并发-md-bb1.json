@@ -1,0 +1,44 @@
+{
+  "unversionedId": "Courses/数据库原理/数据库并发",
+  "id": "Courses/数据库原理/数据库并发",
+  "title": "数据库并发",
+  "description": "并发概念",
+  "source": "@site/docs\\Courses\\03.数据库原理\\07.数据库并发.md",
+  "sourceDirName": "Courses/03.数据库原理",
+  "slug": "/Courses/数据库原理/数据库并发",
+  "permalink": "/docs/Courses/数据库原理/数据库并发",
+  "editUrl": "https://github.com/PommesPeter/memo.pommespeter.space/docs/Courses/03.数据库原理/07.数据库并发.md",
+  "tags": [
+    {
+      "label": "SQL",
+      "permalink": "/docs/tags/sql"
+    },
+    {
+      "label": "DataBase",
+      "permalink": "/docs/tags/data-base"
+    },
+    {
+      "label": "Backend",
+      "permalink": "/docs/tags/backend"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "数据库并发",
+    "tags": [
+      "SQL",
+      "DataBase",
+      "Backend"
+    ]
+  },
+  "sidebar": "Courses",
+  "previous": {
+    "title": "数据库安全性",
+    "permalink": "/docs/Courses/数据库原理/数据库安全"
+  },
+  "next": {
+    "title": "算法基本概念",
+    "permalink": "/docs/Courses/算法设计与分析/基本概念"
+  }
+}

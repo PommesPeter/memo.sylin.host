@@ -1,0 +1,44 @@
+{
+  "unversionedId": "Courses/数据库原理/数据库安全",
+  "id": "Courses/数据库原理/数据库安全",
+  "title": "数据库安全性",
+  "description": "不安全因素:",
+  "source": "@site/docs\\Courses\\03.数据库原理\\06.数据库安全.md",
+  "sourceDirName": "Courses/03.数据库原理",
+  "slug": "/Courses/数据库原理/数据库安全",
+  "permalink": "/docs/Courses/数据库原理/数据库安全",
+  "editUrl": "https://github.com/PommesPeter/memo.pommespeter.space/docs/Courses/03.数据库原理/06.数据库安全.md",
+  "tags": [
+    {
+      "label": "SQL",
+      "permalink": "/docs/tags/sql"
+    },
+    {
+      "label": "DataBase",
+      "permalink": "/docs/tags/data-base"
+    },
+    {
+      "label": "Backend",
+      "permalink": "/docs/tags/backend"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "数据库安全性",
+    "tags": [
+      "SQL",
+      "DataBase",
+      "Backend"
+    ]
+  },
+  "sidebar": "Courses",
+  "previous": {
+    "title": "数据库恢复",
+    "permalink": "/docs/Courses/数据库原理/数据库恢复"
+  },
+  "next": {
+    "title": "数据库并发",
+    "permalink": "/docs/Courses/数据库原理/数据库并发"
+  }
+}
