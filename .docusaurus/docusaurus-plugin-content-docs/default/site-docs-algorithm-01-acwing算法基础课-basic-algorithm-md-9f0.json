@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Algorithm/Acwing算法基础课/BasicAlgorithm",
+  "id": "Algorithm/Acwing算法基础课/BasicAlgorithm",
+  "title": "Chapter1 Basic Algorithm",
+  "description": "刷题小技巧: 如果输入数据量大于 1000000 的话建议使用 scanf 和 printf 进行输入输出",
+  "source": "@site/docs\\Algorithm\\01.Acwing算法基础课\\BasicAlgorithm.md",
+  "sourceDirName": "Algorithm/01.Acwing算法基础课",
+  "slug": "/Algorithm/Acwing算法基础课/BasicAlgorithm",
+  "permalink": "/docs/Algorithm/Acwing算法基础课/BasicAlgorithm",
+  "editUrl": "https://github.com/PommesPeter/memo.pommespeter.space/docs/Algorithm/01.Acwing算法基础课/BasicAlgorithm.md",
+  "tags": [
+    {
+      "label": "BasicAlgorithm",
+      "permalink": "/docs/tags/basic-algorithm"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "tags": [
+      "BasicAlgorithm"
+    ]
+  },
+  "sidebar": "Algorithm",
+  "next": {
+    "title": "Chapter2 Data Structure",
+    "permalink": "/docs/Algorithm/Acwing算法基础课/DataStructure"
+  }
+}

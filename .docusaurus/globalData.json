@@ -11,23 +11,28 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "Algorithm/Acwing算法基础课/ch1/BasicAlgorithm",
-              "path": "/docs/Algorithm/Acwing算法基础课/ch1/BasicAlgorithm",
+              "id": "Algorithm/Acwing算法基础课/BasicAlgorithm",
+              "path": "/docs/Algorithm/Acwing算法基础课/BasicAlgorithm",
               "sidebar": "Algorithm"
             },
             {
-              "id": "Algorithm/Acwing算法基础课/ch2/DataStructure",
-              "path": "/docs/Algorithm/Acwing算法基础课/ch2/DataStructure",
+              "id": "Algorithm/Acwing算法基础课/DataStructure",
+              "path": "/docs/Algorithm/Acwing算法基础课/DataStructure",
               "sidebar": "Algorithm"
             },
             {
-              "id": "Algorithm/Acwing算法基础课/ch3/readme",
-              "path": "/docs/Algorithm/Acwing算法基础课/ch3/",
+              "id": "Algorithm/Acwing算法基础课/ddd",
+              "path": "/docs/Algorithm/Acwing算法基础课/ddd",
               "sidebar": "Algorithm"
             },
             {
-              "id": "Algorithm/Acwing算法基础课/ch5/闫式dp分析",
-              "path": "/docs/Algorithm/Acwing算法基础课/ch5/闫式dp分析",
+              "id": "Algorithm/Acwing算法基础课/Search&Graph",
+              "path": "/docs/Algorithm/Acwing算法基础课/Search&Graph",
+              "sidebar": "Algorithm"
+            },
+            {
+              "id": "Algorithm/Acwing算法基础课/闫式dp分析",
+              "path": "/docs/Algorithm/Acwing算法基础课/闫式dp分析",
               "sidebar": "Algorithm"
             },
             {
@@ -327,8 +332,8 @@
             },
             "Algorithm": {
               "link": {
-                "path": "/docs/Algorithm/Acwing算法基础课/ch1/BasicAlgorithm",
-                "label": "Algorithm/Acwing算法基础课/ch1/BasicAlgorithm"
+                "path": "/docs/Algorithm/Acwing算法基础课/BasicAlgorithm",
+                "label": "Algorithm/Acwing算法基础课/BasicAlgorithm"
               }
             }
           }

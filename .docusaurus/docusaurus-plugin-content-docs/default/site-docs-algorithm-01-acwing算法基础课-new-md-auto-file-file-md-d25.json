@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Algorithm/Acwing算法基础课/New MD_AUTO_FILE File",
+  "id": "Algorithm/Acwing算法基础课/New MD_AUTO_FILE File",
+  "title": "New MD_AUTO_FILE File",
+  "description": "",
+  "source": "@site/docs\\Algorithm\\01.Acwing算法基础课\\New MD_AUTO_FILE File.md",
+  "sourceDirName": "Algorithm/01.Acwing算法基础课",
+  "slug": "/Algorithm/Acwing算法基础课/New MD_AUTO_FILE File",
+  "permalink": "/docs/Algorithm/Acwing算法基础课/New MD_AUTO_FILE File",
+  "editUrl": "https://github.com/PommesPeter/memo.pommespeter.space/docs/Algorithm/01.Acwing算法基础课/New MD_AUTO_FILE File.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "Algorithm",
+  "previous": {
+    "title": "Chapter2 Data Structure",
+    "permalink": "/docs/Algorithm/Acwing算法基础课/DataStructure"
+  },
+  "next": {
+    "title": "Chapter3 Search and Graph",
+    "permalink": "/docs/Algorithm/Acwing算法基础课/Search&Graph"
+  }
+}

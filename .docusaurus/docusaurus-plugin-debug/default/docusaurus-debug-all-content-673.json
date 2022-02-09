@@ -19,87 +19,119 @@
           "contentPathLocalized": "E:\\workspace\\MemoLibrary\\memo.pommespeter.space\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
-              "unversionedId": "Algorithm/Acwing算法基础课/ch1/BasicAlgorithm",
-              "id": "Algorithm/Acwing算法基础课/ch1/BasicAlgorithm",
+              "unversionedId": "Algorithm/Acwing算法基础课/BasicAlgorithm",
+              "id": "Algorithm/Acwing算法基础课/BasicAlgorithm",
               "title": "Chapter1 Basic Algorithm",
-              "description": "[TOC]",
-              "source": "@site/docs\\Algorithm\\01.Acwing算法基础课\\ch1\\BasicAlgorithm.md",
-              "sourceDirName": "Algorithm/01.Acwing算法基础课/ch1",
-              "slug": "/Algorithm/Acwing算法基础课/ch1/BasicAlgorithm",
-              "permalink": "/docs/Algorithm/Acwing算法基础课/ch1/BasicAlgorithm",
-              "editUrl": "https://github.com/PommesPeter/memo.pommespeter.space/docs/Algorithm/01.Acwing算法基础课/ch1/BasicAlgorithm.md",
-              "tags": [],
+              "description": "刷题小技巧: 如果输入数据量大于 1000000 的话建议使用 scanf 和 printf 进行输入输出",
+              "source": "@site/docs\\Algorithm\\01.Acwing算法基础课\\BasicAlgorithm.md",
+              "sourceDirName": "Algorithm/01.Acwing算法基础课",
+              "slug": "/Algorithm/Acwing算法基础课/BasicAlgorithm",
+              "permalink": "/docs/Algorithm/Acwing算法基础课/BasicAlgorithm",
+              "editUrl": "https://github.com/PommesPeter/memo.pommespeter.space/docs/Algorithm/01.Acwing算法基础课/BasicAlgorithm.md",
+              "tags": [
+                {
+                  "label": "BasicAlgorithm",
+                  "permalink": "/docs/tags/basic-algorithm"
+                }
+              ],
               "version": "current",
-              "frontMatter": {},
+              "frontMatter": {
+                "tags": [
+                  "BasicAlgorithm"
+                ]
+              },
               "sidebar": "Algorithm",
               "next": {
                 "title": "Chapter2 Data Structure",
-                "permalink": "/docs/Algorithm/Acwing算法基础课/ch2/DataStructure"
+                "permalink": "/docs/Algorithm/Acwing算法基础课/DataStructure"
               }
             },
             {
-              "unversionedId": "Algorithm/Acwing算法基础课/ch2/DataStructure",
-              "id": "Algorithm/Acwing算法基础课/ch2/DataStructure",
+              "unversionedId": "Algorithm/Acwing算法基础课/DataStructure",
+              "id": "Algorithm/Acwing算法基础课/DataStructure",
               "title": "Chapter2 Data Structure",
               "description": "[TOC]",
-              "source": "@site/docs\\Algorithm\\01.Acwing算法基础课\\ch2\\DataStructure.md",
-              "sourceDirName": "Algorithm/01.Acwing算法基础课/ch2",
-              "slug": "/Algorithm/Acwing算法基础课/ch2/DataStructure",
-              "permalink": "/docs/Algorithm/Acwing算法基础课/ch2/DataStructure",
-              "editUrl": "https://github.com/PommesPeter/memo.pommespeter.space/docs/Algorithm/01.Acwing算法基础课/ch2/DataStructure.md",
+              "source": "@site/docs\\Algorithm\\01.Acwing算法基础课\\DataStructure.md",
+              "sourceDirName": "Algorithm/01.Acwing算法基础课",
+              "slug": "/Algorithm/Acwing算法基础课/DataStructure",
+              "permalink": "/docs/Algorithm/Acwing算法基础课/DataStructure",
+              "editUrl": "https://github.com/PommesPeter/memo.pommespeter.space/docs/Algorithm/01.Acwing算法基础课/DataStructure.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "Algorithm",
               "previous": {
                 "title": "Chapter1 Basic Algorithm",
-                "permalink": "/docs/Algorithm/Acwing算法基础课/ch1/BasicAlgorithm"
+                "permalink": "/docs/Algorithm/Acwing算法基础课/BasicAlgorithm"
               },
               "next": {
-                "title": "Chapter3 Search and Graph",
-                "permalink": "/docs/Algorithm/Acwing算法基础课/ch3/"
+                "title": "Chapter4",
+                "permalink": "/docs/Algorithm/Acwing算法基础课/ddd"
               }
             },
             {
-              "unversionedId": "Algorithm/Acwing算法基础课/ch3/readme",
-              "id": "Algorithm/Acwing算法基础课/ch3/readme",
-              "title": "Chapter3 Search and Graph",
-              "description": "DFS",
-              "source": "@site/docs\\Algorithm\\01.Acwing算法基础课\\ch3\\readme.md",
-              "sourceDirName": "Algorithm/01.Acwing算法基础课/ch3",
-              "slug": "/Algorithm/Acwing算法基础课/ch3/",
-              "permalink": "/docs/Algorithm/Acwing算法基础课/ch3/",
-              "editUrl": "https://github.com/PommesPeter/memo.pommespeter.space/docs/Algorithm/01.Acwing算法基础课/ch3/readme.md",
+              "unversionedId": "Algorithm/Acwing算法基础课/ddd",
+              "id": "Algorithm/Acwing算法基础课/ddd",
+              "title": "Chapter4",
+              "description": "",
+              "source": "@site/docs\\Algorithm\\01.Acwing算法基础课\\ddd.md",
+              "sourceDirName": "Algorithm/01.Acwing算法基础课",
+              "slug": "/Algorithm/Acwing算法基础课/ddd",
+              "permalink": "/docs/Algorithm/Acwing算法基础课/ddd",
+              "editUrl": "https://github.com/PommesPeter/memo.pommespeter.space/docs/Algorithm/01.Acwing算法基础课/ddd.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "Algorithm",
               "previous": {
                 "title": "Chapter2 Data Structure",
-                "permalink": "/docs/Algorithm/Acwing算法基础课/ch2/DataStructure"
+                "permalink": "/docs/Algorithm/Acwing算法基础课/DataStructure"
               },
               "next": {
-                "title": "闫式DP分析法",
-                "permalink": "/docs/Algorithm/Acwing算法基础课/ch5/闫式dp分析"
+                "title": "Chapter3 Search and Graph",
+                "permalink": "/docs/Algorithm/Acwing算法基础课/Search&Graph"
               }
             },
             {
-              "unversionedId": "Algorithm/Acwing算法基础课/ch5/闫式dp分析",
-              "id": "Algorithm/Acwing算法基础课/ch5/闫式dp分析",
-              "title": "闫式DP分析法",
+              "unversionedId": "Algorithm/Acwing算法基础课/Search&Graph",
+              "id": "Algorithm/Acwing算法基础课/Search&Graph",
+              "title": "Chapter3 Search and Graph",
+              "description": "DFS",
+              "source": "@site/docs\\Algorithm\\01.Acwing算法基础课\\Search&Graph.md",
+              "sourceDirName": "Algorithm/01.Acwing算法基础课",
+              "slug": "/Algorithm/Acwing算法基础课/Search&Graph",
+              "permalink": "/docs/Algorithm/Acwing算法基础课/Search&Graph",
+              "editUrl": "https://github.com/PommesPeter/memo.pommespeter.space/docs/Algorithm/01.Acwing算法基础课/Search&Graph.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "Algorithm",
+              "previous": {
+                "title": "Chapter4",
+                "permalink": "/docs/Algorithm/Acwing算法基础课/ddd"
+              },
+              "next": {
+                "title": "Chapter5 闫式DP分析法",
+                "permalink": "/docs/Algorithm/Acwing算法基础课/闫式dp分析"
+              }
+            },
+            {
+              "unversionedId": "Algorithm/Acwing算法基础课/闫式dp分析",
+              "id": "Algorithm/Acwing算法基础课/闫式dp分析",
+              "title": "Chapter5 闫式DP分析法",
               "description": "理论讲解",
-              "source": "@site/docs\\Algorithm\\01.Acwing算法基础课\\ch5\\闫式dp分析.md",
-              "sourceDirName": "Algorithm/01.Acwing算法基础课/ch5",
-              "slug": "/Algorithm/Acwing算法基础课/ch5/闫式dp分析",
-              "permalink": "/docs/Algorithm/Acwing算法基础课/ch5/闫式dp分析",
-              "editUrl": "https://github.com/PommesPeter/memo.pommespeter.space/docs/Algorithm/01.Acwing算法基础课/ch5/闫式dp分析.md",
+              "source": "@site/docs\\Algorithm\\01.Acwing算法基础课\\闫式dp分析.md",
+              "sourceDirName": "Algorithm/01.Acwing算法基础课",
+              "slug": "/Algorithm/Acwing算法基础课/闫式dp分析",
+              "permalink": "/docs/Algorithm/Acwing算法基础课/闫式dp分析",
+              "editUrl": "https://github.com/PommesPeter/memo.pommespeter.space/docs/Algorithm/01.Acwing算法基础课/闫式dp分析.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "Algorithm",
               "previous": {
                 "title": "Chapter3 Search and Graph",
-                "permalink": "/docs/Algorithm/Acwing算法基础课/ch3/"
+                "permalink": "/docs/Algorithm/Acwing算法基础课/Search&Graph"
               },
               "next": {
                 "title": "第十二届蓝桥杯省赛第二场-2021.5.9",
@@ -111,11 +143,11 @@
               "id": "Algorithm/蓝桥杯历年真题/第十二届蓝桥杯省赛第二场_2021_5_9/第十二届蓝桥杯省赛第二场(2021.5.9)",
               "title": "第十二届蓝桥杯省赛第二场-2021.5.9",
               "description": "题目在这",
-              "source": "@site/docs\\Algorithm\\01.蓝桥杯历年真题\\第十二届蓝桥杯省赛第二场_2021_5_9\\01.第十二届蓝桥杯省赛第二场(2021.5.9).md",
-              "sourceDirName": "Algorithm/01.蓝桥杯历年真题/第十二届蓝桥杯省赛第二场_2021_5_9",
+              "source": "@site/docs\\Algorithm\\02.蓝桥杯历年真题\\第十二届蓝桥杯省赛第二场_2021_5_9\\01.第十二届蓝桥杯省赛第二场(2021.5.9).md",
+              "sourceDirName": "Algorithm/02.蓝桥杯历年真题/第十二届蓝桥杯省赛第二场_2021_5_9",
               "slug": "/Algorithm/蓝桥杯历年真题/第十二届蓝桥杯省赛第二场_2021_5_9/第十二届蓝桥杯省赛第二场(2021.5.9)",
               "permalink": "/docs/Algorithm/蓝桥杯历年真题/第十二届蓝桥杯省赛第二场_2021_5_9/第十二届蓝桥杯省赛第二场(2021.5.9)",
-              "editUrl": "https://github.com/PommesPeter/memo.pommespeter.space/docs/Algorithm/01.蓝桥杯历年真题/第十二届蓝桥杯省赛第二场_2021_5_9/01.第十二届蓝桥杯省赛第二场(2021.5.9).md",
+              "editUrl": "https://github.com/PommesPeter/memo.pommespeter.space/docs/Algorithm/02.蓝桥杯历年真题/第十二届蓝桥杯省赛第二场_2021_5_9/01.第十二届蓝桥杯省赛第二场(2021.5.9).md",
               "tags": [
                 {
                   "label": "算法",
@@ -138,8 +170,8 @@
               },
               "sidebar": "Algorithm",
               "previous": {
-                "title": "闫式DP分析法",
-                "permalink": "/docs/Algorithm/Acwing算法基础课/ch5/闫式dp分析"
+                "title": "Chapter5 闫式DP分析法",
+                "permalink": "/docs/Algorithm/Acwing算法基础课/闫式dp分析"
               }
             },
             {
@@ -2150,8 +2182,8 @@
                 "permalink": "/docs/tutorial-extras/manage-docs-versions"
               },
               "next": {
-                "title": "Java 类",
-                "permalink": "/docs/Courses/面向对象程序设计/类-继承-多态"
+                "title": "Chapter1 Basic Algorithm",
+                "permalink": "/docs/Algorithm/Acwing算法基础课/BasicAlgorithm"
               }
             }
           ],
@@ -2206,6 +2238,62 @@
                   {
                     "type": "doc",
                     "id": "tutorial-extras/translate-your-site"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Algorithm",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "Acwing算法基础课",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Algorithm/Acwing算法基础课/BasicAlgorithm"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Algorithm/Acwing算法基础课/DataStructure"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Algorithm/Acwing算法基础课/ddd"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Algorithm/Acwing算法基础课/Search&Graph"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Algorithm/Acwing算法基础课/闫式dp分析"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "蓝桥杯历年真题",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "category",
+                        "label": "第十二届蓝桥杯省赛第二场_2021_5_9",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "Algorithm/蓝桥杯历年真题/第十二届蓝桥杯省赛第二场_2021_5_9/第十二届蓝桥杯省赛第二场(2021.5.9)"
+                          }
+                        ]
+                      }
+                    ]
                   }
                 ]
               },
@@ -2508,90 +2596,6 @@
                     ]
                   }
                 ]
-              },
-              {
-                "type": "category",
-                "label": "Algorithm",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "category",
-                    "label": "Acwing算法基础课",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "category",
-                        "label": "ch1",
-                        "collapsible": true,
-                        "collapsed": true,
-                        "items": [
-                          {
-                            "type": "doc",
-                            "id": "Algorithm/Acwing算法基础课/ch1/BasicAlgorithm"
-                          }
-                        ]
-                      },
-                      {
-                        "type": "category",
-                        "label": "ch2",
-                        "collapsible": true,
-                        "collapsed": true,
-                        "items": [
-                          {
-                            "type": "doc",
-                            "id": "Algorithm/Acwing算法基础课/ch2/DataStructure"
-                          }
-                        ]
-                      },
-                      {
-                        "type": "category",
-                        "label": "ch3",
-                        "collapsible": true,
-                        "collapsed": true,
-                        "items": [
-                          {
-                            "type": "doc",
-                            "id": "Algorithm/Acwing算法基础课/ch3/readme"
-                          }
-                        ]
-                      },
-                      {
-                        "type": "category",
-                        "label": "ch5",
-                        "collapsible": true,
-                        "collapsed": true,
-                        "items": [
-                          {
-                            "type": "doc",
-                            "id": "Algorithm/Acwing算法基础课/ch5/闫式dp分析"
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "category",
-                    "label": "蓝桥杯历年真题",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "category",
-                        "label": "第十二届蓝桥杯省赛第二场_2021_5_9",
-                        "collapsible": true,
-                        "collapsed": true,
-                        "items": [
-                          {
-                            "type": "doc",
-                            "id": "Algorithm/蓝桥杯历年真题/第十二届蓝桥杯省赛第二场_2021_5_9/第十二届蓝桥杯省赛第二场(2021.5.9)"
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
               }
             ],
             "Courses": [
@@ -2890,52 +2894,24 @@
                 "collapsed": true,
                 "items": [
                   {
-                    "type": "category",
-                    "label": "ch1",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "doc",
-                        "id": "Algorithm/Acwing算法基础课/ch1/BasicAlgorithm"
-                      }
-                    ]
+                    "type": "doc",
+                    "id": "Algorithm/Acwing算法基础课/BasicAlgorithm"
                   },
                   {
-                    "type": "category",
-                    "label": "ch2",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "doc",
-                        "id": "Algorithm/Acwing算法基础课/ch2/DataStructure"
-                      }
-                    ]
+                    "type": "doc",
+                    "id": "Algorithm/Acwing算法基础课/DataStructure"
                   },
                   {
-                    "type": "category",
-                    "label": "ch3",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "doc",
-                        "id": "Algorithm/Acwing算法基础课/ch3/readme"
-                      }
-                    ]
+                    "type": "doc",
+                    "id": "Algorithm/Acwing算法基础课/ddd"
                   },
                   {
-                    "type": "category",
-                    "label": "ch5",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "doc",
-                        "id": "Algorithm/Acwing算法基础课/ch5/闫式dp分析"
-                      }
-                    ]
+                    "type": "doc",
+                    "id": "Algorithm/Acwing算法基础课/Search&Graph"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Algorithm/Acwing算法基础课/闫式dp分析"
                   }
                 ]
               },

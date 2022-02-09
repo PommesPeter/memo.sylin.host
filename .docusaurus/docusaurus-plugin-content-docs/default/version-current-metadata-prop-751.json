@@ -80,6 +80,74 @@
       },
       {
         "type": "category",
+        "label": "Algorithm",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "Acwing算法基础课",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Chapter1 Basic Algorithm",
+                "href": "/docs/Algorithm/Acwing算法基础课/BasicAlgorithm",
+                "docId": "Algorithm/Acwing算法基础课/BasicAlgorithm"
+              },
+              {
+                "type": "link",
+                "label": "Chapter2 Data Structure",
+                "href": "/docs/Algorithm/Acwing算法基础课/DataStructure",
+                "docId": "Algorithm/Acwing算法基础课/DataStructure"
+              },
+              {
+                "type": "link",
+                "label": "Chapter4",
+                "href": "/docs/Algorithm/Acwing算法基础课/ddd",
+                "docId": "Algorithm/Acwing算法基础课/ddd"
+              },
+              {
+                "type": "link",
+                "label": "Chapter3 Search and Graph",
+                "href": "/docs/Algorithm/Acwing算法基础课/Search&Graph",
+                "docId": "Algorithm/Acwing算法基础课/Search&Graph"
+              },
+              {
+                "type": "link",
+                "label": "Chapter5 闫式DP分析法",
+                "href": "/docs/Algorithm/Acwing算法基础课/闫式dp分析",
+                "docId": "Algorithm/Acwing算法基础课/闫式dp分析"
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "蓝桥杯历年真题",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "category",
+                "label": "第十二届蓝桥杯省赛第二场_2021_5_9",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "第十二届蓝桥杯省赛第二场-2021.5.9",
+                    "href": "/docs/Algorithm/蓝桥杯历年真题/第十二届蓝桥杯省赛第二场_2021_5_9/第十二届蓝桥杯省赛第二场(2021.5.9)",
+                    "docId": "Algorithm/蓝桥杯历年真题/第十二届蓝桥杯省赛第二场_2021_5_9/第十二届蓝桥杯省赛第二场(2021.5.9)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "category",
         "label": "Courses",
         "collapsible": true,
         "collapsed": true,
@@ -463,100 +531,6 @@
                 "label": "yolov5",
                 "href": "/docs/DeepLearning/目标检测/yolov5介绍",
                 "docId": "DeepLearning/目标检测/yolov5介绍"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "category",
-        "label": "Algorithm",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "category",
-            "label": "Acwing算法基础课",
-            "collapsible": true,
-            "collapsed": true,
-            "items": [
-              {
-                "type": "category",
-                "label": "ch1",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "link",
-                    "label": "Chapter1 Basic Algorithm",
-                    "href": "/docs/Algorithm/Acwing算法基础课/ch1/BasicAlgorithm",
-                    "docId": "Algorithm/Acwing算法基础课/ch1/BasicAlgorithm"
-                  }
-                ]
-              },
-              {
-                "type": "category",
-                "label": "ch2",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "link",
-                    "label": "Chapter2 Data Structure",
-                    "href": "/docs/Algorithm/Acwing算法基础课/ch2/DataStructure",
-                    "docId": "Algorithm/Acwing算法基础课/ch2/DataStructure"
-                  }
-                ]
-              },
-              {
-                "type": "category",
-                "label": "ch3",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "link",
-                    "label": "Chapter3 Search and Graph",
-                    "href": "/docs/Algorithm/Acwing算法基础课/ch3/",
-                    "docId": "Algorithm/Acwing算法基础课/ch3/readme"
-                  }
-                ]
-              },
-              {
-                "type": "category",
-                "label": "ch5",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "link",
-                    "label": "闫式DP分析法",
-                    "href": "/docs/Algorithm/Acwing算法基础课/ch5/闫式dp分析",
-                    "docId": "Algorithm/Acwing算法基础课/ch5/闫式dp分析"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "category",
-            "label": "蓝桥杯历年真题",
-            "collapsible": true,
-            "collapsed": true,
-            "items": [
-              {
-                "type": "category",
-                "label": "第十二届蓝桥杯省赛第二场_2021_5_9",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "link",
-                    "label": "第十二届蓝桥杯省赛第二场-2021.5.9",
-                    "href": "/docs/Algorithm/蓝桥杯历年真题/第十二届蓝桥杯省赛第二场_2021_5_9/第十二届蓝桥杯省赛第二场(2021.5.9)",
-                    "docId": "Algorithm/蓝桥杯历年真题/第十二届蓝桥杯省赛第二场_2021_5_9/第十二届蓝桥杯省赛第二场(2021.5.9)"
-                  }
-                ]
               }
             ]
           }
@@ -949,60 +923,34 @@
         "collapsed": true,
         "items": [
           {
-            "type": "category",
-            "label": "ch1",
-            "collapsible": true,
-            "collapsed": true,
-            "items": [
-              {
-                "type": "link",
-                "label": "Chapter1 Basic Algorithm",
-                "href": "/docs/Algorithm/Acwing算法基础课/ch1/BasicAlgorithm",
-                "docId": "Algorithm/Acwing算法基础课/ch1/BasicAlgorithm"
-              }
-            ]
+            "type": "link",
+            "label": "Chapter1 Basic Algorithm",
+            "href": "/docs/Algorithm/Acwing算法基础课/BasicAlgorithm",
+            "docId": "Algorithm/Acwing算法基础课/BasicAlgorithm"
           },
           {
-            "type": "category",
-            "label": "ch2",
-            "collapsible": true,
-            "collapsed": true,
-            "items": [
-              {
-                "type": "link",
-                "label": "Chapter2 Data Structure",
-                "href": "/docs/Algorithm/Acwing算法基础课/ch2/DataStructure",
-                "docId": "Algorithm/Acwing算法基础课/ch2/DataStructure"
-              }
-            ]
+            "type": "link",
+            "label": "Chapter2 Data Structure",
+            "href": "/docs/Algorithm/Acwing算法基础课/DataStructure",
+            "docId": "Algorithm/Acwing算法基础课/DataStructure"
           },
           {
-            "type": "category",
-            "label": "ch3",
-            "collapsible": true,
-            "collapsed": true,
-            "items": [
-              {
-                "type": "link",
-                "label": "Chapter3 Search and Graph",
-                "href": "/docs/Algorithm/Acwing算法基础课/ch3/",
-                "docId": "Algorithm/Acwing算法基础课/ch3/readme"
-              }
-            ]
+            "type": "link",
+            "label": "Chapter4",
+            "href": "/docs/Algorithm/Acwing算法基础课/ddd",
+            "docId": "Algorithm/Acwing算法基础课/ddd"
           },
           {
-            "type": "category",
-            "label": "ch5",
-            "collapsible": true,
-            "collapsed": true,
-            "items": [
-              {
-                "type": "link",
-                "label": "闫式DP分析法",
-                "href": "/docs/Algorithm/Acwing算法基础课/ch5/闫式dp分析",
-                "docId": "Algorithm/Acwing算法基础课/ch5/闫式dp分析"
-              }
-            ]
+            "type": "link",
+            "label": "Chapter3 Search and Graph",
+            "href": "/docs/Algorithm/Acwing算法基础课/Search&Graph",
+            "docId": "Algorithm/Acwing算法基础课/Search&Graph"
+          },
+          {
+            "type": "link",
+            "label": "Chapter5 闫式DP分析法",
+            "href": "/docs/Algorithm/Acwing算法基础课/闫式dp分析",
+            "docId": "Algorithm/Acwing算法基础课/闫式dp分析"
           }
         ]
       },
@@ -1031,27 +979,33 @@
     ]
   },
   "docs": {
-    "Algorithm/Acwing算法基础课/ch1/BasicAlgorithm": {
-      "id": "Algorithm/Acwing算法基础课/ch1/BasicAlgorithm",
+    "Algorithm/Acwing算法基础课/BasicAlgorithm": {
+      "id": "Algorithm/Acwing算法基础课/BasicAlgorithm",
       "title": "Chapter1 Basic Algorithm",
-      "description": "[TOC]",
+      "description": "刷题小技巧: 如果输入数据量大于 1000000 的话建议使用 scanf 和 printf 进行输入输出",
       "sidebar": "Algorithm"
     },
-    "Algorithm/Acwing算法基础课/ch2/DataStructure": {
-      "id": "Algorithm/Acwing算法基础课/ch2/DataStructure",
+    "Algorithm/Acwing算法基础课/DataStructure": {
+      "id": "Algorithm/Acwing算法基础课/DataStructure",
       "title": "Chapter2 Data Structure",
       "description": "[TOC]",
       "sidebar": "Algorithm"
     },
-    "Algorithm/Acwing算法基础课/ch3/readme": {
-      "id": "Algorithm/Acwing算法基础课/ch3/readme",
+    "Algorithm/Acwing算法基础课/ddd": {
+      "id": "Algorithm/Acwing算法基础课/ddd",
+      "title": "Chapter4",
+      "description": "",
+      "sidebar": "Algorithm"
+    },
+    "Algorithm/Acwing算法基础课/Search&Graph": {
+      "id": "Algorithm/Acwing算法基础课/Search&Graph",
       "title": "Chapter3 Search and Graph",
       "description": "DFS",
       "sidebar": "Algorithm"
     },
-    "Algorithm/Acwing算法基础课/ch5/闫式dp分析": {
-      "id": "Algorithm/Acwing算法基础课/ch5/闫式dp分析",
-      "title": "闫式DP分析法",
+    "Algorithm/Acwing算法基础课/闫式dp分析": {
+      "id": "Algorithm/Acwing算法基础课/闫式dp分析",
+      "title": "Chapter5 闫式DP分析法",
       "description": "理论讲解",
       "sidebar": "Algorithm"
     },

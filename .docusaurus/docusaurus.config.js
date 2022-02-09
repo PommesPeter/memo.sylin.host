@@ -59,9 +59,9 @@ export default {
           "position": "left"
         },
         {
-          "to": "/docs/intro",
-          "position": "left",
-          "label": "Docs"
+          "to": "/docs/tags",
+          "label": "Tags",
+          "position": "left"
         },
         {
           "to": "/docs/DeepLearning/科研方法/如何读论文",
@@ -76,7 +76,7 @@ export default {
           "position": "left"
         },
         {
-          "to": "/docs/Algorithm",
+          "to": "/docs/Algorithm/Acwing算法基础课/BasicAlgorithm",
           "activeBasePath": "/docs/Algorithm",
           "label": "Algorithm",
           "position": "left"

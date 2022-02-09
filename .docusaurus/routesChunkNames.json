@@ -133,6 +133,10 @@
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
     "tag": "tag---docs-tags-backend-082-e92"
   },
+  "/docs/tags/basic-algorithm-b6f": {
+    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-basic-algorithm-4-b-1-6e5"
+  },
   "/docs/tags/big-data-f24": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
     "tag": "tag---docs-tags-big-data-7-b-0-a30"
@@ -216,29 +220,33 @@
   "/search-79a": {
     "component": "component---theme-search-page-1-a-4-d6f"
   },
-  "/docs-1fc": {
+  "/docs-47a": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
-  "/docs/Algorithm/Acwing算法基础课/ch1/BasicAlgorithm-3c8": {
+  "/docs/Algorithm/Acwing算法基础课/BasicAlgorithm-396": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-algorithm-acwing算法基础课-ch-1-basic-algorithmde-8-f62"
+    "content": "content---docs-algorithm-acwing算法基础课-basic-algorithm-9-f-0-4f3"
   },
-  "/docs/Algorithm/Acwing算法基础课/ch2/DataStructure-2ea": {
+  "/docs/Algorithm/Acwing算法基础课/DataStructure-33d": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-algorithm-acwing算法基础课-ch-2-data-structure-2-dd-8d5"
+    "content": "content---docs-algorithm-acwing算法基础课-data-structure-88-d-4f3"
   },
-  "/docs/Algorithm/Acwing算法基础课/ch3/-441": {
+  "/docs/Algorithm/Acwing算法基础课/ddd-ad8": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-algorithm-acwing算法基础课-ch-3-7-bd-7a2"
+    "content": "content---docs-algorithm-acwing算法基础课-dddb-8-e-fca"
   },
-  "/docs/Algorithm/Acwing算法基础课/ch5/闫式dp分析-ab9": {
+  "/docs/Algorithm/Acwing算法基础课/Search&Graph-7ef": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-algorithm-acwing算法基础课-ch-5-闫式dp分析-36-c-5c3"
+    "content": "content---docs-algorithm-acwing算法基础课-search-graphc-8-d-902"
   },
-  "/docs/Algorithm/蓝桥杯历年真题/第十二届蓝桥杯省赛第二场_2021_5_9/第十二届蓝桥杯省赛第二场(2021.5.9)-6d0": {
+  "/docs/Algorithm/Acwing算法基础课/闫式dp分析-054": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-algorithm-蓝桥杯历年真题-第十二届蓝桥杯省赛第二场-2021-5-9-第十二届蓝桥杯省赛第二场-2021-5-9-e-35-4dc"
+    "content": "content---docs-algorithm-acwing算法基础课-闫式dp分析-87-f-c8d"
+  },
+  "/docs/Algorithm/蓝桥杯历年真题/第十二届蓝桥杯省赛第二场_2021_5_9/第十二届蓝桥杯省赛第二场(2021.5.9)-81d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-algorithm-蓝桥杯历年真题-第十二届蓝桥杯省赛第二场-2021-5-9-第十二届蓝桥杯省赛第二场-2021-5-9-8-ae-e48"
   },
   "/docs/Courses/大数据分析和原理/Hadoop技术原理-f79": {
     "component": "component---theme-doc-item-178-a40",

@@ -1,0 +1,13 @@
+{
+  "name": "BasicAlgorithm",
+  "permalink": "/docs/tags/basic-algorithm",
+  "docs": [
+    {
+      "id": "Algorithm/Acwing算法基础课/BasicAlgorithm",
+      "title": "Chapter1 Basic Algorithm",
+      "description": "刷题小技巧: 如果输入数据量大于 1000000 的话建议使用 scanf 和 printf 进行输入输出",
+      "permalink": "/docs/Algorithm/Acwing算法基础课/BasicAlgorithm"
+    }
+  ],
+  "allTagsPath": "/docs/tags"
+}

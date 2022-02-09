@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Algorithm/Acwing算法基础课/闫式dp分析",
+  "id": "Algorithm/Acwing算法基础课/闫式dp分析",
+  "title": "Chapter5 闫式DP分析法",
+  "description": "理论讲解",
+  "source": "@site/docs\\Algorithm\\01.Acwing算法基础课\\闫式dp分析.md",
+  "sourceDirName": "Algorithm/01.Acwing算法基础课",
+  "slug": "/Algorithm/Acwing算法基础课/闫式dp分析",
+  "permalink": "/docs/Algorithm/Acwing算法基础课/闫式dp分析",
+  "editUrl": "https://github.com/PommesPeter/memo.pommespeter.space/docs/Algorithm/01.Acwing算法基础课/闫式dp分析.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "Algorithm",
+  "previous": {
+    "title": "Chapter3 Search and Graph",
+    "permalink": "/docs/Algorithm/Acwing算法基础课/Search&Graph"
+  },
+  "next": {
+    "title": "第十二届蓝桥杯省赛第二场-2021.5.9",
+    "permalink": "/docs/Algorithm/蓝桥杯历年真题/第十二届蓝桥杯省赛第二场_2021_5_9/第十二届蓝桥杯省赛第二场(2021.5.9)"
+  }
+}

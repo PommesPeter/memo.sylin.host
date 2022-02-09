@@ -109,6 +109,11 @@ export default [
     exact: true
   },
   {
+    path: '/docs/tags/basic-algorithm',
+    component: ComponentCreator('/docs/tags/basic-algorithm','b6f'),
+    exact: true
+  },
+  {
     path: '/docs/tags/big-data',
     component: ComponentCreator('/docs/tags/big-data','f24'),
     exact: true
@@ -215,35 +220,41 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','1fc'),
+    component: ComponentCreator('/docs','47a'),
     routes: [
       {
-        path: '/docs/Algorithm/Acwing算法基础课/ch1/BasicAlgorithm',
-        component: ComponentCreator('/docs/Algorithm/Acwing算法基础课/ch1/BasicAlgorithm','3c8'),
+        path: '/docs/Algorithm/Acwing算法基础课/BasicAlgorithm',
+        component: ComponentCreator('/docs/Algorithm/Acwing算法基础课/BasicAlgorithm','396'),
         exact: true,
         'sidebar': "Algorithm"
       },
       {
-        path: '/docs/Algorithm/Acwing算法基础课/ch2/DataStructure',
-        component: ComponentCreator('/docs/Algorithm/Acwing算法基础课/ch2/DataStructure','2ea'),
+        path: '/docs/Algorithm/Acwing算法基础课/DataStructure',
+        component: ComponentCreator('/docs/Algorithm/Acwing算法基础课/DataStructure','33d'),
         exact: true,
         'sidebar': "Algorithm"
       },
       {
-        path: '/docs/Algorithm/Acwing算法基础课/ch3/',
-        component: ComponentCreator('/docs/Algorithm/Acwing算法基础课/ch3/','441'),
+        path: '/docs/Algorithm/Acwing算法基础课/ddd',
+        component: ComponentCreator('/docs/Algorithm/Acwing算法基础课/ddd','ad8'),
         exact: true,
         'sidebar': "Algorithm"
       },
       {
-        path: '/docs/Algorithm/Acwing算法基础课/ch5/闫式dp分析',
-        component: ComponentCreator('/docs/Algorithm/Acwing算法基础课/ch5/闫式dp分析','ab9'),
+        path: '/docs/Algorithm/Acwing算法基础课/Search&Graph',
+        component: ComponentCreator('/docs/Algorithm/Acwing算法基础课/Search&Graph','7ef'),
+        exact: true,
+        'sidebar': "Algorithm"
+      },
+      {
+        path: '/docs/Algorithm/Acwing算法基础课/闫式dp分析',
+        component: ComponentCreator('/docs/Algorithm/Acwing算法基础课/闫式dp分析','054'),
         exact: true,
         'sidebar': "Algorithm"
       },
       {
         path: '/docs/Algorithm/蓝桥杯历年真题/第十二届蓝桥杯省赛第二场_2021_5_9/第十二届蓝桥杯省赛第二场(2021.5.9)',
-        component: ComponentCreator('/docs/Algorithm/蓝桥杯历年真题/第十二届蓝桥杯省赛第二场_2021_5_9/第十二届蓝桥杯省赛第二场(2021.5.9)','6d0'),
+        component: ComponentCreator('/docs/Algorithm/蓝桥杯历年真题/第十二届蓝桥杯省赛第二场_2021_5_9/第十二届蓝桥杯省赛第二场(2021.5.9)','81d'),
         exact: true,
         'sidebar': "Algorithm"
       },
