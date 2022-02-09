@@ -28,5 +28,9 @@
       "算法"
     ]
   },
-  "sidebar": "Algorithm"
+  "sidebar": "Algorithm",
+  "previous": {
+    "title": "Chapter3 Search and Graph",
+    "permalink": "/docs/Algorithm/Acwing算法基础课/ch3/"
+  }
 }

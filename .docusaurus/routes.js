@@ -114,6 +114,11 @@ export default [
     exact: true
   },
   {
+    path: '/docs/tags/computer-network',
+    component: ComponentCreator('/docs/tags/computer-network','58a'),
+    exact: true
+  },
+  {
     path: '/docs/tags/data-base',
     component: ComponentCreator('/docs/tags/data-base','497'),
     exact: true
@@ -210,8 +215,32 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','be5'),
+    component: ComponentCreator('/docs','1fc'),
     routes: [
+      {
+        path: '/docs/Algorithm/Acwing算法基础课/ch1/BasicAlgorithm',
+        component: ComponentCreator('/docs/Algorithm/Acwing算法基础课/ch1/BasicAlgorithm','3c8'),
+        exact: true,
+        'sidebar': "Algorithm"
+      },
+      {
+        path: '/docs/Algorithm/Acwing算法基础课/ch2/DataStructure',
+        component: ComponentCreator('/docs/Algorithm/Acwing算法基础课/ch2/DataStructure','2ea'),
+        exact: true,
+        'sidebar': "Algorithm"
+      },
+      {
+        path: '/docs/Algorithm/Acwing算法基础课/ch3/',
+        component: ComponentCreator('/docs/Algorithm/Acwing算法基础课/ch3/','441'),
+        exact: true,
+        'sidebar': "Algorithm"
+      },
+      {
+        path: '/docs/Algorithm/Acwing算法基础课/ch5/闫式dp分析',
+        component: ComponentCreator('/docs/Algorithm/Acwing算法基础课/ch5/闫式dp分析','ab9'),
+        exact: true,
+        'sidebar': "Algorithm"
+      },
       {
         path: '/docs/Algorithm/蓝桥杯历年真题/第十二届蓝桥杯省赛第二场_2021_5_9/第十二届蓝桥杯省赛第二场(2021.5.9)',
         component: ComponentCreator('/docs/Algorithm/蓝桥杯历年真题/第十二届蓝桥杯省赛第二场_2021_5_9/第十二届蓝桥杯省赛第二场(2021.5.9)','6d0'),
@@ -401,6 +430,12 @@ export default [
       {
         path: '/docs/Courses/算法设计与分析/贪心算法',
         component: ComponentCreator('/docs/Courses/算法设计与分析/贪心算法','fea'),
+        exact: true,
+        'sidebar': "Courses"
+      },
+      {
+        path: '/docs/Courses/计算机网络/杂记',
+        component: ComponentCreator('/docs/Courses/计算机网络/杂记','8fe'),
         exact: true,
         'sidebar': "Courses"
       },

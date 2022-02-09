@@ -1,7 +1,7 @@
 {
   "unversionedId": "Courses/大数据分析和原理/MapReduce技术原理",
   "id": "Courses/大数据分析和原理/MapReduce技术原理",
-  "title": "NoSQL相关概念",
+  "title": "MapReduce技术原理",
   "description": "Map 和 Reduce 方法",
   "source": "@site/docs\\Courses\\08.大数据分析和原理\\06.MapReduce技术原理.md",
   "sourceDirName": "Courses/08.大数据分析和原理",
@@ -17,12 +17,7 @@
   "version": "current",
   "sidebarPosition": 6,
   "frontMatter": {
-    "title": "NoSQL相关概念",
-    "permalink": "/courses/bigdata/mapreduce",
-    "categories": [
-      "课程学习",
-      "大数据"
-    ],
+    "title": "MapReduce技术原理",
     "tags": [
       "BigData"
     ],
@@ -34,7 +29,7 @@
     "permalink": "/docs/Courses/大数据分析和原理/NoSQL概念"
   },
   "next": {
-    "title": "NoSQL相关概念",
+    "title": "Spark技术原理",
     "permalink": "/docs/Courses/大数据分析和原理/Spark技术原理"
   }
 }

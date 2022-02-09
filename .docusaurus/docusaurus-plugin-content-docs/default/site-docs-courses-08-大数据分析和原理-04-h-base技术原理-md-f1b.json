@@ -12,29 +12,14 @@
     {
       "label": "BigData",
       "permalink": "/docs/tags/big-data"
-    },
-    {
-      "label": "Hadoop",
-      "permalink": "/docs/tags/hadoop"
-    },
-    {
-      "label": "HDFS",
-      "permalink": "/docs/tags/hdfs"
     }
   ],
   "version": "current",
   "sidebarPosition": 4,
   "frontMatter": {
     "title": "HBase技术原理",
-    "permalink": "/courses/bigdata/hbase",
-    "categories": [
-      "课程学习",
-      "大数据"
-    ],
     "tags": [
-      "BigData",
-      "Hadoop",
-      "HDFS"
+      "BigData"
     ],
     "date": "2021-11-08T16:28:27.000Z"
   },

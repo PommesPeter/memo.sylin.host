@@ -18,20 +18,14 @@
   "sidebarPosition": 1,
   "frontMatter": {
     "title": "大数据概述",
-    "permalink": "/courses/bigdata/instruction",
-    "categories": [
-      "课程学习",
-      "大数据"
-    ],
     "tags": [
       "BigData"
-    ],
-    "date": "2021-10-03T20:53:16.000Z"
+    ]
   },
   "sidebar": "Courses",
   "previous": {
-    "title": "并行程序设计",
-    "permalink": "/docs/Courses/操作系统/并行程序设计"
+    "title": "计网知识杂记",
+    "permalink": "/docs/Courses/计算机网络/杂记"
   },
   "next": {
     "title": "Hadoop技术原理",

@@ -294,6 +294,20 @@
           },
           {
             "type": "category",
+            "label": "计算机网络",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "计网知识杂记",
+                "href": "/docs/Courses/计算机网络/杂记",
+                "docId": "Courses/计算机网络/杂记"
+              }
+            ]
+          },
+          {
+            "type": "category",
             "label": "大数据分析和原理",
             "collapsible": true,
             "collapsed": true,
@@ -330,19 +344,19 @@
               },
               {
                 "type": "link",
-                "label": "NoSQL相关概念",
+                "label": "MapReduce技术原理",
                 "href": "/docs/Courses/大数据分析和原理/MapReduce技术原理",
                 "docId": "Courses/大数据分析和原理/MapReduce技术原理"
               },
               {
                 "type": "link",
-                "label": "NoSQL相关概念",
+                "label": "Spark技术原理",
                 "href": "/docs/Courses/大数据分析和原理/Spark技术原理",
                 "docId": "Courses/大数据分析和原理/Spark技术原理"
               },
               {
                 "type": "link",
-                "label": "NoSQL相关概念",
+                "label": "Storm技术原理",
                 "href": "/docs/Courses/大数据分析和原理/Storm技术原理",
                 "docId": "Courses/大数据分析和原理/Storm技术原理"
               }
@@ -460,6 +474,70 @@
         "collapsible": true,
         "collapsed": true,
         "items": [
+          {
+            "type": "category",
+            "label": "Acwing算法基础课",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "category",
+                "label": "ch1",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Chapter1 Basic Algorithm",
+                    "href": "/docs/Algorithm/Acwing算法基础课/ch1/BasicAlgorithm",
+                    "docId": "Algorithm/Acwing算法基础课/ch1/BasicAlgorithm"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "ch2",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Chapter2 Data Structure",
+                    "href": "/docs/Algorithm/Acwing算法基础课/ch2/DataStructure",
+                    "docId": "Algorithm/Acwing算法基础课/ch2/DataStructure"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "ch3",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Chapter3 Search and Graph",
+                    "href": "/docs/Algorithm/Acwing算法基础课/ch3/",
+                    "docId": "Algorithm/Acwing算法基础课/ch3/readme"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "ch5",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "闫式DP分析法",
+                    "href": "/docs/Algorithm/Acwing算法基础课/ch5/闫式dp分析",
+                    "docId": "Algorithm/Acwing算法基础课/ch5/闫式dp分析"
+                  }
+                ]
+              }
+            ]
+          },
           {
             "type": "category",
             "label": "蓝桥杯历年真题",
@@ -696,6 +774,20 @@
       },
       {
         "type": "category",
+        "label": "计算机网络",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "计网知识杂记",
+            "href": "/docs/Courses/计算机网络/杂记",
+            "docId": "Courses/计算机网络/杂记"
+          }
+        ]
+      },
+      {
+        "type": "category",
         "label": "大数据分析和原理",
         "collapsible": true,
         "collapsed": true,
@@ -732,19 +824,19 @@
           },
           {
             "type": "link",
-            "label": "NoSQL相关概念",
+            "label": "MapReduce技术原理",
             "href": "/docs/Courses/大数据分析和原理/MapReduce技术原理",
             "docId": "Courses/大数据分析和原理/MapReduce技术原理"
           },
           {
             "type": "link",
-            "label": "NoSQL相关概念",
+            "label": "Spark技术原理",
             "href": "/docs/Courses/大数据分析和原理/Spark技术原理",
             "docId": "Courses/大数据分析和原理/Spark技术原理"
           },
           {
             "type": "link",
-            "label": "NoSQL相关概念",
+            "label": "Storm技术原理",
             "href": "/docs/Courses/大数据分析和原理/Storm技术原理",
             "docId": "Courses/大数据分析和原理/Storm技术原理"
           }
@@ -852,6 +944,70 @@
     "Algorithm": [
       {
         "type": "category",
+        "label": "Acwing算法基础课",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "ch1",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Chapter1 Basic Algorithm",
+                "href": "/docs/Algorithm/Acwing算法基础课/ch1/BasicAlgorithm",
+                "docId": "Algorithm/Acwing算法基础课/ch1/BasicAlgorithm"
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "ch2",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Chapter2 Data Structure",
+                "href": "/docs/Algorithm/Acwing算法基础课/ch2/DataStructure",
+                "docId": "Algorithm/Acwing算法基础课/ch2/DataStructure"
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "ch3",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Chapter3 Search and Graph",
+                "href": "/docs/Algorithm/Acwing算法基础课/ch3/",
+                "docId": "Algorithm/Acwing算法基础课/ch3/readme"
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "ch5",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "闫式DP分析法",
+                "href": "/docs/Algorithm/Acwing算法基础课/ch5/闫式dp分析",
+                "docId": "Algorithm/Acwing算法基础课/ch5/闫式dp分析"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "category",
         "label": "蓝桥杯历年真题",
         "collapsible": true,
         "collapsed": true,
@@ -875,6 +1031,30 @@
     ]
   },
   "docs": {
+    "Algorithm/Acwing算法基础课/ch1/BasicAlgorithm": {
+      "id": "Algorithm/Acwing算法基础课/ch1/BasicAlgorithm",
+      "title": "Chapter1 Basic Algorithm",
+      "description": "[TOC]",
+      "sidebar": "Algorithm"
+    },
+    "Algorithm/Acwing算法基础课/ch2/DataStructure": {
+      "id": "Algorithm/Acwing算法基础课/ch2/DataStructure",
+      "title": "Chapter2 Data Structure",
+      "description": "[TOC]",
+      "sidebar": "Algorithm"
+    },
+    "Algorithm/Acwing算法基础课/ch3/readme": {
+      "id": "Algorithm/Acwing算法基础课/ch3/readme",
+      "title": "Chapter3 Search and Graph",
+      "description": "DFS",
+      "sidebar": "Algorithm"
+    },
+    "Algorithm/Acwing算法基础课/ch5/闫式dp分析": {
+      "id": "Algorithm/Acwing算法基础课/ch5/闫式dp分析",
+      "title": "闫式DP分析法",
+      "description": "理论讲解",
+      "sidebar": "Algorithm"
+    },
     "Algorithm/蓝桥杯历年真题/第十二届蓝桥杯省赛第二场_2021_5_9/第十二届蓝桥杯省赛第二场(2021.5.9)": {
       "id": "Algorithm/蓝桥杯历年真题/第十二届蓝桥杯省赛第二场_2021_5_9/第十二届蓝桥杯省赛第二场(2021.5.9)",
       "title": "第十二届蓝桥杯省赛第二场-2021.5.9",
@@ -901,7 +1081,7 @@
     },
     "Courses/大数据分析和原理/MapReduce技术原理": {
       "id": "Courses/大数据分析和原理/MapReduce技术原理",
-      "title": "NoSQL相关概念",
+      "title": "MapReduce技术原理",
       "description": "Map 和 Reduce 方法",
       "sidebar": "Courses"
     },
@@ -913,13 +1093,13 @@
     },
     "Courses/大数据分析和原理/Spark技术原理": {
       "id": "Courses/大数据分析和原理/Spark技术原理",
-      "title": "NoSQL相关概念",
+      "title": "Spark技术原理",
       "description": "基本概念",
       "sidebar": "Courses"
     },
     "Courses/大数据分析和原理/Storm技术原理": {
       "id": "Courses/大数据分析和原理/Storm技术原理",
-      "title": "NoSQL相关概念",
+      "title": "Storm技术原理",
       "description": "流计算概述",
       "sidebar": "Courses"
     },
@@ -1065,6 +1245,12 @@
       "id": "Courses/算法设计与分析/贪心算法",
       "title": "贪心算法",
       "description": "贪心算法主要是在问题求解的试合，总是会做目前看来最好的选择，不考虑整体上的最优，考虑局部的最优，所以贪心算法一般情况下得到的是局部最优解，排除有概率得到最优解。",
+      "sidebar": "Courses"
+    },
+    "Courses/计算机网络/杂记": {
+      "id": "Courses/计算机网络/杂记",
+      "title": "计网知识杂记",
+      "description": "基础",
       "sidebar": "Courses"
     },
     "Courses/面向对象程序设计/Java-Gui编程": {

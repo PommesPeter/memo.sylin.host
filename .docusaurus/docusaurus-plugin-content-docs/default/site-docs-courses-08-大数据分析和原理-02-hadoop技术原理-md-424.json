@@ -22,16 +22,10 @@
   "sidebarPosition": 2,
   "frontMatter": {
     "title": "Hadoop技术原理",
-    "permalink": "/courses/bigdata/hadoop",
-    "categories": [
-      "课程学习",
-      "大数据"
-    ],
     "tags": [
       "BigData",
       "Hadoop"
-    ],
-    "date": "2021-10-03T20:53:16.000Z"
+    ]
   },
   "sidebar": "Courses",
   "previous": {

@@ -11,6 +11,26 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "Algorithm/Acwing算法基础课/ch1/BasicAlgorithm",
+              "path": "/docs/Algorithm/Acwing算法基础课/ch1/BasicAlgorithm",
+              "sidebar": "Algorithm"
+            },
+            {
+              "id": "Algorithm/Acwing算法基础课/ch2/DataStructure",
+              "path": "/docs/Algorithm/Acwing算法基础课/ch2/DataStructure",
+              "sidebar": "Algorithm"
+            },
+            {
+              "id": "Algorithm/Acwing算法基础课/ch3/readme",
+              "path": "/docs/Algorithm/Acwing算法基础课/ch3/",
+              "sidebar": "Algorithm"
+            },
+            {
+              "id": "Algorithm/Acwing算法基础课/ch5/闫式dp分析",
+              "path": "/docs/Algorithm/Acwing算法基础课/ch5/闫式dp分析",
+              "sidebar": "Algorithm"
+            },
+            {
               "id": "Algorithm/蓝桥杯历年真题/第十二届蓝桥杯省赛第二场_2021_5_9/第十二届蓝桥杯省赛第二场(2021.5.9)",
               "path": "/docs/Algorithm/蓝桥杯历年真题/第十二届蓝桥杯省赛第二场_2021_5_9/第十二届蓝桥杯省赛第二场(2021.5.9)",
               "sidebar": "Algorithm"
@@ -171,6 +191,11 @@
               "sidebar": "Courses"
             },
             {
+              "id": "Courses/计算机网络/杂记",
+              "path": "/docs/Courses/计算机网络/杂记",
+              "sidebar": "Courses"
+            },
+            {
               "id": "Courses/面向对象程序设计/Java-Gui编程",
               "path": "/docs/Courses/面向对象程序设计/Java-Gui编程",
               "sidebar": "Courses"
@@ -302,8 +327,8 @@
             },
             "Algorithm": {
               "link": {
-                "path": "/docs/Algorithm/蓝桥杯历年真题/第十二届蓝桥杯省赛第二场_2021_5_9/第十二届蓝桥杯省赛第二场(2021.5.9)",
-                "label": "Algorithm/蓝桥杯历年真题/第十二届蓝桥杯省赛第二场_2021_5_9/第十二届蓝桥杯省赛第二场(2021.5.9)"
+                "path": "/docs/Algorithm/Acwing算法基础课/ch1/BasicAlgorithm",
+                "label": "Algorithm/Acwing算法基础课/ch1/BasicAlgorithm"
               }
             }
           }

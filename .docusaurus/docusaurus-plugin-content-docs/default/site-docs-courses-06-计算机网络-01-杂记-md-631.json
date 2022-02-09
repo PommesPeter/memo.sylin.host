@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Courses/计算机网络/杂记",
+  "id": "Courses/计算机网络/杂记",
+  "title": "杂记",
+  "description": "[TOC]",
+  "source": "@site/docs\\Courses\\06.计算机网络\\01.杂记.md",
+  "sourceDirName": "Courses/06.计算机网络",
+  "slug": "/Courses/计算机网络/杂记",
+  "permalink": "/docs/Courses/计算机网络/杂记",
+  "editUrl": "https://github.com/PommesPeter/memo.pommespeter.space/docs/Courses/06.计算机网络/01.杂记.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "Courses",
+  "previous": {
+    "title": "并行程序设计",
+    "permalink": "/docs/Courses/操作系统/并行程序设计"
+  },
+  "next": {
+    "title": "大数据概述",
+    "permalink": "/docs/Courses/大数据分析和原理/大数据概述"
+  }
+}

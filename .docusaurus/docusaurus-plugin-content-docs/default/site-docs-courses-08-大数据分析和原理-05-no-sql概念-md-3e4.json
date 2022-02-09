@@ -18,11 +18,6 @@
   "sidebarPosition": 5,
   "frontMatter": {
     "title": "NoSQL相关概念",
-    "permalink": "/courses/bigdata/nosql",
-    "categories": [
-      "课程学习",
-      "大数据"
-    ],
     "tags": [
       "BigData"
     ],
@@ -34,7 +29,7 @@
     "permalink": "/docs/Courses/大数据分析和原理/HBase技术原理"
   },
   "next": {
-    "title": "NoSQL相关概念",
+    "title": "MapReduce技术原理",
     "permalink": "/docs/Courses/大数据分析和原理/MapReduce技术原理"
   }
 }

@@ -1,7 +1,7 @@
 {
   "unversionedId": "Courses/大数据分析和原理/Spark技术原理",
   "id": "Courses/大数据分析和原理/Spark技术原理",
-  "title": "NoSQL相关概念",
+  "title": "Spark技术原理",
   "description": "基本概念",
   "source": "@site/docs\\Courses\\08.大数据分析和原理\\07.Spark技术原理.md",
   "sourceDirName": "Courses/08.大数据分析和原理",
@@ -17,12 +17,7 @@
   "version": "current",
   "sidebarPosition": 7,
   "frontMatter": {
-    "title": "NoSQL相关概念",
-    "permalink": "/courses/bigdata/spark",
-    "categories": [
-      "课程学习",
-      "大数据"
-    ],
+    "title": "Spark技术原理",
     "tags": [
       "BigData"
     ],
@@ -30,11 +25,11 @@
   },
   "sidebar": "Courses",
   "previous": {
-    "title": "NoSQL相关概念",
+    "title": "MapReduce技术原理",
     "permalink": "/docs/Courses/大数据分析和原理/MapReduce技术原理"
   },
   "next": {
-    "title": "NoSQL相关概念",
+    "title": "Storm技术原理",
     "permalink": "/docs/Courses/大数据分析和原理/Storm技术原理"
   }
 }

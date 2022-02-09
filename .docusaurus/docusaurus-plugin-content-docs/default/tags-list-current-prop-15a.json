@@ -12,12 +12,12 @@
   {
     "name": "Hadoop",
     "permalink": "/docs/tags/hadoop",
-    "count": 3
+    "count": 2
   },
   {
     "name": "HDFS",
     "permalink": "/docs/tags/hdfs",
-    "count": 2
+    "count": 1
   },
   {
     "name": "Operating System",
@@ -48,6 +48,11 @@
     "name": "Algorithm",
     "permalink": "/docs/tags/algorithm",
     "count": 5
+  },
+  {
+    "name": "Computer Network",
+    "permalink": "/docs/tags/computer-network",
+    "count": 1
   },
   {
     "name": "OOP",

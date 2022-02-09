@@ -137,6 +137,10 @@
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
     "tag": "tag---docs-tags-big-data-7-b-0-a30"
   },
+  "/docs/tags/computer-network-58a": {
+    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-computer-network-36-e-939"
+  },
   "/docs/tags/data-base-497": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
     "tag": "tag---docs-tags-data-basedbf-b44"
@@ -212,9 +216,25 @@
   "/search-79a": {
     "component": "component---theme-search-page-1-a-4-d6f"
   },
-  "/docs-be5": {
+  "/docs-1fc": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/Algorithm/Acwing算法基础课/ch1/BasicAlgorithm-3c8": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-algorithm-acwing算法基础课-ch-1-basic-algorithmde-8-f62"
+  },
+  "/docs/Algorithm/Acwing算法基础课/ch2/DataStructure-2ea": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-algorithm-acwing算法基础课-ch-2-data-structure-2-dd-8d5"
+  },
+  "/docs/Algorithm/Acwing算法基础课/ch3/-441": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-algorithm-acwing算法基础课-ch-3-7-bd-7a2"
+  },
+  "/docs/Algorithm/Acwing算法基础课/ch5/闫式dp分析-ab9": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-algorithm-acwing算法基础课-ch-5-闫式dp分析-36-c-5c3"
   },
   "/docs/Algorithm/蓝桥杯历年真题/第十二届蓝桥杯省赛第二场_2021_5_9/第十二届蓝桥杯省赛第二场(2021.5.9)-6d0": {
     "component": "component---theme-doc-item-178-a40",
@@ -343,6 +363,10 @@
   "/docs/Courses/算法设计与分析/贪心算法-fea": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-courses-算法设计与分析-贪心算法-4-ef-3a3"
+  },
+  "/docs/Courses/计算机网络/杂记-8fe": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-courses-计算机网络-杂记-9-b-0-e52"
   },
   "/docs/Courses/面向对象程序设计/Java-Gui编程-11e": {
     "component": "component---theme-doc-item-178-a40",

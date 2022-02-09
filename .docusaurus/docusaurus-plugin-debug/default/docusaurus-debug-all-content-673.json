@@ -19,6 +19,94 @@
           "contentPathLocalized": "E:\\workspace\\MemoLibrary\\memo.pommespeter.space\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
+              "unversionedId": "Algorithm/Acwing算法基础课/ch1/BasicAlgorithm",
+              "id": "Algorithm/Acwing算法基础课/ch1/BasicAlgorithm",
+              "title": "Chapter1 Basic Algorithm",
+              "description": "[TOC]",
+              "source": "@site/docs\\Algorithm\\01.Acwing算法基础课\\ch1\\BasicAlgorithm.md",
+              "sourceDirName": "Algorithm/01.Acwing算法基础课/ch1",
+              "slug": "/Algorithm/Acwing算法基础课/ch1/BasicAlgorithm",
+              "permalink": "/docs/Algorithm/Acwing算法基础课/ch1/BasicAlgorithm",
+              "editUrl": "https://github.com/PommesPeter/memo.pommespeter.space/docs/Algorithm/01.Acwing算法基础课/ch1/BasicAlgorithm.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "Algorithm",
+              "next": {
+                "title": "Chapter2 Data Structure",
+                "permalink": "/docs/Algorithm/Acwing算法基础课/ch2/DataStructure"
+              }
+            },
+            {
+              "unversionedId": "Algorithm/Acwing算法基础课/ch2/DataStructure",
+              "id": "Algorithm/Acwing算法基础课/ch2/DataStructure",
+              "title": "Chapter2 Data Structure",
+              "description": "[TOC]",
+              "source": "@site/docs\\Algorithm\\01.Acwing算法基础课\\ch2\\DataStructure.md",
+              "sourceDirName": "Algorithm/01.Acwing算法基础课/ch2",
+              "slug": "/Algorithm/Acwing算法基础课/ch2/DataStructure",
+              "permalink": "/docs/Algorithm/Acwing算法基础课/ch2/DataStructure",
+              "editUrl": "https://github.com/PommesPeter/memo.pommespeter.space/docs/Algorithm/01.Acwing算法基础课/ch2/DataStructure.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "Algorithm",
+              "previous": {
+                "title": "Chapter1 Basic Algorithm",
+                "permalink": "/docs/Algorithm/Acwing算法基础课/ch1/BasicAlgorithm"
+              },
+              "next": {
+                "title": "Chapter3 Search and Graph",
+                "permalink": "/docs/Algorithm/Acwing算法基础课/ch3/"
+              }
+            },
+            {
+              "unversionedId": "Algorithm/Acwing算法基础课/ch3/readme",
+              "id": "Algorithm/Acwing算法基础课/ch3/readme",
+              "title": "Chapter3 Search and Graph",
+              "description": "DFS",
+              "source": "@site/docs\\Algorithm\\01.Acwing算法基础课\\ch3\\readme.md",
+              "sourceDirName": "Algorithm/01.Acwing算法基础课/ch3",
+              "slug": "/Algorithm/Acwing算法基础课/ch3/",
+              "permalink": "/docs/Algorithm/Acwing算法基础课/ch3/",
+              "editUrl": "https://github.com/PommesPeter/memo.pommespeter.space/docs/Algorithm/01.Acwing算法基础课/ch3/readme.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "Algorithm",
+              "previous": {
+                "title": "Chapter2 Data Structure",
+                "permalink": "/docs/Algorithm/Acwing算法基础课/ch2/DataStructure"
+              },
+              "next": {
+                "title": "闫式DP分析法",
+                "permalink": "/docs/Algorithm/Acwing算法基础课/ch5/闫式dp分析"
+              }
+            },
+            {
+              "unversionedId": "Algorithm/Acwing算法基础课/ch5/闫式dp分析",
+              "id": "Algorithm/Acwing算法基础课/ch5/闫式dp分析",
+              "title": "闫式DP分析法",
+              "description": "理论讲解",
+              "source": "@site/docs\\Algorithm\\01.Acwing算法基础课\\ch5\\闫式dp分析.md",
+              "sourceDirName": "Algorithm/01.Acwing算法基础课/ch5",
+              "slug": "/Algorithm/Acwing算法基础课/ch5/闫式dp分析",
+              "permalink": "/docs/Algorithm/Acwing算法基础课/ch5/闫式dp分析",
+              "editUrl": "https://github.com/PommesPeter/memo.pommespeter.space/docs/Algorithm/01.Acwing算法基础课/ch5/闫式dp分析.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "Algorithm",
+              "previous": {
+                "title": "Chapter3 Search and Graph",
+                "permalink": "/docs/Algorithm/Acwing算法基础课/ch3/"
+              },
+              "next": {
+                "title": "第十二届蓝桥杯省赛第二场-2021.5.9",
+                "permalink": "/docs/Algorithm/蓝桥杯历年真题/第十二届蓝桥杯省赛第二场_2021_5_9/第十二届蓝桥杯省赛第二场(2021.5.9)"
+              }
+            },
+            {
               "unversionedId": "Algorithm/蓝桥杯历年真题/第十二届蓝桥杯省赛第二场_2021_5_9/第十二届蓝桥杯省赛第二场(2021.5.9)",
               "id": "Algorithm/蓝桥杯历年真题/第十二届蓝桥杯省赛第二场_2021_5_9/第十二届蓝桥杯省赛第二场(2021.5.9)",
               "title": "第十二届蓝桥杯省赛第二场-2021.5.9",
@@ -48,7 +136,11 @@
                   "算法"
                 ]
               },
-              "sidebar": "Algorithm"
+              "sidebar": "Algorithm",
+              "previous": {
+                "title": "闫式DP分析法",
+                "permalink": "/docs/Algorithm/Acwing算法基础课/ch5/闫式dp分析"
+              }
             },
             {
               "unversionedId": "Courses/大数据分析和原理/Hadoop技术原理",
@@ -74,16 +166,10 @@
               "sidebarPosition": 2,
               "frontMatter": {
                 "title": "Hadoop技术原理",
-                "permalink": "/courses/bigdata/hadoop",
-                "categories": [
-                  "课程学习",
-                  "大数据"
-                ],
                 "tags": [
                   "BigData",
                   "Hadoop"
-                ],
-                "date": "2021-10-03T20:53:16.000Z"
+                ]
               },
               "sidebar": "Courses",
               "previous": {
@@ -109,29 +195,14 @@
                 {
                   "label": "BigData",
                   "permalink": "/docs/tags/big-data"
-                },
-                {
-                  "label": "Hadoop",
-                  "permalink": "/docs/tags/hadoop"
-                },
-                {
-                  "label": "HDFS",
-                  "permalink": "/docs/tags/hdfs"
                 }
               ],
               "version": "current",
               "sidebarPosition": 4,
               "frontMatter": {
                 "title": "HBase技术原理",
-                "permalink": "/courses/bigdata/hbase",
-                "categories": [
-                  "课程学习",
-                  "大数据"
-                ],
                 "tags": [
-                  "BigData",
-                  "Hadoop",
-                  "HDFS"
+                  "BigData"
                 ],
                 "date": "2021-11-08T16:28:27.000Z"
               },
@@ -198,7 +269,7 @@
             {
               "unversionedId": "Courses/大数据分析和原理/MapReduce技术原理",
               "id": "Courses/大数据分析和原理/MapReduce技术原理",
-              "title": "NoSQL相关概念",
+              "title": "MapReduce技术原理",
               "description": "Map 和 Reduce 方法",
               "source": "@site/docs\\Courses\\08.大数据分析和原理\\06.MapReduce技术原理.md",
               "sourceDirName": "Courses/08.大数据分析和原理",
@@ -214,12 +285,7 @@
               "version": "current",
               "sidebarPosition": 6,
               "frontMatter": {
-                "title": "NoSQL相关概念",
-                "permalink": "/courses/bigdata/mapreduce",
-                "categories": [
-                  "课程学习",
-                  "大数据"
-                ],
+                "title": "MapReduce技术原理",
                 "tags": [
                   "BigData"
                 ],
@@ -231,7 +297,7 @@
                 "permalink": "/docs/Courses/大数据分析和原理/NoSQL概念"
               },
               "next": {
-                "title": "NoSQL相关概念",
+                "title": "Spark技术原理",
                 "permalink": "/docs/Courses/大数据分析和原理/Spark技术原理"
               }
             },
@@ -255,11 +321,6 @@
               "sidebarPosition": 5,
               "frontMatter": {
                 "title": "NoSQL相关概念",
-                "permalink": "/courses/bigdata/nosql",
-                "categories": [
-                  "课程学习",
-                  "大数据"
-                ],
                 "tags": [
                   "BigData"
                 ],
@@ -271,14 +332,14 @@
                 "permalink": "/docs/Courses/大数据分析和原理/HBase技术原理"
               },
               "next": {
-                "title": "NoSQL相关概念",
+                "title": "MapReduce技术原理",
                 "permalink": "/docs/Courses/大数据分析和原理/MapReduce技术原理"
               }
             },
             {
               "unversionedId": "Courses/大数据分析和原理/Spark技术原理",
               "id": "Courses/大数据分析和原理/Spark技术原理",
-              "title": "NoSQL相关概念",
+              "title": "Spark技术原理",
               "description": "基本概念",
               "source": "@site/docs\\Courses\\08.大数据分析和原理\\07.Spark技术原理.md",
               "sourceDirName": "Courses/08.大数据分析和原理",
@@ -294,12 +355,7 @@
               "version": "current",
               "sidebarPosition": 7,
               "frontMatter": {
-                "title": "NoSQL相关概念",
-                "permalink": "/courses/bigdata/spark",
-                "categories": [
-                  "课程学习",
-                  "大数据"
-                ],
+                "title": "Spark技术原理",
                 "tags": [
                   "BigData"
                 ],
@@ -307,18 +363,18 @@
               },
               "sidebar": "Courses",
               "previous": {
-                "title": "NoSQL相关概念",
+                "title": "MapReduce技术原理",
                 "permalink": "/docs/Courses/大数据分析和原理/MapReduce技术原理"
               },
               "next": {
-                "title": "NoSQL相关概念",
+                "title": "Storm技术原理",
                 "permalink": "/docs/Courses/大数据分析和原理/Storm技术原理"
               }
             },
             {
               "unversionedId": "Courses/大数据分析和原理/Storm技术原理",
               "id": "Courses/大数据分析和原理/Storm技术原理",
-              "title": "NoSQL相关概念",
+              "title": "Storm技术原理",
               "description": "流计算概述",
               "source": "@site/docs\\Courses\\08.大数据分析和原理\\08.Storm技术原理.md",
               "sourceDirName": "Courses/08.大数据分析和原理",
@@ -334,12 +390,7 @@
               "version": "current",
               "sidebarPosition": 8,
               "frontMatter": {
-                "title": "NoSQL相关概念",
-                "permalink": "/courses/bigdata/storm",
-                "categories": [
-                  "课程学习",
-                  "大数据"
-                ],
+                "title": "Storm技术原理",
                 "tags": [
                   "BigData"
                 ],
@@ -347,7 +398,7 @@
               },
               "sidebar": "Courses",
               "previous": {
-                "title": "NoSQL相关概念",
+                "title": "Spark技术原理",
                 "permalink": "/docs/Courses/大数据分析和原理/Spark技术原理"
               }
             },
@@ -371,20 +422,14 @@
               "sidebarPosition": 1,
               "frontMatter": {
                 "title": "大数据概述",
-                "permalink": "/courses/bigdata/instruction",
-                "categories": [
-                  "课程学习",
-                  "大数据"
-                ],
                 "tags": [
                   "BigData"
-                ],
-                "date": "2021-10-03T20:53:16.000Z"
+                ]
               },
               "sidebar": "Courses",
               "previous": {
-                "title": "并行程序设计",
-                "permalink": "/docs/Courses/操作系统/并行程序设计"
+                "title": "计网知识杂记",
+                "permalink": "/docs/Courses/计算机网络/杂记"
               },
               "next": {
                 "title": "Hadoop技术原理",
@@ -507,8 +552,8 @@
                 "permalink": "/docs/Courses/操作系统/IO设备管理"
               },
               "next": {
-                "title": "大数据概述",
-                "permalink": "/docs/Courses/大数据分析和原理/大数据概述"
+                "title": "计网知识杂记",
+                "permalink": "/docs/Courses/计算机网络/杂记"
               }
             },
             {
@@ -1283,6 +1328,40 @@
               "next": {
                 "title": "回溯算法",
                 "permalink": "/docs/Courses/算法设计与分析/回溯算法"
+              }
+            },
+            {
+              "unversionedId": "Courses/计算机网络/杂记",
+              "id": "Courses/计算机网络/杂记",
+              "title": "计网知识杂记",
+              "description": "基础",
+              "source": "@site/docs\\Courses\\06.计算机网络\\01.杂记.mdx",
+              "sourceDirName": "Courses/06.计算机网络",
+              "slug": "/Courses/计算机网络/杂记",
+              "permalink": "/docs/Courses/计算机网络/杂记",
+              "editUrl": "https://github.com/PommesPeter/memo.pommespeter.space/docs/Courses/06.计算机网络/01.杂记.mdx",
+              "tags": [
+                {
+                  "label": "Computer Network",
+                  "permalink": "/docs/tags/computer-network"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "计网知识杂记",
+                "tags": [
+                  "Computer Network"
+                ]
+              },
+              "sidebar": "Courses",
+              "previous": {
+                "title": "并行程序设计",
+                "permalink": "/docs/Courses/操作系统/并行程序设计"
+              },
+              "next": {
+                "title": "大数据概述",
+                "permalink": "/docs/Courses/大数据分析和原理/大数据概述"
               }
             },
             {
@@ -2290,6 +2369,18 @@
                   },
                   {
                     "type": "category",
+                    "label": "计算机网络",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Courses/计算机网络/杂记"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
                     "label": "大数据分析和原理",
                     "collapsible": true,
                     "collapsed": true,
@@ -2424,6 +2515,62 @@
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
+                  {
+                    "type": "category",
+                    "label": "Acwing算法基础课",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "category",
+                        "label": "ch1",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "Algorithm/Acwing算法基础课/ch1/BasicAlgorithm"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "category",
+                        "label": "ch2",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "Algorithm/Acwing算法基础课/ch2/DataStructure"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "category",
+                        "label": "ch3",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "Algorithm/Acwing算法基础课/ch3/readme"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "category",
+                        "label": "ch5",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "Algorithm/Acwing算法基础课/ch5/闫式dp分析"
+                          }
+                        ]
+                      }
+                    ]
+                  },
                   {
                     "type": "category",
                     "label": "蓝桥杯历年真题",
@@ -2602,6 +2749,18 @@
               },
               {
                 "type": "category",
+                "label": "计算机网络",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Courses/计算机网络/杂记"
+                  }
+                ]
+              },
+              {
+                "type": "category",
                 "label": "大数据分析和原理",
                 "collapsible": true,
                 "collapsed": true,
@@ -2724,6 +2883,62 @@
               }
             ],
             "Algorithm": [
+              {
+                "type": "category",
+                "label": "Acwing算法基础课",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "ch1",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Algorithm/Acwing算法基础课/ch1/BasicAlgorithm"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "ch2",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Algorithm/Acwing算法基础课/ch2/DataStructure"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "ch3",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Algorithm/Acwing算法基础课/ch3/readme"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "ch5",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Algorithm/Acwing算法基础课/ch5/闫式dp分析"
+                      }
+                    ]
+                  }
+                ]
+              },
               {
                 "type": "category",
                 "label": "蓝桥杯历年真题",
@@ -3057,4 +3272,4 @@
   "docusaurus-theme-search-algolia": {
     "default": null
   }
-}                                                                                                                                                                                                                                         
+}
