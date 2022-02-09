@@ -28,7 +28,8 @@ const config = {
           // Please change this to your repo.
           editUrl: 'https://github.com/PommesPeter/memo.pommespeter.space',
           remarkPlugins: [math],
-          rehypePlugins: [katex]
+          rehypePlugins: [katex],
+          showLastUpdateTime: true,
         },
         blog: {
           showReadingTime: true,
@@ -49,7 +50,11 @@ const config = {
       integrity:
         'sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM',
       crossorigin: 'anonymous',
+      strict: false
     },
+  ],
+  themes: [
+    '@docusaurus/theme-live-codeblock'
   ],
 
   themeConfig:
@@ -97,6 +102,7 @@ const config = {
             position: 'left'
           },
           {
+            to: '/about',
             label: 'About',
             position: 'right',
             items: [
@@ -106,7 +112,7 @@ const config = {
               },
               {
                 label: 'Links',
-                to: '/blog/links',
+                to: '/links',
               },
               {
                 href: 'https://github.com/PommesPeter',
@@ -171,7 +177,11 @@ const config = {
         // Public API key: it is safe to commit it
         apiKey: 'fb888f5f56d5285cd5121df9393ab3c7',
         indexName: 'pommespeter',
-      }
+      },
+      i18n: {
+        defaultLocale: "zh-CN",
+        locales: ["zh-CN"],
+      },
     }),
 };
 
