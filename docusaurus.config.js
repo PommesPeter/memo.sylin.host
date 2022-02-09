@@ -14,7 +14,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/bitbug_favicon.ico',
   organizationName: 'PommesPeter', // Usually your GitHub org/user name.
   projectName: 'memo.pommespeter.space', // Usually your repo name.
 
