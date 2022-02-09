@@ -143,7 +143,7 @@ const config = {
               },
               {
                 label: "GUET CS Technical Association",
-                href: "https://github.com/PommesPeter",
+                href: "https://github.com/sanyuankexie",
               },
               {
                 label: "CSDN Blog",
