@@ -65,7 +65,7 @@ const config = {
         title: "PommesPeter's Memo",
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/pommespeter-favicon-32x32.png',
         },
         items: [
           {
