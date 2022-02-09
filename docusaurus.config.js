@@ -9,7 +9,7 @@ const katex = require('rehype-katex');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "PommesPeter's Memo",
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Life as CVer, developer, and developer',
   url: 'https://memo.pommespeter.space',
   baseUrl: '/',
   onBrokenLinks: 'throw',
