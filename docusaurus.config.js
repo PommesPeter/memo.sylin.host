@@ -26,7 +26,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'github.com/PommesPeter/memo.pommespeter.space/edit/master',
+          editUrl: 'https://github.com/PommesPeter/memo.pommespeter.space/edit/master',
           remarkPlugins: [math],
           rehypePlugins: [katex],
           showLastUpdateTime: true,
@@ -35,7 +35,7 @@ const config = {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'github.com/PommesPeter/memo.pommespeter.space/edit/master',
+            'https://github.com/PommesPeter/memo.pommespeter.space/edit/master',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -178,7 +178,7 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
-        additionalLanguages: ['powershell', 'java', 'cs', 'php'],
+        additionalLanguages: ['toml', 'yaml', 'scala', 'ruby', 'rust', 'latex', 'less', 'csv', 'go', 'docker', 'lua', 'r', 'powershell', 'java', 'cs', 'php', 'python', 'javascript', 'bash', 'sql', 'html', 'css', 'scss', 'typescript', 'json', 'yaml', 'markdown', 'matlab'],
       },
       algolia: {
         // The application ID provided by Algolia
