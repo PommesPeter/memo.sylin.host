@@ -26,7 +26,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/PommesPeter/memo.pommespeter.space',
+          editUrl: 'github.com/PommesPeter/memo.pommespeter.space/edit/master',
           remarkPlugins: [math],
           rehypePlugins: [katex],
           showLastUpdateTime: true,
@@ -35,7 +35,7 @@ const config = {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/PommesPeter/memo.pommespeter.space',
+            'github.com/PommesPeter/memo.pommespeter.space/edit/master',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
