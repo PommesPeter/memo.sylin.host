@@ -52,3 +52,12 @@ html[data-theme='dark'] {
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
+
+code {
+  font-family: MesloLGM Nerd Font Mono, source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace !important;
+  line-height: 1.5rem !important;
+}
+
+html {
+  font-family: "Noto Sans CJK SC", "思源黑体 CN";
+}
