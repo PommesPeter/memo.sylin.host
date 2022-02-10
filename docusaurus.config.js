@@ -130,7 +130,7 @@ const config = {
             items: [
               {
                 label: 'Courses Notes',
-                to: '/docs/Courses',
+                to: '/docs/Courses/面向对象程序设计/类-继承-多态',
               },
             ],
           },
