@@ -1,7 +1,7 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
+const lightCodeTheme = require('prism-react-renderer/themes/okaidia');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const math = require('remark-math');
 const katex = require('rehype-katex');
@@ -178,7 +178,7 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
-        additionalLanguages: ['toml', 'yaml', 'scala', 'ruby', 'rust', 'latex', 'less', 'csv', 'go', 'docker', 'lua', 'r', 'powershell', 'java', 'cs', 'php', 'python', 'javascript', 'bash', 'sql', 'html', 'css', 'scss', 'typescript', 'json', 'yaml', 'markdown', 'matlab'],
+        additionalLanguages: ['toml', 'yaml', 'ruby', 'rust', 'latex', 'less', 'csv', 'go', 'docker', 'lua', 'r', 'powershell', 'java', 'php', 'python', 'javascript', 'bash', 'sql', 'css', 'scss', 'typescript', 'json', 'yaml', 'markdown', 'matlab'],
       },
       algolia: {
         // The application ID provided by Algolia
