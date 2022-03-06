@@ -58,7 +58,13 @@ code {
   line-height: 1.5rem !important;
 }
 
+@font-face {
+  font-family: "HYWenHei85W";
+  src: url("../assets/fonts/hk4e_zh-cn.ttf");
+}
+
 html {
   /* font-family: "Noto Sans CJK SC", "思源黑体 CN"; */
-  font-family: "HYWenHei 85W Regular";
+  /* font-family: "HYWenHei 85W Regular"; */
+  font-family: "HYWenHei85W";
 }
