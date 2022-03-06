@@ -173,7 +173,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © 2022-${new Date().getFullYear()} Pommespeter. Built with <a href='https://github.com/facebook/Docusaurus'>Docusaurus</a>.`,
+        copyright: `Copyright © 2022-${new Date().getFullYear()} PommesPeter. Built with <a href='https://github.com/facebook/Docusaurus'>Docusaurus</a>.`,
       },
       prism: {
         theme: lightCodeTheme,
