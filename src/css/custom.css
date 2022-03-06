@@ -58,6 +58,7 @@ code {
   line-height: 1.5rem !important;
 }
 
-/* html {
-  font-family: "Noto Sans CJK SC", "思源黑体 CN";
-} */
+html {
+  /* font-family: "Noto Sans CJK SC", "思源黑体 CN"; */
+  font-family: "HYWenHei 85W Regular";
+}
