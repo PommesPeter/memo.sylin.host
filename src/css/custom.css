@@ -192,3 +192,11 @@ html {
   padding: 20px;
   margin-bottom: 20px !important;
 }
+
+.blog-list-page article .markdown h2 {
+  font-size: 26px;
+}
+
+.blog-list-page article > header > h2 {
+  font-size: 30px;
+}
