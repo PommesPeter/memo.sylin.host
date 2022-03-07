@@ -102,6 +102,8 @@ html {
 .friend-card-outer {
   position: relative;
   max-width: 350px;
+  border: #0e00f8 solid 1px;
+  border-radius: 12px;
 }
 
 .friend-card {
