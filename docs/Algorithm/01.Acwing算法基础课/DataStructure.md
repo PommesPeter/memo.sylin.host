@@ -329,4 +329,4 @@ void up(int u) {
 - deque，双端队列
 - set，map，multiset，multimap，基于平衡二叉树（红黑树〉，动态维护有序序列
 - unordered_set，unordered_map，unordered_multiset，unordered_multimap，哈希表
-- bitset，压位，将字节存储转换为按位存储
+- bitset，压位，将字节存储转换为按位存储。
