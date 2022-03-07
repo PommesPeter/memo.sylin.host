@@ -25,7 +25,8 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "rehype-katex": "5",
-    "remark-math": "3"
+    "remark-math": "3",
+    "array-shuffle": "^3.0.0"
   },
   "browserslist": {
     "production": [
