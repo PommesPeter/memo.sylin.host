@@ -74,7 +74,7 @@ var friendsData: FriendData[] = [
     gitName: "VisualDust",
     intro: "Rubbish CVer | Poor LaTex speaker | Half stack developer | 键圈躺尸砖家",
     url: "https://focus.visualdust.space/",
-    note: "家喻户晓的工具箱，好像能解决99.9%的问题。我们喜欢找他和他的工具解决问题。",
+    note: "科协F4的成员。家喻户晓的工具箱，好像能解决99.9%的问题。我们喜欢找他和他的工具解决问题。",
   },
   {
     pic: githubPic("Fly-Pluche"),
