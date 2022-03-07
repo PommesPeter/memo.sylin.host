@@ -200,3 +200,8 @@ html {
 .blog-list-page article > header > h2 {
   font-size: 30px;
 }
+
+.user-profile-icon {
+  float: right;
+  margin-right: 6px;
+}
