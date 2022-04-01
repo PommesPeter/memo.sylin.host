@@ -96,7 +96,7 @@ const config = {
             position: 'left'
           },
           {
-            to: '/docs/Algorithm/Acwing算法基础课/BasicAlgorithm',
+            to: '/docs/Algorithm/Acwing/算法基础课/BasicAlgorithm',
             activeBasePath: '/docs/Algorithm',
             label: 'Algorithm',
             position: 'left'
