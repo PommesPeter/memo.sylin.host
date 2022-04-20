@@ -84,7 +84,7 @@ const config = {
             position: 'left',
           },
           {
-            to: '/docs/DeepLearning/科研方法/如何读论文',
+            to: '/docs/DeepLearning/CS231N计算机视觉/计算机视觉历史',
             activeBasePath: '/docs/DeepLearning',
             label: 'DeepLearning',
             position: 'left'
