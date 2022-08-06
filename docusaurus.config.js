@@ -84,7 +84,7 @@ const config = {
             position: 'left',
           },
           {
-            to: '/docs/DeepLearning/深度学习基础/CS231N计算机视觉/knn与线性分类器',
+            to: '/docs/DeepLearning/DeepLearning技术/StanfordCourses/CS231N计算机视觉/knn与线性分类器',
             activeBasePath: '/docs/DeepLearning',
             label: 'DeepLearning',
             position: 'left'
