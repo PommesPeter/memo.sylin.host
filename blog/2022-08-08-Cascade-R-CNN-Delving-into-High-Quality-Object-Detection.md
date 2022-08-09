@@ -1,5 +1,5 @@
 ---
-title: Cascade R-CNN: Delving into High Quality Object Detection
+title: Cascade R-CNN：Delving into High Quality Object Detection
 authors: [peter]
 tags: [Science, Paper, DeepLearning]
 ---
@@ -208,9 +208,9 @@ $$
 
 三个baseline检测器：
 
-1. Faster-RCNN：VGG作主干网；原始 frcnn 中 2nd-stage 的 Fast RCNN 有连个 fc 层，本文做了精简以减少参数数量，每个 fc 层输入 2048 个单元，无 dropout，128 RoIs / images；
-2. R-FCN：ResNet作主干网；R-FCN 基于 ResNet 使用全卷积操作完成 分类 + bbox回归（Cascade RCNN 的 head 与之保持一致），无 OHEM，256 RoIs / images；
-3. FPN：ResNet作主干网；使用了 RoIAlign，实验中表示为 FPN+，主干网 ResNet-50 用于消融实验，最终预测使用 ResNet-101，256 RoIs / images；
+1. Faster-RCNN：VGG 作主干网；原始 frcnn 中 2nd-stage 的 Fast RCNN 有连个 fc 层，本文做了精简以减少参数数量，每个 fc 层输入 2048 个单元，无 dropout，128 RoIs / images；
+2. R-FCN：ResNet 作主干网；R-FCN 基于 ResNet 使用全卷积操作完成 分类 + bbox回归（Cascade RCNN 的 head 与之保持一致），无 OHEM，256 RoIs / images；
+3. FPN：ResNet 作主干网；使用了 RoIAlign，实验中表示为 FPN+，主干网 ResNet-50 用于消融实验，最终预测使用 ResNet-101，256 RoIs / images；
 
 都使用原论文中默认训练参数，采用end2end训练；
 
@@ -269,9 +269,9 @@ table 2 为针对 stage 的消融实验，可以发现仅融合 1st-stage 性能
 
 ![image-20220809164702200](src/2022-08-08-Cascade-R-CNN-Delving-into-High-Quality-Object-Detection/image-20220809164702200.png)
 
-row 1：baseline版Cascade RCNN，所有检测分支的head使用同样IoU下收集的样本训练，各个stage的差异就仅体现在输入hypotheses的差异上（参照fig 1(c)、fig 2，各个stage输入还是有区别的，但大致与fig 2中一致）；但从row 1中可以看到，尽管各个分支在同IoU下收集的样本，但cascade结构还是提升了baseline性能，充分证明了cascade结构之优越性；
+row 1：baseline 版 Cascade RCNN，所有检测分支的 head 使用同样 IoU 下收集的样本训练，各个 stage 的差异就仅体现在输入 hypotheses 的差异上（参照 fig 1(c)、fig 2，各个 stage 输入还是有区别的，但大致与 fig 2 中一致）；但从 row 1 中可以看到，尽管各个分支在同 IoU 下收集的样本，但cascade结构还是提升了 baseline 性能，充分证明了 cascade 结构之优越性；
 
-row 2：通过进阶提升IoU阈值 u 的方式，各个分支可以获得更多的close FP用于训练，进而可以提升更多的检测精度，结果与4.2小节分析保持一致；
+row 2：通过进阶提升 IoU 阈值 u 的方式，各个分支可以获得更多的 close FP 用于训练，进而可以提升更多的检测精度，结果与 4.2 小节分析保持一致；
 
 **Regression Statistics**
 
