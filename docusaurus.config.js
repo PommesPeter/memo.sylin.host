@@ -102,6 +102,12 @@ const config = {
             position: 'left'
           },
           {
+            to: '/docs/DeepLearning/PaperReading/Cascade-R-CNN-Delving-into-High-Quality-Object-Detection',
+            activeBasePath: '/docs/DeepLearning',
+            label: 'PaperLogs',
+            position: 'left'
+          },
+          {
             to: '/about',
             label: 'About',
             position: 'right',
