@@ -103,7 +103,7 @@ const config = {
           },
           {
             to: '/docs/DeepLearning/PaperReading/Cascade-R-CNN-Delving-into-High-Quality-Object-Detection',
-            activeBasePath: '/docs/DeepLearning',
+            activeBasePath: '/docs/DeepLearning/PaperReading',
             label: 'PaperLogs',
             position: 'left'
           },
@@ -170,7 +170,7 @@ const config = {
               },
               {
                 label: 'Blog Repo',
-                href: 'https://github.com/PommesPeter',
+                href: 'https://github.com/PommesPeter/memo.pommespeter.space',
               },
               {
                 label: "About me",
