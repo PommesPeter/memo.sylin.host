@@ -102,7 +102,7 @@ const config = {
             position: 'left'
           },
           {
-            to: '/docs/DeepLearning/PaperReading/Cascade-R-CNN-Delving-into-High-Quality-Object-Detection',
+            to: '/docs/DeepLearning/PaperReading/场景图生成/Resistance-Training-using-Prior-Bias-toward-Unbiase-Scene-Graph-Generation.md"',
             activeBasePath: '/docs/PaperReading',
             label: 'PaperLogs',
             position: 'left'
