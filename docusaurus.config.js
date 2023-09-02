@@ -102,7 +102,7 @@ const config = {
             position: 'left'
           },
           {
-            to: '/docs/DeepLearning/PaperReading/场景图生成/Resistance-Training-using-Prior-Bias-toward-Unbiase-Scene-Graph-Generation.md"',
+            to: '/docs/DeepLearning/PaperReading/Attention/attention-is-all-you-need',
             activeBasePath: '/docs/PaperReading',
             label: 'PaperLogs',
             position: 'left'
