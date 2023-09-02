@@ -63,14 +63,14 @@ code {
   src: url("../assets/fonts/hk4e_zh-cn.ttf");
 } */
 
-html {
+/* html {
   /* font-family: "Noto Sans CJK SC", "思源黑体 CN"; */
   /* font-family: "IBM Plex Serif", "思源黑体 CN"; */
-  font-family: "Noto Sans CJK SC";
+  /* font-family: "Noto Sans CJK SC"; */
   /* font-family: "HYWenHei 85W Regular"; */
   /* font-family: "HYWenHei85W"; */
-  font-size: 16px;
-}
+  /* font-size: 16px; */
+/* } */
 
 .friend-item {
   user-select: none;
@@ -207,4 +207,29 @@ html {
 .user-profile-icon {
   float: right;
   margin-right: 6px;
+}
+
+.blog-list-page article {
+  box-shadow: 3px 3px 10px #7777;
+  border-radius: 19px;
+  padding: 20px;
+  margin-bottom: 20px !important;
+}
+
+.blog-list-page article .markdown h2 {
+  font-size: 26px;
+}
+
+.blog-list-page article > header > h2 {
+  font-size: 30px;
+}
+
+.blog-list-page main {
+  --ifm-col-width: calc(9 / 12 * 100%)!important;
+}
+
+@media (max-width: 996px) {
+  .blog-list-page main {
+    --ifm-col-width: 100%!important;
+  }
 }

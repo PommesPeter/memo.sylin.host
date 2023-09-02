@@ -1,0 +1,18 @@
+---
+title: Prior Bias for Unbiased Scene Graph Generation
+authors: [peter]
+tags: [SceneGraphGeneration]
+---
+
+import SumCard from '@site/src/components/SumCard';
+
+<SumCard 
+    title="Resistance Training using Prior Bias: toward Unbiased Scene Graph Generation" 
+    authors="Chao Chen / Yibing Zhan / Baosheng Yu / Liu Liu / Yong Luo / Bo Du"
+    abstract="Scene Graph Generation (SGG) aims to build a structured representation of ascene using objects and pairwise relationships, which benefits downstreamtasks. However, current SGG methods usually suffer from sub-optimal scene graphgeneration because of the long-tailed distribution of training data. To addressthis problem, we propose Resistance Training using Prior Bias (RTPB) for thescene graph generation. Specifically, RTPB uses a distributed-based prior biasto improve models' detecting ability on less frequent relationships duringtraining, thus improving the model generalizability on tail categories. Inaddition, to further explore the contextual information of objects andrelationships, we design a contextual encoding backbone network, termed as DualTransformer (DTrans). We perform extensive experiments on a very popularbenchmark, VG150, to demonstrate the effectiveness of our method for theunbiased scene graph generation. In specific, our RTPB achieves an improvementof over 10% under the mean recall when applied to current SGG methods.Furthermore, DTrans with RTPB outperforms nearly all state-of-the-art methodswith a large margin."
+    url="http://arxiv.org/abs/2201.06794"/>
+
+## Motivation
+
+- 使用 resistance bias 为了加强联系关联性差距比较大的两个关系的能力
+- 使用 dual Transformer 加强对于关系的识别的全局上下文的特征，使得编码器编码的特征信息更充分

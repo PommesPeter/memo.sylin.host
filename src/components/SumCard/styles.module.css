@@ -1,0 +1,37 @@
+.title {
+    color: black;
+}
+
+.title:hover {
+    color: black;
+}
+
+.authors {
+    color: gray;
+}
+
+.abstract {
+    font-size: small;
+}
+
+.sumcard_container {
+
+}
+
+.sumcard_title_container {
+    border-top: 1px solid #ededee;
+    border-left: 1px solid #ededee;
+    border-right: 1px solid #ededee;
+    padding: 1em;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    
+}
+
+.sumcard_abstract_container {
+    border: 1px solid #ededee;
+    flex: content;
+    padding: 1em;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+}

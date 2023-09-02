@@ -36,6 +36,9 @@ const config = {
           // Please change this to your repo.
           editUrl:
             'https://github.com/PommesPeter/memo.pommespeter.space/edit/master',
+          showReadingTime: true, // When set to false, the "x min read" won't be shown
+          readingTime: ({content, frontMatter, defaultReadingTime}) =>
+              defaultReadingTime({content, options: {wordsPerMinute: 300}}),
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -78,11 +81,11 @@ const config = {
           //   position: 'left',
           //   label: 'Docs',
           // },
-          {
-            to: '/docs/tags',
-            label: 'Tags',
-            position: 'left',
-          },
+          // {
+          //   to: '/docs/tags',
+          //   label: 'Tags',
+          //   position: 'left',
+          // },
           {
             to: '/docs/DeepLearning/DLThings/StanfordCourses/CS231N计算机视觉/knn与线性分类器',
             activeBasePath: '/docs/DeepLearning',
@@ -108,23 +111,29 @@ const config = {
             position: 'left'
           },
           {
+            label: 'Some Friends',
+            to: '/links',
+            position: 'right',
+          },
+          {
             to: '/about',
             label: 'About',
             position: 'right',
-            items: [
-              {
-                label: 'Archive',
-                to: '/blog/archive',
-              },
-              {
-                label: 'Links',
-                to: '/links',
-              },
-              {
-                href: 'https://github.com/PommesPeter',
-                label: 'GitHub',
-              }
-            ]
+            // items: [
+            //   // {
+            //     // label: 'Archive',
+            //     // to: '/blog/archive',
+            //   // },
+            //   {
+            //     label: 'Links',
+            //     to: '/links',
+            //   },
+            // ]
+          },
+          {
+            href: 'https://github.com/PommesPeter',
+            label: 'GitHub',
+            position: 'right',
           }
         ],
       },
@@ -186,13 +195,13 @@ const config = {
         darkTheme: darkCodeTheme,
         additionalLanguages: ['toml', 'yaml', 'ruby', 'rust', 'latex', 'less', 'csv', 'go', 'docker', 'lua', 'r', 'powershell', 'java', 'php', 'python', 'javascript', 'bash', 'sql', 'css', 'scss', 'typescript', 'json', 'yaml', 'markdown', 'matlab'],
       },
-      algolia: {
-        // The application ID provided by Algolia
-        appId: 'AJZBN8BFEV',
-        // Public API key: it is safe to commit it
-        apiKey: 'fb888f5f56d5285cd5121df9393ab3c7',
-        indexName: 'pommespeter',
-      },
+      // algolia: {
+      //   // The application ID provided by Algolia
+      //   appId: 'AJZBN8BFEV',
+      //   // Public API key: it is safe to commit it
+      //   apiKey: 'fb888f5f56d5285cd5121df9393ab3c7',
+      //   indexName: 'pommespeter',
+      // },
       i18n: {
         defaultLocale: "zh-CN",
         locales: ["zh-CN"],
