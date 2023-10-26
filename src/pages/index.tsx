@@ -6,6 +6,9 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '../components/HomepageFeatures';
 
+import { inject } from '@vercel/analytics';
+inject();
+
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
@@ -29,7 +32,8 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      // title={`${siteConfig.title}`}
+      title={`Blessed with Good Gradient`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
