@@ -1,6 +1,6 @@
 {
   "name": "memo-pommespeter-space",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
@@ -34,7 +34,6 @@
     "react-dom": "^17.0.1",
     "rehype-katex": "5",
     "remark-math": "3",
-    "yarn": "^1.22.17",
     "@vercel/analytics": "^0.1.9"
   },
   "browserslist": {

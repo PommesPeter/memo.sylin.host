@@ -87,7 +87,7 @@ const config = {
           //   position: 'left',
           // },
           {
-            to: '/docs/DeepLearning/DLThings/StanfordCourses/CS231N计算机视觉/knn与线性分类器',
+            to: '/docs/DeepLearning/基础知识/课程学习/StanfordCourses/CS231N计算机视觉/knn与线性分类器',
             activeBasePath: '/docs/DeepLearning',
             label: 'DeepLearning',
             position: 'left'
@@ -104,12 +104,12 @@ const config = {
             label: 'Algorithm',
             position: 'left'
           },
-          {
-            to: '/docs/DeepLearning/PaperReading/Attention/attention-is-all-you-need',
-            activeBasePath: '/docs/PaperReading',
-            label: 'PaperLogs',
-            position: 'left'
-          },
+          // {
+          //   to: '/docs/DeepLearning/PaperReading/Attention/attention-is-all-you-need',
+          //   activeBasePath: '/docs/PaperReading',
+          //   label: 'PaperLogs',
+          //   position: 'left'
+          // },
           {
             label: 'Some Friends',
             to: '/links',
