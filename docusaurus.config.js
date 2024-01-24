@@ -188,7 +188,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © 2022-${new Date().getFullYear()} PommesPeter. Built with <a href='https://github.com/facebook/Docusaurus'>Docusaurus</a>.`,
+        copyright: `Copyright © 2022-${new Date().getFullYear()} PommesPeter. | <a href='https://beian.miit.gov.cn'>桂ICP备2024019864号</a>`,
       },
       prism: {
         theme: lightCodeTheme,
